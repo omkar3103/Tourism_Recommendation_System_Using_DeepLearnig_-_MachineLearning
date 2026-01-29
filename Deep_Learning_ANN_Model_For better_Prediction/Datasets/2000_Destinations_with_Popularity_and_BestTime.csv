@@ -1,0 +1,2001 @@
+destinationId,destinationName,city,state,category,rating,Popularity,BestTimeToVisit
+1,Taj Mahal,Agra,Uttar Pradesh,Historical,4.9,7.6179,Oct-Mar
+2,Red Fort,Delhi,Delhi,Historical,4.6,9.3525,Oct-Mar
+3,Golden Temple,Amritsar,Punjab,Religious,4.8,8.694,Oct-Mar
+4,Amer Fort,Jaipur,Rajasthan,Historical,4.7,8.2926,Oct-Mar
+5,Hawa Mahal,Jaipur,Rajasthan,Historical,4.5,6.96,Oct-Mar
+6,Humayun's Tomb,Delhi,Delhi,Historical,4.6,6.9599,Oct-Mar
+7,Qutub Minar,Delhi,Delhi,Historical,4.5,6.6652,Oct-Mar
+8,Mysore Palace,Mysore,Karnataka,Historical,4.7,9.098,Oct-Mar
+9,India Gate,Delhi,Delhi,Historical,4.6,8.3,Oct-Mar
+10,Gateway of India,Mumbai,Maharashtra,Historical,4.6,8.622,Oct-Mar
+11,Ajanta Caves,Aurangabad,Maharashtra,Historical,4.6,6.5523,Oct-Mar
+12,Ellora Caves,Aurangabad,Maharashtra,Historical,4.7,9.4103,Oct-Mar
+13,Meenakshi Amman Temple,Madurai,Tamil Nadu,Religious,4.8,8.9964,Oct-Mar
+14,Konark Sun Temple,Konark,Odisha,Historical,4.7,7.1296,Oct-Mar
+15,Jagannath Temple,Puri,Odisha,Religious,4.8,7.0377,Oct-Mar
+16,Statue of Unity,Kevadia,Gujarat,Historical,4.8,7.0425,Oct-Mar
+17,Hampi Monuments,Hampi,Karnataka,Historical,4.8,7.4062,Oct-Mar
+18,Brihadeeswara Temple,Thanjavur,Tamil Nadu,Religious,4.8,8.0701,Oct-Mar
+19,Charminar,Hyderabad,Telangana,Historical,4.4,7.7907,Oct-Mar
+20,Golconda Fort,Hyderabad,Telangana,Historical,4.5,7.3671,Oct-Mar
+21,Dal Lake,Srinagar,Jammu & Kashmir,Nature,4.6,8.3323,Jul-Sep
+22,Pangong Lake,Leh,Ladakh,Nature,4.8,6.9103,Jul-Sep
+23,Alleppey Backwaters,Alappuzha,Kerala,Nature,4.5,7.3698,Jul-Sep
+24,Munnar Tea Gardens,Munnar,Kerala,Nature,4.7,7.5933,Jul-Sep
+25,Kaziranga National Park,Kanchanjuri,Assam,Nature,4.6,7.8633,Jul-Sep
+26,Jim Corbett National Park,Ramnagar,Uttarakhand,Nature,4.4,8.8541,Jul-Sep
+27,Ranthambore National Park,Sawai Madhopur,Rajasthan,Nature,4.5,7.0914,Jul-Sep
+28,Valley of Flowers,Chamoli,Uttarakhand,Nature,4.7,8.0384,Jul-Sep
+29,Rohtang Pass,Manali,Himachal Pradesh,Adventure,4.6,8.2738,Apr-Jun
+30,Badrinath Temple,Badrinath,Uttarakhand,Religious,4.8,6.6302,Oct-Mar
+31,Kedarnath Temple,Kedarnath,Uttarakhand,Religious,4.9,8.3193,Oct-Mar
+32,Somnath Temple,Veraval,Gujarat,Religious,4.8,7.0037,Oct-Mar
+33,Dwarkadhish Temple,Dwarka,Gujarat,Religious,4.8,6.6862,Oct-Mar
+34,Rani Ki Vav,Patan,Gujarat,Historical,4.7,9.347,Oct-Mar
+35,Sanchi Stupa,Sanchi,Madhya Pradesh,Historical,4.6,9.3974,Oct-Mar
+36,Khajuraho Temples,Khajuraho,Madhya Pradesh,Historical,4.6,8.924,Oct-Mar
+37,Victoria Memorial,Kolkata,West Bengal,Historical,4.6,7.4074,Oct-Mar
+38,Cellular Jail,Port Blair,Andaman & Nicobar,Historical,4.7,6.7844,Oct-Mar
+39,Mahabodhi Temple,Bodh Gaya,Bihar,Religious,4.8,8.5502,Oct-Mar
+40,Nalanda University Ruins,Nalanda,Bihar,Historical,4.6,7.8154,Oct-Mar
+41,Sarnath Buddhist Site,Varanasi,Uttar Pradesh,Religious,4.6,6.8577,Oct-Mar
+42,Kashi Vishwanath Temple,Varanasi,Uttar Pradesh,Religious,4.7,7.9811,Oct-Mar
+43,Marina Beach,Chennai,Tamil Nadu,Beach,4.3,6.5938,Mar-Jun
+44,Ooty Lake,Ooty,Tamil Nadu,Nature,4.1,9.2279,Jul-Sep
+45,Kodaikanal Lake,Kodaikanal,Tamil Nadu,Nature,4.4,7.2694,Jul-Sep
+46,Coorg Coffee Estates,Madikeri,Karnataka,Nature,4.6,8.4849,Jul-Sep
+47,Jog Falls,Sagara,Karnataka,Nature,4.6,7.4287,Jul-Sep
+48,Shirdi Sai Baba Temple,Shirdi,Maharashtra,Religious,4.7,8.056,Oct-Mar
+49,Elephanta Caves,Mumbai,Maharashtra,Historical,4.4,8.1362,Oct-Mar
+50,Sabarmati Ashram,Ahmedabad,Gujarat,Historical,4.7,7.0468,Oct-Mar
+51,Rann of Kutch,Dhordo,Gujarat,Nature,4.6,9.4093,Jul-Sep
+52,Gir National Park,Junagadh,Gujarat,Nature,4.5,8.8239,Jul-Sep
+53,Basilica of Bom Jesus,Old Goa,Goa,Religious,4.6,9.3187,Oct-Mar
+54,Dudhsagar Falls,Sanguem,Goa,Nature,4.5,9.1842,Jul-Sep
+55,Palolem Beach,Canacona,Goa,Beach,4.5,8.2903,Mar-Jun
+56,Tirumala Venkateswara,Tirupati,Andhra Pradesh,Religious,4.8,9.2656,Oct-Mar
+57,Araku Valley,Visakhapatnam,Andhra Pradesh,Nature,4.5,6.7567,Jul-Sep
+58,Borra Caves,Ananthagiri,Andhra Pradesh,Nature,4.5,7.0803,Jul-Sep
+59,Sundarbans National Park,Gosaba,West Bengal,Nature,4.4,6.6265,Jul-Sep
+60,Darjeeling Railway,Darjeeling,West Bengal,Historical,4.6,7.4697,Oct-Mar
+61,Tawang Monastery,Tawang,Arunachal Pradesh,Religious,4.8,7.6604,Oct-Mar
+62,Living Root Bridges,Cherrapunji,Meghalaya,Nature,4.8,7.3072,Jul-Sep
+63,Har Ki Pauri,Haridwar,Uttarakhand,Religious,4.7,8.9853,Oct-Mar
+64,Lakshman Jhula,Rishikesh,Uttarakhand,Historical,4.5,7.5643,Oct-Mar
+65,Naini Lake,Nainital,Uttarakhand,Nature,4.5,7.3361,Jul-Sep
+66,Wagah Border,Amritsar,Punjab,Historical,4.8,8.1241,Oct-Mar
+67,Jallianwala Bagh,Amritsar,Punjab,Historical,4.6,6.9146,Oct-Mar
+68,Rock Garden,Chandigarh,Chandigarh,Nature,4.5,8.9054,Jul-Sep
+69,Fort Kochi,Kochi,Kerala,Historical,4.4,6.7147,Oct-Mar
+70,Varkala Cliff,Varkala,Kerala,Beach,4.6,9.4614,Mar-Jun
+71,Clive's House,Chennai,Tamil Nadu,Historical,4.2,8.8152,Oct-Mar
+72,King's Barracks,Chennai,Tamil Nadu,Historical,4.1,7.0886,Oct-Mar
+73,St. Mary's Church,Chennai,Tamil Nadu,Religious,4.3,6.5069,Oct-Mar
+74,Gingee Fort,Villupuram,Tamil Nadu,Historical,4.6,8.9453,Oct-Mar
+75,Rajagiri Hill,Gingee,Tamil Nadu,Historical,4.5,8.6183,Oct-Mar
+76,Krishnagiri Fort,Gingee,Tamil Nadu,Historical,4.4,8.685,Oct-Mar
+77,Venkataramana Temple,Gingee,Tamil Nadu,Religious,4.5,8.8123,Oct-Mar
+78,Dutch Cemetery,Pulicat,Tamil Nadu,Historical,4.0,6.7132,Oct-Mar
+79,Kailasanatha Temple,Kanchipuram,Tamil Nadu,Religious,4.7,7.5695,Oct-Mar
+80,Vaikuntaperumal Temple,Kanchipuram,Tamil Nadu,Religious,4.6,6.8391,Oct-Mar
+81,Tipu Sultan Palace,Bengaluru,Karnataka,Historical,4.3,9.0887,Oct-Mar
+82,Devanahalli Fort,Devanahalli,Karnataka,Historical,4.2,8.3668,Oct-Mar
+83,Gol Gumbaz,Bijapur,Karnataka,Historical,4.5,7.4865,Oct-Mar
+84,Srirangapatna Fort,Srirangapatna,Karnataka,Historical,4.4,6.6817,Oct-Mar
+85,Daria Daulat Bagh,Srirangapatna,Karnataka,Historical,4.5,7.4265,Oct-Mar
+86,Halebidu Temple,Hassan,Karnataka,Religious,4.7,7.4693,Oct-Mar
+87,Belur Temple,Hassan,Karnataka,Religious,4.8,8.6868,Oct-Mar
+88,Badami Caves,Badami,Karnataka,Historical,4.7,8.4097,Oct-Mar
+89,Pattadakal Group,Pattadakal,Karnataka,Historical,4.8,9.1613,Oct-Mar
+90,Aihole Temples,Aihole,Karnataka,Historical,4.6,7.9119,Oct-Mar
+91,Daulatabad Fort,Aurangabad,Maharashtra,Historical,4.5,6.8504,Oct-Mar
+92,Lonar Lake,Buldhana,Maharashtra,Nature,4.6,8.6376,Jul-Sep
+93,Shivneri Fort,Junnar,Maharashtra,Historical,4.6,8.7807,Oct-Mar
+94,Bassein Fort,Vasai,Maharashtra,Historical,4.1,8.1801,Oct-Mar
+95,Bibi Ka Maqbara,Aurangabad,Maharashtra,Historical,4.4,8.8113,Oct-Mar
+96,Sun Temple,Modhera,Gujarat,Historical,4.7,7.9769,Oct-Mar
+97,Manjarabad Fort,Sakleshpur,Karnataka,Historical,4.4,8.064,Oct-Mar
+98,Sarkhej Roja,Ahmedabad,Gujarat,Religious,4.5,7.7774,Oct-Mar
+99,Champaner Fort,Pavagadh,Gujarat,Historical,4.6,6.5668,Oct-Mar
+100,Surya Pahar,Goalpara,Assam,Religious,4.3,6.8151,Oct-Mar
+101,Bhangarh Fort,Alwar,Rajasthan,Historical,3.8,6.5849,Oct-Mar
+102,Fatehsagar Lake,Udaipur,Rajasthan,Nature,4.6,8.4062,Jul-Sep
+103,City Palace Udaipur,Udaipur,Rajasthan,Historical,4.7,7.4367,Oct-Mar
+104,Saheliyon Ki Bari,Udaipur,Rajasthan,Nature,4.2,8.0214,Jul-Sep
+105,Eklingji Temple,Udaipur,Rajasthan,Religious,4.5,9.2226,Oct-Mar
+106,Dilwara Temples,Mount Abu,Rajasthan,Religious,4.8,7.2408,Oct-Mar
+107,Nakki Lake,Mount Abu,Rajasthan,Nature,3.9,7.7258,Jul-Sep
+108,Guru Shikhar,Mount Abu,Rajasthan,Nature,4.3,8.7649,Jul-Sep
+109,Junagarh Fort,Bikaner,Rajasthan,Historical,4.6,7.1791,Oct-Mar
+110,Karni Mata Temple,Deshnok,Rajasthan,Religious,4.4,6.7221,Oct-Mar
+111,Pushkar Lake,Pushkar,Rajasthan,Religious,4.1,7.3626,Oct-Mar
+112,Brahma Temple,Pushkar,Rajasthan,Religious,4.3,6.9757,Oct-Mar
+113,Chittorgarh Fort,Chittorgarh,Rajasthan,Historical,4.8,9.2892,Oct-Mar
+114,Ranthambore Fort,Sawai Madhopur,Rajasthan,Historical,4.5,8.9232,Oct-Mar
+115,Bharatpur Bird Sanctuary,Bharatpur,Rajasthan,Nature,4.4,8.3972,Jul-Sep
+116,Deeg Palace,Bharatpur,Rajasthan,Historical,4.1,9.1139,Oct-Mar
+117,Taragarh Fort,Bundi,Rajasthan,Historical,4.2,8.9098,Oct-Mar
+118,Raniji Ki Baori,Bundi,Rajasthan,Historical,4.3,7.052,Oct-Mar
+119,Jaisalmer War Museum,Jaisalmer,Rajasthan,Historical,4.7,9.1774,Oct-Mar
+120,Sam Sand Dunes,Jaisalmer,Rajasthan,Adventure,4.5,8.114,Apr-Jun
+121,Patwon Ki Haveli,Jaisalmer,Rajasthan,Historical,4.4,8.9211,Oct-Mar
+122,Gadisar Lake,Jaisalmer,Rajasthan,Nature,4.2,9.188,Jul-Sep
+123,Kuldhara Village,Jaisalmer,Rajasthan,Historical,3.7,7.4477,Oct-Mar
+124,Jaswant Thada,Jodhpur,Rajasthan,Historical,4.5,6.8216,Oct-Mar
+125,Umaid Bhawan Palace,Jodhpur,Rajasthan,Historical,4.6,7.1765,Oct-Mar
+126,Mandore Gardens,Jodhpur,Rajasthan,Nature,4.0,7.7761,Jul-Sep
+127,Kaylana Lake,Jodhpur,Rajasthan,Nature,3.8,8.953,Jul-Sep
+128,Chand Baori Stepwell,Abhaneri,Rajasthan,Historical,4.7,9.0816,Oct-Mar
+129,Jaigarh Fort,Jaipur,Rajasthan,Historical,4.5,6.5112,Oct-Mar
+130,Nahargarh Fort,Jaipur,Rajasthan,Historical,4.4,8.0279,Oct-Mar
+131,Jantar Mantar,Jaipur,Rajasthan,Historical,4.6,7.7469,Oct-Mar
+132,Albert Hall Museum,Jaipur,Rajasthan,Historical,4.5,7.159,Oct-Mar
+133,Galta Ji Temple,Jaipur,Rajasthan,Religious,4.1,6.8512,Oct-Mar
+134,Birla Mandir,Jaipur,Rajasthan,Religious,4.6,7.5067,Oct-Mar
+135,Chokhi Dhani,Jaipur,Rajasthan,Culture,4.3,9.329,Oct-Mar
+136,Laxmi Vilas Palace,Vadodara,Gujarat,Historical,4.6,7.4633,Oct-Mar
+137,Sayaji Baug,Vadodara,Gujarat,Nature,4.2,8.0522,Jul-Sep
+138,Champaner-Pavagadh Park,Panchmahal,Gujarat,Historical,4.5,8.6068,Oct-Mar
+139,Sun Temple Modhera,Mehsana,Gujarat,Historical,4.7,7.585,Oct-Mar
+140,Adalaj Stepwell,Ahmedabad,Gujarat,Historical,4.6,9.4159,Oct-Mar
+141,Akshardham Temple,Gandhinagar,Gujarat,Religious,4.8,9.3878,Oct-Mar
+142,Science City,Ahmedabad,Gujarat,Education,4.4,7.2483,Oct-Mar
+143,Kankaria Lake,Ahmedabad,Gujarat,Nature,4.1,7.9873,Jul-Sep
+144,Sidi Saiyyed Mosque,Ahmedabad,Gujarat,Historical,4.5,7.3961,Oct-Mar
+145,Calico Museum of Textiles,Ahmedabad,Gujarat,Culture,4.3,7.3478,Oct-Mar
+146,Lothal Ruins,Saragwala,Gujarat,Historical,4.2,6.6014,Oct-Mar
+147,Dholavira,Kutch,Gujarat,Historical,4.6,8.3254,Oct-Mar
+148,Vijay Vilas Palace,Mandvi,Gujarat,Historical,4.4,8.0036,Oct-Mar
+149,Mandvi Beach,Mandvi,Gujarat,Beach,4.0,6.6453,Mar-Jun
+150,Blackbuck National Park,Velavadar,Gujarat,Nature,4.3,7.3292,Jul-Sep
+151,Marine National Park,Jamnagar,Gujarat,Nature,4.4,9.2247,Jul-Sep
+152,Uparkot Fort,Junagadh,Gujarat,Historical,4.2,7.2115,Oct-Mar
+153,Mahabat Maqbara,Junagadh,Gujarat,Historical,4.5,6.9265,Oct-Mar
+154,Girnar Hill,Junagadh,Gujarat,Religious,4.7,7.9638,Oct-Mar
+155,Nagoa Beach,Diu,Daman & Diu,Beach,4.3,9.4577,Mar-Jun
+156,Diu Fort,Diu,Daman & Diu,Historical,4.4,7.219,Oct-Mar
+157,Gangeshwar Mahadev Temple,Diu,Daman & Diu,Religious,4.5,8.5138,Oct-Mar
+158,Jampore Beach,Daman,Daman & Diu,Beach,3.9,8.7832,Mar-Jun
+159,Devka Beach,Daman,Daman & Diu,Beach,3.6,7.2057,Mar-Jun
+160,Moti Daman Fort,Daman,Daman & Diu,Historical,4.1,8.6826,Oct-Mar
+161,Shaniwar Wada,Pune,Maharashtra,Historical,4.2,7.5975,Oct-Mar
+162,Aga Khan Palace,Pune,Maharashtra,Historical,4.4,8.3939,Oct-Mar
+163,Sinhagad Fort,Pune,Maharashtra,Historical,4.5,8.3976,Oct-Mar
+164,Dagdusheth Ganpati Temple,Pune,Maharashtra,Religious,4.9,8.1033,Oct-Mar
+165,Raja Dinkar Kelkar Museum,Pune,Maharashtra,Culture,4.3,6.7621,Oct-Mar
+166,Mulshi Dam,Pune,Maharashtra,Nature,4.1,9.005,Jul-Sep
+167,Lonavala Lake,Lonavala,Maharashtra,Nature,3.8,7.456,Jul-Sep
+168,Tiger Point,Khandala,Maharashtra,Nature,4.5,7.0518,Jul-Sep
+169,Bhaja Caves,Lonavala,Maharashtra,Historical,4.4,6.6131,Oct-Mar
+170,Karla Caves,Lonavala,Maharashtra,Historical,4.5,8.2692,Oct-Mar
+171,Lohagad Fort,Lonavala,Maharashtra,Historical,4.6,8.5301,Oct-Mar
+172,Pratapgad Fort,Mahabaleshwar,Maharashtra,Historical,4.5,6.5402,Oct-Mar
+173,Venna Lake,Mahabaleshwar,Maharashtra,Nature,4.0,8.032,Jul-Sep
+174,Arthur's Seat,Mahabaleshwar,Maharashtra,Nature,4.4,7.1722,Jul-Sep
+175,Mapro Garden,Panchgani,Maharashtra,Food,4.3,8.4326,Oct-Mar
+176,Table Land,Panchgani,Maharashtra,Nature,4.1,7.0152,Jul-Sep
+177,Parsi Point,Panchgani,Maharashtra,Nature,3.9,8.5704,Jul-Sep
+178,Murud Janjira Fort,Murud,Maharashtra,Historical,4.6,7.6546,Oct-Mar
+179,Alibaug Beach,Alibaug,Maharashtra,Beach,3.7,9.3104,Mar-Jun
+180,Kashid Beach,Alibaug,Maharashtra,Beach,4.4,6.9043,Mar-Jun
+181,Raigad Fort,Raigad,Maharashtra,Historical,4.8,7.5171,Oct-Mar
+182,Trimbakeshwar Temple,Nashik,Maharashtra,Religious,4.7,6.8319,Oct-Mar
+183,Panchavati,Nashik,Maharashtra,Religious,4.3,9.2741,Oct-Mar
+184,Sula Vineyards,Nashik,Maharashtra,Leisure,4.4,9.1316,Oct-Mar
+185,Pandavleni Caves,Nashik,Maharashtra,Historical,4.2,7.2669,Oct-Mar
+186,Harihareshwar Temple,Raigad,Maharashtra,Religious,4.5,8.4772,Oct-Mar
+187,Tadoba National Park,Chandrapur,Maharashtra,Nature,4.6,8.9506,Jul-Sep
+188,Pench National Park,Nagpur,Maharashtra,Nature,4.5,8.1618,Jul-Sep
+189,Deekshabhoomi,Nagpur,Maharashtra,Religious,4.7,8.0848,Oct-Mar
+190,Ambazari Lake,Nagpur,Maharashtra,Nature,3.8,7.2184,Jul-Sep
+191,Khandoba Temple,Jejuri,Maharashtra,Religious,4.6,6.7706,Oct-Mar
+192,Grishneshwar Temple,Verul,Maharashtra,Religious,4.7,9.1914,Oct-Mar
+193,Malshej Ghat,Thane,Maharashtra,Nature,4.4,9.2011,Jul-Sep
+194,Kanheri Caves,Mumbai,Maharashtra,Historical,4.5,8.3963,Oct-Mar
+195,Sanjay Gandhi National Park,Mumbai,Maharashtra,Nature,4.2,7.511,Jul-Sep
+196,Global Vipassana Pagoda,Mumbai,Maharashtra,Religious,4.8,7.5416,Oct-Mar
+197,Mount Mary Church,Mumbai,Maharashtra,Religious,4.6,8.6758,Oct-Mar
+198,Haji Ali Dargah,Mumbai,Maharashtra,Religious,4.5,9.1911,Oct-Mar
+199,Juhu Beach,Mumbai,Maharashtra,Beach,3.6,9.1609,Mar-Jun
+200,Chhatrapati Shivaji Museum,Mumbai,Maharashtra,Culture,4.7,8.8382,Oct-Mar
+201,Lalbagh Botanical Garden,Bengaluru,Karnataka,Nature,4.4,8.4232,Jul-Sep
+202,Cubbon Park,Bengaluru,Karnataka,Nature,4.3,6.7436,Jul-Sep
+203,Bannerghatta Biological Park,Bengaluru,Karnataka,Nature,4.2,6.9769,Jul-Sep
+204,ISKCON Temple,Bengaluru,Karnataka,Religious,4.8,9.1954,Oct-Mar
+205,Visvesvaraya Museum,Bengaluru,Karnataka,Education,4.6,8.316,Oct-Mar
+206,Wonderla,Bengaluru,Karnataka,Adventure,4.5,6.518,Apr-Jun
+207,Nandi Hills,Chikkaballapur,Karnataka,Nature,4.1,6.7958,Jul-Sep
+208,Skandagiri Hills,Chikkaballapur,Karnataka,Adventure,4.3,8.4878,Apr-Jun
+209,Shivanasamudra Falls,Mandya,Karnataka,Nature,4.5,6.5055,Jul-Sep
+210,Talakadu,Mysore,Karnataka,Historical,4.2,6.9744,Oct-Mar
+211,Chamundi Hills,Mysore,Karnataka,Religious,4.6,8.1423,Oct-Mar
+212,Brindavan Gardens,Mysore,Karnataka,Nature,4.1,8.5733,Jul-Sep
+213,St. Philomena's Cathedral,Mysore,Karnataka,Religious,4.5,8.4531,Oct-Mar
+214,Karanji Lake,Mysore,Karnataka,Nature,4.2,7.1655,Jul-Sep
+215,Ranganathittu Bird Sanctuary,Mandya,Karnataka,Nature,4.4,8.6344,Jul-Sep
+216,Abbey Falls,Madikeri,Karnataka,Nature,4.3,7.2046,Jul-Sep
+217,Raja's Seat,Madikeri,Karnataka,Nature,4.1,7.4699,Jul-Sep
+218,Tala Kaveri,Kodagu,Karnataka,Religious,4.5,8.7377,Oct-Mar
+219,Namdroling Monastery,Bylakuppe,Karnataka,Religious,4.8,8.4461,Oct-Mar
+220,Dubare Elephant Camp,Kodagu,Karnataka,Adventure,4.0,9.0469,Apr-Jun
+221,Iruppu Falls,Kodagu,Karnataka,Nature,4.4,8.4701,Jul-Sep
+222,Murudeshwar Temple,Murudeshwar,Karnataka,Religious,4.7,8.2012,Oct-Mar
+223,Netrani Island,Murudeshwar,Karnataka,Adventure,4.5,6.7723,Apr-Jun
+224,Om Beach,Gokarna,Karnataka,Beach,4.4,7.5973,Mar-Jun
+225,Kudle Beach,Gokarna,Karnataka,Beach,4.3,7.2887,Mar-Jun
+226,Mahabaleshwar Temple,Gokarna,Karnataka,Religious,4.6,7.2249,Oct-Mar
+227,Maravanthe Beach,Kundapura,Karnataka,Beach,4.5,9.4196,Mar-Jun
+228,Udupi Krishna Temple,Udupi,Karnataka,Religious,4.8,7.6737,Oct-Mar
+229,Malpe Beach,Udupi,Karnataka,Beach,4.2,9.1759,Mar-Jun
+230,St. Mary's Island,Udupi,Karnataka,Nature,4.6,8.3904,Jul-Sep
+231,Chikmagalur Coffee Museum,Chikmagalur,Karnataka,Education,4.1,8.8831,Oct-Mar
+232,Mullayanagiri Peak,Chikmagalur,Karnataka,Adventure,4.7,8.0035,Apr-Jun
+233,Baba Budan Giri,Chikmagalur,Karnataka,Religious,4.4,8.2271,Oct-Mar
+234,Hebbe Falls,Chikmagalur,Karnataka,Nature,4.5,7.9731,Jul-Sep
+235,Bhadrachalam Temple,Khammam,Telangana,Religious,4.6,7.0781,Oct-Mar
+236,Ramappa Temple,Warangal,Telangana,Historical,4.8,8.6653,Oct-Mar
+237,Warangal Fort,Warangal,Telangana,Historical,4.2,7.3356,Oct-Mar
+238,Thousand Pillar Temple,Warangal,Telangana,Religious,4.5,6.5635,Oct-Mar
+239,Laknavaram Lake,Warangal,Telangana,Nature,4.3,8.4335,Jul-Sep
+240,Pakhal Lake,Warangal,Telangana,Nature,4.0,7.0235,Jul-Sep
+241,Kuntala Waterfall,Adilabad,Telangana,Nature,4.2,9.3216,Jul-Sep
+242,Birla Mandir Hyderabad,Hyderabad,Telangana,Religious,4.7,9.3622,Oct-Mar
+243,Salur Jung Museum,Hyderabad,Telangana,Culture,4.6,9.2445,Oct-Mar
+244,Nehru Zoological Park,Hyderabad,Telangana,Nature,4.1,7.6047,Jul-Sep
+245,Ramoji Film City,Hyderabad,Telangana,Leisure,4.5,6.5368,Oct-Mar
+246,Hussain Sagar Lake,Hyderabad,Telangana,Nature,4.0,9.2851,Jul-Sep
+247,Chowmahalla Palace,Hyderabad,Telangana,Historical,4.7,7.7794,Oct-Mar
+248,Paigah Tombs,Hyderabad,Telangana,Historical,4.3,9.4005,Oct-Mar
+249,Qutb Shahi Tombs,Hyderabad,Telangana,Historical,4.4,9.3913,Oct-Mar
+250,KBR National Park,Hyderabad,Telangana,Nature,4.1,9.0583,Jul-Sep
+251,Kanaka Durga Temple,Vijayawada,Andhra Pradesh,Religious,4.8,7.3768,Oct-Mar
+252,Undavalli Caves,Vijayawada,Andhra Pradesh,Historical,4.5,7.6497,Oct-Mar
+253,Prakasam Barrage,Vijayawada,Andhra Pradesh,Nature,4.1,9.0527,Jul-Sep
+254,Bhavani Island,Vijayawada,Andhra Pradesh,Adventure,3.8,7.4444,Apr-Jun
+255,Kondapalli Fort,Vijayawada,Andhra Pradesh,Historical,4.0,7.0006,Oct-Mar
+256,Amaravati Stupa,Amaravati,Andhra Pradesh,Historical,4.4,8.1666,Oct-Mar
+257,Srisailam Dam,Srisailam,Andhra Pradesh,Nature,4.3,9.3086,Jul-Sep
+258,Mallikarjuna Jyotirlinga,Srisailam,Andhra Pradesh,Religious,4.8,8.5857,Oct-Mar
+259,Akka Mahadevi Caves,Srisailam,Andhra Pradesh,Historical,4.2,8.2065,Oct-Mar
+260,Ahobilam Temple,Kurnool,Andhra Pradesh,Religious,4.7,6.7829,Oct-Mar
+261,Yaganti Temple,Kurnool,Andhra Pradesh,Religious,4.6,8.3418,Oct-Mar
+262,Gandikota Fort,Kadapa,Andhra Pradesh,Historical,4.7,9.4709,Oct-Mar
+263,Pennar River Gorge,Gandikota,Andhra Pradesh,Nature,4.8,6.912,Jul-Sep
+264,Horsley Hills,Chittoor,Andhra Pradesh,Nature,4.1,8.0508,Jul-Sep
+265,Talakona Waterfalls,Chittoor,Andhra Pradesh,Nature,4.4,9.1317,Jul-Sep
+266,Chandragiri Fort,Tirupati,Andhra Pradesh,Historical,4.2,8.7204,Oct-Mar
+267,Sri Kalahasti Temple,Chittoor,Andhra Pradesh,Religious,4.7,8.5887,Oct-Mar
+268,Kailasagiri,Visakhapatnam,Andhra Pradesh,Nature,4.4,8.6052,Jul-Sep
+269,INS Kursura Museum,Visakhapatnam,Andhra Pradesh,Education,4.8,7.5726,Oct-Mar
+270,VUDA Park,Visakhapatnam,Andhra Pradesh,Nature,3.9,7.3742,Jul-Sep
+271,Yarada Beach,Visakhapatnam,Andhra Pradesh,Beach,4.5,8.9269,Mar-Jun
+272,Simhachalam Temple,Visakhapatnam,Andhra Pradesh,Religious,4.7,8.9292,Oct-Mar
+273,Bheemunipatnam Beach,Bheemili,Andhra Pradesh,Beach,4.1,9.1007,Mar-Jun
+274,Kakinada Beach,Kakinada,Andhra Pradesh,Beach,3.7,9.2397,Mar-Jun
+275,Hope Island,Kakinada,Andhra Pradesh,Nature,4.0,8.0297,Jul-Sep
+276,Konaseema Backwaters,Amalapuram,Andhra Pradesh,Nature,4.6,8.0001,Jul-Sep
+277,Kolleru Lake,Eluru,Andhra Pradesh,Nature,3.8,8.8936,Jul-Sep
+278,Maredumilli Forests,East Godavari,Andhra Pradesh,Nature,4.5,8.4471,Jul-Sep
+279,Padmapuram Gardens,Araku,Andhra Pradesh,Nature,3.9,8.6036,Jul-Sep
+280,Tribal Museum Araku,Araku,Andhra Pradesh,Culture,4.1,8.8861,Oct-Mar
+281,Bekal Fort,Kasaragod,Kerala,Historical,4.6,9.1697,Oct-Mar
+282,Kappil Beach,Varkala,Kerala,Beach,4.5,7.5079,Mar-Jun
+283,Anjengo Fort,Varkala,Kerala,Historical,4.1,7.621,Oct-Mar
+284,Jatayu Earth's Center,Kollam,Kerala,Adventure,4.7,6.7732,Apr-Jun
+285,Ashtamudi Lake,Kollam,Kerala,Nature,4.4,8.2312,Jul-Sep
+286,Munroe Island,Kollam,Kerala,Nature,4.6,6.5985,Jul-Sep
+287,Marari Beach,Alleppey,Kerala,Beach,4.4,7.892,Mar-Jun
+288,Kumarakom Bird Sanctuary,Kottayam,Kerala,Nature,4.1,8.124,Jul-Sep
+289,Vembanad Lake,Kumarakom,Kerala,Nature,4.5,7.353,Jul-Sep
+290,Vagamon Meadows,Idukki,Kerala,Nature,4.4,8.269,Jul-Sep
+291,Idukki Arch Dam,Idukki,Kerala,Nature,4.5,6.5821,Jul-Sep
+292,Eravikulam National Park,Munnar,Kerala,Nature,4.6,6.6027,Jul-Sep
+293,Mattupetty Dam,Munnar,Kerala,Nature,4.1,8.9668,Jul-Sep
+294,Anamudi Peak,Munnar,Kerala,Nature,4.4,7.5747,Jul-Sep
+295,Top Station,Munnar,Kerala,Nature,4.3,6.8728,Jul-Sep
+296,Athirappilly Falls,Thrissur,Kerala,Nature,4.7,8.0625,Jul-Sep
+297,Vazhachal Falls,Thrissur,Kerala,Nature,4.4,8.8084,Jul-Sep
+298,Guruvayur Temple,Thrissur,Kerala,Religious,4.8,7.14,Oct-Mar
+299,Kerala Kalamandalam,Cheruthuruthy,Kerala,Culture,4.5,8.3655,Oct-Mar
+300,Silent Valley National Park,Palakkad,Kerala,Nature,4.6,6.7473,Jul-Sep
+301,Malampuzha Dam,Palakkad,Kerala,Nature,4.1,6.6459,Jul-Sep
+302,Nelliyampathy Hills,Palakkad,Kerala,Nature,4.4,8.09,Jul-Sep
+303,Kozhikode Beach,Kozhikode,Kerala,Beach,4.2,8.1179,Mar-Jun
+304,Kappad Beach,Kozhikode,Kerala,Historical,4.3,8.4093,Oct-Mar
+305,Thusharagiri Falls,Kozhikode,Kerala,Nature,4.5,8.6762,Jul-Sep
+306,Banasura Sagar Dam,Wayanad,Kerala,Nature,4.4,9.4282,Jul-Sep
+307,Pookode Lake,Wayanad,Kerala,Nature,4.1,8.0447,Jul-Sep
+308,Chembra Peak,Wayanad,Kerala,Adventure,4.6,7.4626,Apr-Jun
+309,Kuruva Island,Wayanad,Kerala,Nature,4.2,8.8843,Jul-Sep
+310,Muzhappilangad Drive-in Beach,Kannur,Kerala,Beach,4.7,7.3057,Mar-Jun
+311,St. Angelo Fort,Kannur,Kerala,Historical,4.4,7.8119,Oct-Mar
+312,Paithalmala,Kannur,Kerala,Nature,4.3,6.7265,Jul-Sep
+313,Padmanabhaswamy Temple,Thiruvananthapuram,Kerala,Religious,4.8,6.5666,Oct-Mar
+314,Napier Museum,Thiruvananthapuram,Kerala,Culture,4.3,9.3884,Oct-Mar
+315,Shangumugham Beach,Thiruvananthapuram,Kerala,Beach,4.1,9.0071,Mar-Jun
+316,Agasthyakoodam,Thiruvananthapuram,Kerala,Adventure,4.7,8.5856,Apr-Jun
+317,Poovar Island,Thiruvananthapuram,Kerala,Nature,4.5,7.7215,Jul-Sep
+318,Vivekananda Rock,Kanyakumari,Tamil Nadu,Historical,4.8,7.012,Oct-Mar
+319,Thiruvalluvar Statue,Kanyakumari,Tamil Nadu,Historical,4.7,6.9613,Oct-Mar
+320,Padmanabhapuram Palace,Kanyakumari,Tamil Nadu,Historical,4.6,7.2437,Oct-Mar
+321,Vattakottai Fort,Kanyakumari,Tamil Nadu,Historical,4.2,8.1438,Oct-Mar
+322,Thanumalayan Temple,Suchindram,Tamil Nadu,Religious,4.7,8.6416,Oct-Mar
+323,Mathur Aqueduct,Kanyakumari,Tamil Nadu,Nature,4.3,8.4779,Jul-Sep
+324,Arulmigu Ramanathaswamy Temple,Rameshwaram,Tamil Nadu,Religious,4.8,7.3331,Oct-Mar
+325,Dhanushkodi Ghost Town,Rameshwaram,Tamil Nadu,Historical,4.7,9.365,Oct-Mar
+326,Pamban Bridge,Rameshwaram,Tamil Nadu,Historical,4.8,8.7118,Oct-Mar
+327,Kothandaramaswamy Temple,Rameshwaram,Tamil Nadu,Religious,4.5,8.1592,Oct-Mar
+328,Thirumalai Nayakkar Mahal,Madurai,Tamil Nadu,Historical,4.4,8.3319,Oct-Mar
+329,Gandhi Memorial Museum,Madurai,Tamil Nadu,Culture,4.3,7.7535,Oct-Mar
+330,Alagar Koyil,Madurai,Tamil Nadu,Religious,4.6,7.2361,Oct-Mar
+331,Vandiyur Mariamman Teppakulam,Madurai,Tamil Nadu,Historical,4.0,7.562,Oct-Mar
+332,Chettinad Mansions,Karaikudi,Tamil Nadu,Historical,4.5,8.7718,Oct-Mar
+333,Ranganathaswamy Temple,Srirangam,Tamil Nadu,Religious,4.9,6.5336,Oct-Mar
+334,Rockfort Temple,Trichy,Tamil Nadu,Religious,4.6,6.8398,Oct-Mar
+335,Jambukeswarar Temple,Trichy,Tamil Nadu,Religious,4.7,6.6288,Oct-Mar
+336,Kallanai Dam,Trichy,Tamil Nadu,Historical,4.5,6.6129,Oct-Mar
+337,Puliancholai Falls,Trichy,Tamil Nadu,Nature,3.8,9.0657,Jul-Sep
+338,Pichavaram Mangrove Forest,Chidambaram,Tamil Nadu,Nature,4.6,8.6087,Jul-Sep
+339,Nataraja Temple,Chidambaram,Tamil Nadu,Religious,4.8,7.9178,Oct-Mar
+340,Velankanni Church,Velankanni,Tamil Nadu,Religious,4.7,6.7848,Oct-Mar
+341,Point Calimere Sanctuary,Nagapattinam,Tamil Nadu,Nature,4.1,7.9703,Jul-Sep
+342,Thanjavur Maratha Palace,Thanjavur,Tamil Nadu,Historical,4.2,7.9157,Oct-Mar
+343,Saraswathi Mahal Library,Thanjavur,Tamil Nadu,Culture,4.4,7.0117,Oct-Mar
+344,Airavatesvara Temple,Darasuram,Tamil Nadu,Historical,4.8,7.7964,Oct-Mar
+345,Gangaikonda Cholapuram,Ariyalur,Tamil Nadu,Historical,4.7,7.69,Oct-Mar
+346,Kumbakonam Temples,Kumbakonam,Tamil Nadu,Religious,4.6,8.3444,Oct-Mar
+347,Doddabetta Peak,Ooty,Tamil Nadu,Nature,4.3,8.4023,Jul-Sep
+348,Pykara Falls,Ooty,Tamil Nadu,Nature,4.4,6.6267,Jul-Sep
+349,Mudumalai National Park,Ooty,Tamil Nadu,Nature,4.2,7.6181,Jul-Sep
+350,Emerald Lake,Ooty,Tamil Nadu,Nature,4.5,8.3745,Jul-Sep
+351,Coonoor Tea Estates,Coonoor,Tamil Nadu,Nature,4.6,8.005,Jul-Sep
+352,Sim's Park,Coonoor,Tamil Nadu,Nature,4.2,9.0688,Jul-Sep
+353,Dolphin's Nose,Coonoor,Tamil Nadu,Nature,4.0,8.4733,Jul-Sep
+354,Silver Cascade Falls,Kodaikanal,Tamil Nadu,Nature,3.7,6.9808,Jul-Sep
+355,Coakers Walk,Kodaikanal,Tamil Nadu,Nature,4.3,6.7028,Jul-Sep
+356,Pillar Rocks,Kodaikanal,Tamil Nadu,Nature,4.4,8.4243,Jul-Sep
+357,Bryant Park,Kodaikanal,Tamil Nadu,Nature,4.1,6.5701,Jul-Sep
+358,Berijam Lake,Kodaikanal,Tamil Nadu,Nature,4.5,8.2538,Jul-Sep
+359,Yercaud Lake,Yercaud,Tamil Nadu,Nature,3.9,9.3209,Jul-Sep
+360,Pagoda Point,Yercaud,Tamil Nadu,Nature,4.0,8.2228,Jul-Sep
+361,Hogenakkal Falls,Dharmapuri,Tamil Nadu,Nature,4.3,7.6589,Jul-Sep
+362,Vellore Fort,Vellore,Tamil Nadu,Historical,4.4,8.427,Oct-Mar
+363,Golden Temple Vellore,Vellore,Tamil Nadu,Religious,4.7,7.8699,Oct-Mar
+364,Yelagiri Hills,Vellore,Tamil Nadu,Nature,3.8,8.1329,Jul-Sep
+365,Arignar Anna Zoological Park,Vandalur,Tamil Nadu,Nature,4.2,9.3246,Jul-Sep
+366,Kapaleeshwarar Temple,Chennai,Tamil Nadu,Religious,4.7,7.6527,Oct-Mar
+367,Santhome Cathedral,Chennai,Tamil Nadu,Religious,4.6,9.384,Oct-Mar
+368,Guindy National Park,Chennai,Tamil Nadu,Nature,3.9,9.2159,Jul-Sep
+369,DakshinaChitra,Chennai,Tamil Nadu,Culture,4.5,7.0797,Oct-Mar
+370,Muttukadu Boat House,Chennai,Tamil Nadu,Adventure,3.6,6.6991,Apr-Jun
+371,Covelong Beach,Chennai,Tamil Nadu,Beach,4.1,6.7937,Mar-Jun
+372,Mahabalipuram Lighthouse,Mahabalipuram,Tamil Nadu,Historical,4.3,6.5452,Oct-Mar
+373,Five Rathas,Mahabalipuram,Tamil Nadu,Historical,4.6,6.7746,Oct-Mar
+374,Arjuna's Penance,Mahabalipuram,Tamil Nadu,Historical,4.7,8.5465,Oct-Mar
+375,Krishna's Butter Ball,Mahabalipuram,Tamil Nadu,Nature,4.5,6.7046,Jul-Sep
+376,Tiger Cave,Mahabalipuram,Tamil Nadu,Historical,4.2,7.4506,Oct-Mar
+377,Vedanthangal Bird Sanctuary,Chengalpattu,Tamil Nadu,Nature,4.4,9.0338,Jul-Sep
+378,Auroville Matrimandir,Puducherry,Puducherry,Religious,4.6,6.5604,Oct-Mar
+379,Promenade Beach,Puducherry,Puducherry,Beach,4.5,8.9423,Mar-Jun
+380,Paradise Beach,Puducherry,Puducherry,Beach,4.4,7.3388,Mar-Jun
+381,Sri Aurobindo Ashram,Puducherry,Puducherry,Religious,4.5,6.8461,Oct-Mar
+382,French Quarter,Puducherry,Puducherry,Culture,4.6,8.5879,Oct-Mar
+383,Basilica of the Sacred Heart,Puducherry,Puducherry,Religious,4.7,8.3838,Oct-Mar
+384,Chunnambar Boat House,Puducherry,Puducherry,Adventure,3.7,9.132,Apr-Jun
+385,Fort St. George,Chennai,Tamil Nadu,Historical,4.2,8.7033,Oct-Mar
+386,Government Museum,Chennai,Tamil Nadu,Education,4.3,8.9092,Oct-Mar
+387,Semmozhi Poonga,Chennai,Tamil Nadu,Nature,4.1,7.3394,Jul-Sep
+388,Elliot's Beach,Chennai,Tamil Nadu,Beach,4.0,7.0245,Mar-Jun
+389,Pulicat Lake Bird Sanctuary,Nellore,Andhra Pradesh,Nature,4.2,8.7501,Jul-Sep
+390,Sriharikota ISRO Centre,Nellore,Andhra Pradesh,Education,4.8,8.9193,Oct-Mar
+391,Nellapattu Bird Sanctuary,Nellore,Andhra Pradesh,Nature,4.0,9.4723,Jul-Sep
+392,Udayagiri Fort,Nellore,Andhra Pradesh,Historical,3.5,7.7325,Oct-Mar
+393,Venkiri Hills,Nellore,Andhra Pradesh,Nature,3.2,7.6103,Jul-Sep
+394,Mylavaram Dam,Kadapa,Andhra Pradesh,Nature,3.6,8.8277,Jul-Sep
+395,Vontimitta Kodandarama Temple,Kadapa,Andhra Pradesh,Religious,4.6,7.5163,Oct-Mar
+396,Brahmamgari Matham,Kadapa,Andhra Pradesh,Religious,4.5,9.2924,Oct-Mar
+397,Siddavatam Fort,Kadapa,Andhra Pradesh,Historical,4.0,9.0746,Oct-Mar
+398,Belum Caves Entrance,Kurnool,Andhra Pradesh,Adventure,4.5,7.7818,Apr-Jun
+399,Rollapadu Wildlife Sanctuary,Kurnool,Andhra Pradesh,Nature,3.8,8.7508,Jul-Sep
+400,Mantralayam Raghavendra Swamy,Kurnool,Andhra Pradesh,Religious,4.8,8.7619,Oct-Mar
+401,Kurnool Konda Reddy Fort,Kurnool,Andhra Pradesh,Historical,4.2,6.8008,Oct-Mar
+402,Orvakal Rock Garden,Kurnool,Andhra Pradesh,Nature,4.1,9.2075,Jul-Sep
+403,Mahanandi Temple,Kurnool,Andhra Pradesh,Religious,4.6,8.0114,Oct-Mar
+404,Adoni Fort,Kurnool,Andhra Pradesh,Historical,3.7,8.9784,Oct-Mar
+405,Lepakshi Nandi,Anantapur,Andhra Pradesh,Historical,4.8,7.4538,Oct-Mar
+406,Veerabhadra Temple Lepakshi,Anantapur,Andhra Pradesh,Historical,4.9,9.1863,Oct-Mar
+407,Puttaparthi Prashanthi Nilayam,Anantapur,Andhra Pradesh,Religious,4.7,7.662,Oct-Mar
+408,Penukonda Fort,Anantapur,Andhra Pradesh,Historical,4.1,6.5229,Oct-Mar
+409,Gooty Fort,Anantapur,Andhra Pradesh,Historical,4.0,9.216,Oct-Mar
+410,Hemavathi Temples,Anantapur,Andhra Pradesh,Religious,4.3,6.7651,Oct-Mar
+411,Dharmavaram Silk Centre,Anantapur,Andhra Pradesh,Culture,4.2,7.4516,Oct-Mar
+412,Rayadurgam Fort,Anantapur,Andhra Pradesh,Historical,3.5,9.3505,Oct-Mar
+413,Thimmamma Marrimanu,Anantapur,Andhra Pradesh,Nature,4.6,9.3522,Jul-Sep
+414,Ethipothala Falls,Guntur,Andhra Pradesh,Nature,4.2,8.2167,Jul-Sep
+415,Uppalapadu Bird Sanctuary,Guntur,Andhra Pradesh,Nature,4.3,8.3925,Jul-Sep
+416,Kondaveedu Fort,Guntur,Andhra Pradesh,Historical,4.0,7.8404,Oct-Mar
+417,Amaravati Museum,Guntur,Andhra Pradesh,Education,4.1,7.373,Oct-Mar
+418,Bapatla Beach,Guntur,Andhra Pradesh,Beach,3.8,7.4798,Mar-Jun
+419,Mangalagiri Panakala Swamy,Guntur,Andhra Pradesh,Religious,4.7,8.515,Oct-Mar
+420,Suryalanka Beach,Bapatla,Andhra Pradesh,Beach,4.2,8.7554,Mar-Jun
+421,Chirala Beach,Chirala,Andhra Pradesh,Beach,4.0,8.8734,Mar-Jun
+422,Vodarevu Beach,Chirala,Andhra Pradesh,Beach,3.9,8.8675,Mar-Jun
+423,Nagarjuna Sagar Dam,Vijayapuri,Telangana,Nature,4.5,6.7649,Jul-Sep
+424,Nagarjunakonda Island,Guntur,Andhra Pradesh,Historical,4.6,7.9788,Oct-Mar
+425,Kolleru Bird Sanctuary,Eluru,Andhra Pradesh,Nature,4.1,6.6636,Jul-Sep
+426,Dwaraka Tirumala,Eluru,Andhra Pradesh,Religious,4.7,8.1447,Oct-Mar
+427,Coringa Wildlife Sanctuary,Kakinada,Andhra Pradesh,Nature,4.3,7.8196,Jul-Sep
+428,Uppada Beach,Kakinada,Andhra Pradesh,Beach,4.1,9.1628,Mar-Jun
+429,Annavaram Satyanarayana Swamy,East Godavari,Andhra Pradesh,Religious,4.8,7.5468,Oct-Mar
+430,Draksharamam Temple,East Godavari,Andhra Pradesh,Religious,4.6,6.8427,Oct-Mar
+431,Papi Hills Boat Cruise,Rajahmundry,Andhra Pradesh,Adventure,4.7,6.9208,Apr-Jun
+432,Godavari Arch Bridge,Rajahmundry,Andhra Pradesh,Historical,4.5,8.7829,Oct-Mar
+433,ISKCON Rajahmundry,Rajahmundry,Andhra Pradesh,Religious,4.6,8.3515,Oct-Mar
+434,Kotipalli Someswara Swamy,East Godavari,Andhra Pradesh,Religious,4.5,6.7947,Oct-Mar
+435,Antarvedi Beach,East Godavari,Andhra Pradesh,Beach,4.3,6.7435,Mar-Jun
+436,Dhavaleswaram Barrage,Rajahmundry,Andhra Pradesh,Nature,4.2,8.6006,Jul-Sep
+437,Kadiyapulanka Nurseries,Rajahmundry,Andhra Pradesh,Nature,4.4,6.7094,Jul-Sep
+438,Ryali Jaganmohini Temple,East Godavari,Andhra Pradesh,Religious,4.5,8.9646,Oct-Mar
+439,Ainavilli Vinayaka Temple,East Godavari,Andhra Pradesh,Religious,4.7,8.6165,Oct-Mar
+440,Samalkot Kumara Rama Temple,East Godavari,Andhra Pradesh,Religious,4.6,6.7352,Oct-Mar
+441,Pancharama Kshetras,Multiple,Andhra Pradesh,Religious,4.8,6.7457,Oct-Mar
+442,Palakollu Ksheera Rama,West Godavari,Andhra Pradesh,Religious,4.6,9.4606,Oct-Mar
+443,Bhimavaram Somarama Temple,West Godavari,Andhra Pradesh,Religious,4.7,7.6171,Oct-Mar
+444,Kolanupaka Jain Temple,Nalgonda,Telangana,Religious,4.6,7.6061,Oct-Mar
+445,Yadagirigutta Temple,Yadadri,Telangana,Religious,4.8,8.9373,Oct-Mar
+446,Bhongir Fort,Yadadri,Telangana,Historical,4.4,9.342,Oct-Mar
+447,Pillalamarri Banyan Tree,Mahabubnagar,Telangana,Nature,4.2,9.4587,Jul-Sep
+448,Jurala Dam,Mahabubnagar,Telangana,Nature,4.1,8.7584,Jul-Sep
+449,Gadwal Fort,Mahabubnagar,Telangana,Historical,3.8,7.6231,Oct-Mar
+450,Alampur Jogulamba Temple,Jogulamba Gadwal,Telangana,Religious,4.7,6.7417,Oct-Mar
+451,Kinnerasani Wildlife Sanctuary,Bhadradri Kothagudem,Telangana,Nature,4.2,8.8299,Jul-Sep
+452,Medak Fort,Medak,Telangana,Historical,4.1,8.1714,Oct-Mar
+453,Medak Cathedral,Medak,Telangana,Religious,4.7,7.7674,Oct-Mar
+454,Pocharam Wildlife Sanctuary,Medak,Telangana,Nature,3.9,9.2189,Jul-Sep
+455,Edupayala Vana Durga Bhavani,Medak,Telangana,Religious,4.5,6.8251,Oct-Mar
+456,Nirmal Toys Craft Centre,Nirmal,Telangana,Culture,4.3,7.9734,Oct-Mar
+457,Basara Gnana Saraswati Temple,Nirmal,Telangana,Religious,4.6,6.5245,Oct-Mar
+458,Kawal Tiger Reserve,Jannaram,Telangana,Nature,4.2,7.9012,Jul-Sep
+459,Pochera Waterfalls,Adilabad,Telangana,Nature,4.3,6.6598,Jul-Sep
+460,Basar Saraswati Temple,Nirmal,Telangana,Religious,4.6,6.848,Oct-Mar
+461,Dharmapuri Narasimha Swamy,Jagtial,Telangana,Religious,4.5,6.8441,Oct-Mar
+462,Kondagattu Anjaneya Swamy,Jagtial,Telangana,Religious,4.7,8.4448,Oct-Mar
+463,Vemulawada Rajarajeshwara,Rajanna Sircilla,Telangana,Religious,4.8,8.7363,Oct-Mar
+464,Lower Manair Dam,Karimnagar,Telangana,Nature,4.0,8.2466,Jul-Sep
+465,Elgandal Fort,Karimnagar,Telangana,Historical,4.1,9.387,Oct-Mar
+466,Jagityal Fort,Jagtial,Telangana,Historical,3.6,7.6189,Oct-Mar
+467,Nagunur Fort Temples,Karimnagar,Telangana,Historical,3.9,7.3505,Oct-Mar
+468,Kaleshwaram Temple,Jayashankar Bhupalpally,Telangana,Religious,4.7,9.1053,Oct-Mar
+469,Bogatha Waterfalls,Jayashankar Bhupalpally,Telangana,Nature,4.4,7.1635,Jul-Sep
+470,Eturnagaram Wildlife Sanctuary,Jayashankar Bhupalpally,Telangana,Nature,4.1,9.3901,Jul-Sep
+471,Laknavaram Suspension Bridge,Warangal,Telangana,Adventure,4.5,6.5269,Apr-Jun
+472,Kakatiya Musical Garden,Warangal,Telangana,Nature,3.8,9.4102,Jul-Sep
+473,Bhadrakali Temple,Warangal,Telangana,Religious,4.7,6.6202,Oct-Mar
+474,Pandavula Gutta,Jayashankar Bhupalpally,Telangana,Historical,4.2,9.1731,Oct-Mar
+475,Ananthagiri Hills Vikarabad,Vikarabad,Telangana,Nature,4.2,8.079,Jul-Sep
+476,Kotepally Reservoir,Vikarabad,Telangana,Adventure,3.9,9.4797,Apr-Jun
+477,Chilkur Balaji Temple,Hyderabad,Telangana,Religious,4.8,6.7125,Oct-Mar
+478,Gandipet Lake,Hyderabad,Telangana,Nature,4.1,8.1577,Jul-Sep
+479,Himayat Sagar Lake,Hyderabad,Telangana,Nature,4.0,9.4084,Jul-Sep
+480,Mrugavani National Park,Hyderabad,Telangana,Nature,3.7,8.0651,Jul-Sep
+481,Sanghi Temple,Hyderabad,Telangana,Religious,4.5,8.3851,Oct-Mar
+482,Mount Opera,Hyderabad,Telangana,Leisure,3.5,8.5849,Oct-Mar
+483,Ocean Park,Hyderabad,Telangana,Leisure,3.6,7.8587,Oct-Mar
+484,Snow World,Hyderabad,Telangana,Leisure,4.1,8.3796,Oct-Mar
+485,Sudha Car Museum,Hyderabad,Telangana,Culture,4.4,8.2494,Oct-Mar
+486,Taramati Baradari,Hyderabad,Telangana,Historical,4.3,9.2033,Oct-Mar
+487,Purani Haveli,Hyderabad,Telangana,Historical,4.2,6.6271,Oct-Mar
+488,Lumbini Park,Hyderabad,Telangana,Nature,4.1,7.3362,Jul-Sep
+489,NTR Gardens,Hyderabad,Telangana,Nature,4.0,9.3516,Jul-Sep
+490,Necklace Road,Hyderabad,Telangana,Nature,4.3,9.1705,Jul-Sep
+491,Lakeside Marine Drive,Hyderabad,Telangana,Nature,4.2,7.8621,Jul-Sep
+492,Jagannath Temple Hyderabad,Hyderabad,Telangana,Religious,4.7,8.3572,Oct-Mar
+493,Public Gardens Nampally,Hyderabad,Telangana,Nature,3.8,7.3254,Jul-Sep
+494,State Museum Hyderabad,Hyderabad,Telangana,Education,4.1,7.0567,Oct-Mar
+495,Kasu Brahmananda Reddy Park,Hyderabad,Telangana,Nature,4.4,7.8863,Jul-Sep
+496,Deer Park Shamirpet,Hyderabad,Telangana,Nature,3.4,7.5541,Jul-Sep
+497,Shamirpet Lake,Hyderabad,Telangana,Nature,3.5,8.2474,Jul-Sep
+498,Keesara Gutta Temple,Medchal,Telangana,Religious,4.5,6.7243,Oct-Mar
+499,Chaya Someswara Temple,Nalgonda,Telangana,Historical,4.6,9.4238,Oct-Mar
+500,Panagal Museum,Nalgonda,Telangana,Education,3.9,9.4593,Oct-Mar
+501,Orchha Fort Complex,Orchha,Madhya Pradesh,Historical,4.6,8.5922,Oct-Mar
+502,Chaturbhuj Temple,Orchha,Madhya Pradesh,Religious,4.5,8.1043,Oct-Mar
+503,Jahangir Mahal,Orchha,Madhya Pradesh,Historical,4.7,7.4222,Oct-Mar
+504,Bhimbetka Rock Shelters,Raisen,Madhya Pradesh,Historical,4.5,8.9403,Oct-Mar
+505,Bhojeshwar Temple,Bhojpur,Madhya Pradesh,Religious,4.4,8.5517,Oct-Mar
+506,Udayagiri Caves,Vidisha,Madhya Pradesh,Historical,4.3,6.9799,Oct-Mar
+507,Sanchi Stupa 2,Sanchi,Madhya Pradesh,Historical,4.2,9.2327,Oct-Mar
+508,Mandu Fort,Mandu,Madhya Pradesh,Historical,4.6,8.9666,Oct-Mar
+509,Jahaz Mahal,Mandu,Madhya Pradesh,Historical,4.5,9.3497,Oct-Mar
+510,Rani Roopmati Pavilion,Mandu,Madhya Pradesh,Historical,4.4,8.6751,Oct-Mar
+511,Baz Bahadur Palace,Mandu,Madhya Pradesh,Historical,4.1,8.337,Oct-Mar
+512,Hindola Mahal,Mandu,Madhya Pradesh,Historical,4.0,7.7494,Oct-Mar
+513,Omkareshwar Jyotirlinga,Khandwa,Madhya Pradesh,Religious,4.7,9.2983,Oct-Mar
+514,Maheshwar Ahilya Fort,Maheshwar,Madhya Pradesh,Historical,4.6,9.0976,Oct-Mar
+515,Patalpani Waterfall,Indore,Madhya Pradesh,Nature,3.8,6.6264,Jul-Sep
+516,Choral Dam,Indore,Madhya Pradesh,Leisure,3.5,6.5697,Oct-Mar
+517,Tinchafall,Indore,Madhya Pradesh,Nature,3.2,7.6237,Jul-Sep
+518,Lal Bagh Palace,Indore,Madhya Pradesh,Historical,4.2,8.9305,Oct-Mar
+519,Rajwada Palace,Indore,Madhya Pradesh,Historical,4.1,9.4625,Oct-Mar
+520,Khajrana Ganesh Temple,Indore,Madhya Pradesh,Religious,4.7,6.9431,Oct-Mar
+521,Upper Lake,Bhopal,Madhya Pradesh,Nature,4.3,8.279,Jul-Sep
+522,Van Vihar National Park,Bhopal,Madhya Pradesh,Wildlife,4.2,7.637,Nov-Feb
+523,Bharat Bhavan,Bhopal,Madhya Pradesh,Culture,4.4,9.4103,Oct-Mar
+524,Tribal Museum Bhopal,Bhopal,Madhya Pradesh,Culture,4.7,9.0255,Oct-Mar
+525,Kanha Tiger Reserve,Mandla,Madhya Pradesh,Wildlife,4.6,9.0141,Nov-Feb
+526,Bandhavgarh Fort,Umaria,Madhya Pradesh,Historical,4.4,7.9013,Oct-Mar
+527,Panna Tiger Reserve,Panna,Madhya Pradesh,Wildlife,4.5,7.7391,Nov-Feb
+528,Pandav Falls,Panna,Madhya Pradesh,Nature,3.9,7.3134,Jul-Sep
+529,Dhuandhar Falls,Jabalpur,Madhya Pradesh,Nature,4.6,6.66,Jul-Sep
+530,Bhedaghat Marble Rocks,Jabalpur,Madhya Pradesh,Nature,4.7,9.0936,Jul-Sep
+531,Madan Mahal Fort,Jabalpur,Madhya Pradesh,Historical,3.8,8.9376,Oct-Mar
+532,Chausath Yogini Temple,Jabalpur,Madhya Pradesh,Religious,4.1,9.5,Oct-Mar
+533,Amarkantak Temple,Anuppur,Madhya Pradesh,Religious,4.6,9.4907,Oct-Mar
+534,Narmada Udgam,Amarkantak,Madhya Pradesh,Religious,4.5,8.1625,Oct-Mar
+535,Dudhdhara Falls,Amarkantak,Madhya Pradesh,Nature,4.2,8.8054,Jul-Sep
+536,Gwalior Zoo,Gwalior,Madhya Pradesh,Wildlife,2.8,9.3346,Nov-Feb
+537,Jai Vilas Palace Museum,Gwalior,Madhya Pradesh,Historical,4.4,9.0482,Oct-Mar
+538,Teli Ka Mandir,Gwalior,Madhya Pradesh,Religious,4.3,7.235,Oct-Mar
+539,Saas Bahu Temple,Gwalior,Madhya Pradesh,Religious,4.6,7.8467,Oct-Mar
+540,Sun Temple Gwalior,Gwalior,Madhya Pradesh,Religious,4.4,6.8792,Oct-Mar
+541,Chitrakote Falls,Bastar,Chhattisgarh,Nature,4.7,9.3625,Jul-Sep
+542,Teerathgarh Falls,Bastar,Chhattisgarh,Nature,4.5,8.3152,Jul-Sep
+543,Kutumsar Caves,Kanger Valley,Chhattisgarh,Adventure,4.3,7.1786,Apr-Jun
+544,Kanger Valley National Park,Jagdalpur,Chhattisgarh,Wildlife,4.2,8.5125,Nov-Feb
+545,Danteshwari Temple,Dantewada,Chhattisgarh,Religious,4.6,8.3512,Oct-Mar
+546,Bhoramdeo Temple,Kabirdham,Chhattisgarh,Historical,4.4,7.5686,Oct-Mar
+547,Mainpat Hill Station,Surguja,Chhattisgarh,Hill Station,3.9,6.8322,Mar-Jun
+548,Sirpur Group of Monuments,Mahasamund,Chhattisgarh,Historical,4.1,8.5121,Oct-Mar
+549,Barnawapara Sanctuary,Mahasamund,Chhattisgarh,Wildlife,3.5,8.0567,Nov-Feb
+550,Dongargarh Bamleshwari,Rajnandgaon,Chhattisgarh,Religious,4.5,8.8154,Oct-Mar
+551,Lansdowne Tip-In-Top,Pauri Garhwal,Uttarakhand,Nature,4.1,8.0563,Jul-Sep
+552,Bhulla Tal Lake,Lansdowne,Uttarakhand,Leisure,3.8,9.0558,Oct-Mar
+553,Tarkeshwar Mahadev,Lansdowne,Uttarakhand,Religious,4.6,8.1518,Oct-Mar
+554,Pithoragarh Fort,Pithoragarh,Uttarakhand,Historical,3.4,8.179,Oct-Mar
+555,Chandak Hills,Pithoragarh,Uttarakhand,Nature,4.0,9.1295,Jul-Sep
+556,Munsiyari Khalia Top,Munsiyari,Uttarakhand,Adventure,4.7,7.705,Apr-Jun
+557,Birthi Falls,Munsiyari,Uttarakhand,Nature,4.2,6.8938,Jul-Sep
+558,Chopta Tungnath Trek,Rudraprayag,Uttarakhand,Adventure,4.7,6.577,Apr-Jun
+559,Chandrashila Peak,Rudraprayag,Uttarakhand,Adventure,4.8,8.7637,Apr-Jun
+560,Deoria Tal,Ukhimath,Uttarakhand,Nature,4.6,8.3578,Jul-Sep
+561,Joshimath Narasimha Temple,Chamoli,Uttarakhand,Religious,4.5,8.61,Oct-Mar
+562,Auli Artificial Lake,Auli,Uttarakhand,Leisure,4.3,7.1314,Oct-Mar
+563,Gorson Bugyal,Auli,Uttarakhand,Adventure,4.6,6.9009,Apr-Jun
+564,Chenap Lake,Auli,Uttarakhand,Nature,3.1,6.5341,Jul-Sep
+565,Mana Village,Badrinath,Uttarakhand,Culture,4.5,7.5458,Oct-Mar
+566,Vasudhara Falls,Mana,Uttarakhand,Nature,4.4,8.2663,Jul-Sep
+567,Hemkund Sahib,Chamoli,Uttarakhand,Religious,4.7,7.6712,Oct-Mar
+568,Binsar Wildlife Sanctuary,Almora,Uttarakhand,Wildlife,4.4,7.8073,Nov-Feb
+569,Zero Point Binsar,Almora,Uttarakhand,Nature,4.2,9.2123,Jul-Sep
+570,Kasar Devi Temple,Almora,Uttarakhand,Religious,4.6,7.5387,Oct-Mar
+571,Jageshwar Dham,Almora,Uttarakhand,Religious,4.7,8.0377,Oct-Mar
+572,Katarmal Sun Temple,Almora,Uttarakhand,Historical,4.3,8.8495,Oct-Mar
+573,Ranikhet Golf Course,Ranikhet,Uttarakhand,Leisure,4.1,7.6841,Oct-Mar
+574,Jhoola Devi Temple,Ranikhet,Uttarakhand,Religious,4.4,8.3631,Oct-Mar
+575,Chaubatia Gardens,Ranikhet,Uttarakhand,Nature,3.9,9.0865,Jul-Sep
+576,Kausani Tea Estate,Kausani,Uttarakhand,Nature,4.0,9.3489,Jul-Sep
+577,Anasakti Ashram,Kausani,Uttarakhand,Historical,4.3,6.9331,Oct-Mar
+578,Baijnath Temple Complex,Bageshwar,Uttarakhand,Historical,4.5,9.2798,Oct-Mar
+579,Mukteshwar Dham,Mukteshwar,Uttarakhand,Religious,4.4,7.9718,Oct-Mar
+580,Chauli Ki Jali,Mukteshwar,Uttarakhand,Adventure,4.2,7.2678,Apr-Jun
+581,Sat Tal Lakes,Bhimtal,Uttarakhand,Nature,4.1,7.8726,Jul-Sep
+582,Naukuchiatal,Bhimtal,Uttarakhand,Leisure,4.0,9.4407,Oct-Mar
+583,Bhimtal Island Museum,Bhimtal,Uttarakhand,Culture,3.8,7.9734,Oct-Mar
+584,Kainchi Dham Ashram,Bhowali,Uttarakhand,Religious,4.7,7.48,Oct-Mar
+585,Golu Devta Temple,Ghorakhal,Uttarakhand,Religious,4.6,8.3972,Oct-Mar
+586,Dhanaulti Eco Park,Dhanaulti,Uttarakhand,Nature,4.1,7.2133,Jul-Sep
+587,Surkanda Devi Temple,Dhanaulti,Uttarakhand,Religious,4.5,6.7187,Oct-Mar
+588,Tehri Dam,Tehri,Uttarakhand,Education,4.4,6.8783,Oct-Mar
+589,Kanatal Hill Top,Tehri,Uttarakhand,Leisure,3.9,6.8758,Oct-Mar
+590,Robber's Cave,Dehradun,Uttarakhand,Nature,4.2,6.9476,Jul-Sep
+591,Sahastradhara,Dehradun,Uttarakhand,Nature,3.4,6.9083,Jul-Sep
+592,Tapkeshwar Temple,Dehradun,Uttarakhand,Religious,4.5,8.4197,Oct-Mar
+593,Mindrolling Monastery,Dehradun,Uttarakhand,Religious,4.6,7.0379,Oct-Mar
+594,Forest Research Institute,Dehradun,Uttarakhand,Education,4.7,7.531,Oct-Mar
+595,Paltan Bazaar,Dehradun,Uttarakhand,Shopping,3.5,9.1901,Oct-Mar
+596,Malsi Deer Park,Dehradun,Uttarakhand,Wildlife,3.2,7.9172,Nov-Feb
+597,Rajaji National Park,Haridwar,Uttarakhand,Wildlife,4.3,8.5,Nov-Feb
+598,Chandi Devi Temple,Haridwar,Uttarakhand,Religious,4.4,7.0091,Oct-Mar
+599,Mansa Devi Temple,Haridwar,Uttarakhand,Religious,4.2,7.0692,Oct-Mar
+600,Daksh Prajapati Temple,Kankhal,Uttarakhand,Religious,4.5,6.6133,Oct-Mar
+601,Majuli Island Village,Majuli,Assam,Culture,4.6,6.9989,Oct-Mar
+602,Kamalabari Satra,Majuli,Assam,Religious,4.4,7.329,Oct-Mar
+603,Auniati Satra,Majuli,Assam,Religious,4.5,7.0232,Oct-Mar
+604,Dakhinpat Satra,Majuli,Assam,Religious,4.3,6.7574,Oct-Mar
+605,Sivasagar Sivadol,Sivasagar,Assam,Religious,4.5,6.8535,Oct-Mar
+606,Rang Ghar,Sivasagar,Assam,Historical,4.4,7.8775,Oct-Mar
+607,Talatal Ghar,Sivasagar,Assam,Historical,4.5,7.1115,Oct-Mar
+608,Charaideo Maidam,Sivasagar,Assam,Historical,4.2,7.587,Oct-Mar
+609,Pobitora Wildlife Sanctuary,Marigaon,Assam,Wildlife,4.4,8.0059,Nov-Feb
+610,Orang National Park,Darrang,Assam,Wildlife,4.1,8.5688,Nov-Feb
+611,Dibru-Saikhowa Park,Tinsukia,Assam,Wildlife,4.3,6.6087,Nov-Feb
+612,Digboi Oil Well No 1,Digboi,Assam,Education,4.1,8.897,Oct-Mar
+613,Digboi War Cemetery,Digboi,Assam,Historical,4.5,8.3806,Oct-Mar
+614,Umananda Temple,Guwahati,Assam,Religious,4.6,6.7365,Oct-Mar
+615,Assam State Museum,Guwahati,Assam,Education,4.2,9.1203,Oct-Mar
+616,Guwahati Planetarium,Guwahati,Assam,Education,3.8,9.2626,Oct-Mar
+617,Accoland,Guwahati,Assam,Leisure,3.2,6.6742,Oct-Mar
+618,Madan Kamdev Ruins,Baihata Chariali,Assam,Historical,4.0,7.3239,Oct-Mar
+619,Hajo Powa Mecca,Hajo,Assam,Religious,4.1,8.9174,Oct-Mar
+620,Hayagriva Madhava Temple,Hajo,Assam,Religious,4.4,8.743,Oct-Mar
+621,Mokokchung Village,Mokokchung,Nagaland,Culture,4.3,7.0458,Oct-Mar
+622,Ungma Village,Mokokchung,Nagaland,Culture,4.1,7.1206,Oct-Mar
+623,Longkhum Village,Mokokchung,Nagaland,Nature,4.5,7.6056,Jul-Sep
+624,Kohima War Cemetery,Kohima,Nagaland,Historical,4.7,7.949,Oct-Mar
+625,Kisama Heritage Village,Kohima,Nagaland,Culture,4.6,8.3516,Oct-Mar
+626,Dzukou Valley,Kohima,Nagaland,Adventure,4.8,7.6009,Apr-Jun
+627,Japfu Peak,Kohima,Nagaland,Adventure,4.4,7.8828,Apr-Jun
+628,Kohima State Museum,Kohima,Nagaland,Education,4.0,8.7406,Oct-Mar
+629,Khonoma Green Village,Kohima,Nagaland,Culture,4.5,6.6007,Oct-Mar
+630,Tura Peak,Tura,Meghalaya,Nature,4.1,7.2503,Jul-Sep
+631,Nokrek National Park,Tura,Meghalaya,Wildlife,4.3,8.6379,Nov-Feb
+632,Siju Caves,South Garo Hills,Meghalaya,Adventure,4.2,9.1854,Apr-Jun
+633,Balpakram National Park,South Garo Hills,Meghalaya,Wildlife,4.4,8.0307,Nov-Feb
+634,Elephant Falls,Shillong,Meghalaya,Nature,4.1,8.0923,Jul-Sep
+635,Shillong Peak,Shillong,Meghalaya,Nature,3.9,6.813,Jul-Sep
+636,Ward's Lake,Shillong,Meghalaya,Leisure,4.0,7.8373,Oct-Mar
+637,Don Bosco Museum,Shillong,Meghalaya,Culture,4.7,8.0938,Oct-Mar
+638,Mawsmai Cave,Cherrapunji,Meghalaya,Adventure,4.3,7.2203,Apr-Jun
+639,Nohkalikai Falls,Cherrapunji,Meghalaya,Nature,4.7,7.3009,Jul-Sep
+640,Seven Sisters Falls,Cherrapunji,Meghalaya,Nature,4.4,7.6261,Jul-Sep
+641,Mawsynram Village,Mawsynram,Meghalaya,Nature,4.2,6.5507,Jul-Sep
+642,Krem Puri Cave,Mawsynram,Meghalaya,Adventure,4.5,7.4599,Apr-Jun
+643,Mawlynnong Clean Village,Mawlynnong,Meghalaya,Culture,4.6,7.1269,Oct-Mar
+644,Dawki Umngot River,Dawki,Meghalaya,Nature,4.7,7.4763,Jul-Sep
+645,Shnongpdeng,Dawki,Meghalaya,Adventure,4.6,6.8509,Apr-Jun
+646,Laitlum Canyons,Shillong,Meghalaya,Nature,4.7,9.1713,Jul-Sep
+647,Umiam Lake View Point,Ri-Bhoi,Meghalaya,Leisure,3.7,8.2773,Oct-Mar
+648,Kangla Fort,Imphal,Manipur,Historical,4.5,8.5348,Oct-Mar
+649,IMA Market,Imphal,Manipur,Culture,4.6,8.8661,Oct-Mar
+650,Keibul Lamjao Park,Bishnupur,Manipur,Wildlife,4.4,7.9909,Nov-Feb
+651,Lothal Dockyard Ruins,Saragwala,Gujarat,Historical,4.1,6.752,Oct-Mar
+652,Lothal Museum,Saragwala,Gujarat,Education,3.8,8.1073,Oct-Mar
+653,Dholavira Ancient City,Kutch,Gujarat,Historical,4.7,8.257,Oct-Mar
+654,Wood Fossil Park,Dholavira,Gujarat,Education,3.4,8.7345,Oct-Mar
+655,White Rann Tent City,Dhordo,Gujarat,Leisure,4.5,7.7898,Oct-Mar
+656,Kala Dungar,Kutch,Gujarat,Nature,4.3,6.8744,Jul-Sep
+657,Aina Mahal,Bhuj,Gujarat,Historical,4.2,7.3446,Oct-Mar
+658,Prag Mahal,Bhuj,Gujarat,Historical,4.1,7.5834,Oct-Mar
+659,Kutch Museum,Bhuj,Gujarat,Education,4.0,8.4349,Oct-Mar
+660,Swaminarayan Temple Bhuj,Bhuj,Gujarat,Religious,4.6,8.2087,Oct-Mar
+661,Hamirsar Lake,Bhuj,Gujarat,Leisure,3.3,7.5624,Oct-Mar
+662,Mandvi Ship Building,Mandvi,Gujarat,Culture,4.2,9.4603,Oct-Mar
+663,Vijay Vilas Palace Garden,Mandvi,Gujarat,Leisure,3.9,8.314,Oct-Mar
+664,72 Jinalaya Temple,Mandvi,Gujarat,Religious,4.4,7.2045,Oct-Mar
+665,Narala Marine Park,Jamnagar,Gujarat,Wildlife,4.2,6.7967,Nov-Feb
+666,Lakhota Palace,Jamnagar,Gujarat,Historical,4.1,6.9505,Oct-Mar
+667,Bala Hanuman Temple,Jamnagar,Gujarat,Religious,4.5,7.2308,Oct-Mar
+668,Khijadiya Bird Sanctuary,Jamnagar,Gujarat,Wildlife,4.3,6.974,Nov-Feb
+669,Bet Dwarka,Okha,Gujarat,Religious,4.4,7.052,Oct-Mar
+670,Nageshwar Jyotirlinga,Dwarka,Gujarat,Religious,4.6,7.3486,Oct-Mar
+671,Gomti Ghat,Dwarka,Gujarat,Religious,4.5,7.0123,Oct-Mar
+672,Dwarka Beach,Dwarka,Gujarat,Beach,2.5,9.1901,Mar-Jun
+673,Sudama Setu,Dwarka,Gujarat,Leisure,4.1,6.7319,Oct-Mar
+674,Porbandar Chowpati,Porbandar,Gujarat,Beach,3.6,8.0694,Mar-Jun
+675,Kirti Mandir,Porbandar,Gujarat,Historical,4.5,7.7258,Oct-Mar
+676,Tara Mandir Planetarium,Porbandar,Gujarat,Education,2.4,9.4478,Oct-Mar
+677,Somnath Beach,Veraval,Gujarat,Beach,2.2,6.8276,Mar-Jun
+678,Bhalka Tirth,Somnath,Gujarat,Religious,4.4,7.6881,Oct-Mar
+679,Triveni Sangam Somnath,Somnath,Gujarat,Religious,4.3,9.4089,Oct-Mar
+680,Junagadh Mahabat Maqbara,Junagadh,Gujarat,Historical,4.5,9.096,Oct-Mar
+681,Uparkot Buddhist Caves,Junagadh,Gujarat,Historical,4.1,8.9501,Oct-Mar
+682,Edicts of Ashoka,Junagadh,Gujarat,Historical,4.6,7.2667,Oct-Mar
+683,Datar Hill,Junagadh,Gujarat,Religious,4.2,7.0048,Oct-Mar
+684,Sasan Gir Safari,Sasan Gir,Gujarat,Wildlife,4.7,8.5033,Nov-Feb
+685,Devalia Safari Park,Sasan Gir,Gujarat,Wildlife,4.1,9.2882,Nov-Feb
+686,Tulsi Shyam Springs,Gir Forest,Gujarat,Nature,4.0,8.1665,Jul-Sep
+687,Diu Naida Caves,Diu,Daman & Diu,Adventure,4.6,8.2112,Apr-Jun
+688,St. Paul's Church,Diu,Daman & Diu,Religious,4.4,7.3332,Oct-Mar
+689,Diu Shell Museum,Diu,Daman & Diu,Education,1.8,8.8069,Oct-Mar
+690,Ghoghla Beach,Diu,Daman & Diu,Beach,4.2,7.0534,Mar-Jun
+691,Sunset Point Diu,Diu,Daman & Diu,Leisure,4.1,7.4648,Oct-Mar
+692,Chakratirth Beach,Diu,Daman & Diu,Beach,3.7,7.7711,Mar-Jun
+693,Saputara Lake,Saputara,Gujarat,Leisure,3.9,8.0185,Oct-Mar
+694,Saputara Ropeway,Saputara,Gujarat,Adventure,3.5,7.2201,Apr-Jun
+695,Gira Waterfalls,Saputara,Gujarat,Nature,4.3,6.836,Jul-Sep
+696,Vansda National Park,Navsari,Gujarat,Wildlife,3.8,8.3286,Nov-Feb
+697,Dandi Memorial,Navsari,Gujarat,Historical,4.6,7.3592,Oct-Mar
+698,Tithal Beach,Valsad,Gujarat,Beach,3.6,8.2402,Mar-Jun
+699,Wilson Hills,Valsad,Gujarat,Hill Station,4.1,6.955,Mar-Jun
+700,Daman Lighthouse,Daman,Daman & Diu,Historical,4.0,7.9388,Oct-Mar
+701,Ross Island (Netaji Subhash Chandra Bose Dweep),Port Blair,Andaman & Nicobar,Historical,4.6,8.0937,Oct-Mar
+702,North Bay Island,Port Blair,Andaman & Nicobar,Adventure,4.2,6.6463,Apr-Jun
+703,Chidiya Tapu Sunset Point,Port Blair,Andaman & Nicobar,Nature,4.5,7.5037,Jul-Sep
+704,Corbyn's Cove Beach,Port Blair,Andaman & Nicobar,Beach,3.8,6.895,Mar-Jun
+705,Samudrika Marine Museum,Port Blair,Andaman & Nicobar,Education,4.1,6.6811,Oct-Mar
+706,Mount Harriet National Park,Ferrargunj,Andaman & Nicobar,Wildlife,4.3,9.4706,Nov-Feb
+707,Baratang Limestone Caves,Baratang Island,Andaman & Nicobar,Adventure,4.4,7.4608,Apr-Jun
+708,Mud Volcano Baratang,Baratang Island,Andaman & Nicobar,Nature,3.2,8.9285,Jul-Sep
+709,Elephant Beach,Havelock Island,Andaman & Nicobar,Adventure,4.5,7.2569,Apr-Jun
+710,Kalapathar Beach,Havelock Island,Andaman & Nicobar,Beach,4.4,8.542,Mar-Jun
+711,Neil Island (Shaheed Dweep),Neil Island,Andaman & Nicobar,Nature,4.6,8.779,Jul-Sep
+712,Bharatpur Beach,Neil Island,Andaman & Nicobar,Beach,4.2,8.2835,Mar-Jun
+713,Laxmanpur Beach,Neil Island,Andaman & Nicobar,Beach,4.3,7.91,Mar-Jun
+714,Natural Bridge Neil Island,Neil Island,Andaman & Nicobar,Nature,4.5,7.7302,Jul-Sep
+715,Jolly Buoy Island,Wandoor,Andaman & Nicobar,Adventure,4.7,7.5406,Apr-Jun
+716,Red Skin Island,Wandoor,Andaman & Nicobar,Nature,4.4,9.2887,Jul-Sep
+717,Wandoor Beach,Wandoor,Andaman & Nicobar,Beach,3.9,8.9909,Mar-Jun
+718,Mahatma Gandhi Marine National Park,Wandoor,Andaman & Nicobar,Wildlife,4.3,9.3956,Nov-Feb
+719,Ross and Smith Islands,Diglipur,Andaman & Nicobar,Nature,4.7,6.8645,Jul-Sep
+720,Saddle Peak National Park,Diglipur,Andaman & Nicobar,Adventure,4.1,8.6906,Apr-Jun
+721,Shantiniketan (Visva-Bharati),Bolpur,West Bengal,Culture,4.6,9.3152,Oct-Mar
+722,Tagore's Ashram,Shantiniketan,West Bengal,Historical,4.5,7.0359,Oct-Mar
+723,Kala Bhavan,Shantiniketan,West Bengal,Culture,4.4,6.6905,Oct-Mar
+724,Amar Kutir,Birbhum,West Bengal,Shopping,4.2,8.7215,Oct-Mar
+725,Kopai River View,Bolpur,West Bengal,Nature,3.7,8.2198,Jul-Sep
+726,Tarapith Temple,Birbhum,West Bengal,Religious,4.5,9.0247,Oct-Mar
+727,Bishnupur Terracotta Temples,Bankura,West Bengal,Historical,4.7,6.9111,Oct-Mar
+728,Rasmancha,Bishnupur,West Bengal,Historical,4.6,8.8845,Oct-Mar
+729,Jorganda Gate,Bishnupur,West Bengal,Historical,3.5,7.0973,Oct-Mar
+730,Madan Mohan Temple,Bishnupur,West Bengal,Religious,4.5,6.983,Oct-Mar
+731,Susunia Hills,Bankura,West Bengal,Adventure,4.1,6.9848,Apr-Jun
+732,Biharinath Hill,Bankura,West Bengal,Nature,3.9,8.9426,Jul-Sep
+733,Mukutmanipur Dam,Bankura,West Bengal,Leisure,4.0,8.4929,Oct-Mar
+734,Jhilimili Forest,Bankura,West Bengal,Nature,3.8,8.065,Jul-Sep
+735,Murshidabad Hazarduari Palace,Murshidabad,West Bengal,Historical,4.6,7.5706,Oct-Mar
+736,Katra Masjid,Murshidabad,West Bengal,Historical,4.4,9.1312,Oct-Mar
+737,Nashipur Rajbari,Murshidabad,West Bengal,Historical,4.1,7.6718,Oct-Mar
+738,Imambara Hooghly,Chinsurah,West Bengal,Historical,4.3,8.9487,Oct-Mar
+739,Bandel Church,Hooghly,West Bengal,Religious,4.5,7.8123,Oct-Mar
+740,Hangseshwari Temple,Bansberia,West Bengal,Religious,4.4,7.6251,Oct-Mar
+741,Chandannagar Museum,Chandannagar,West Bengal,Education,3.9,7.8832,Oct-Mar
+742,Sacred Heart Church,Chandannagar,West Bengal,Religious,4.2,7.3976,Oct-Mar
+743,Eden Gardens,Kolkata,West Bengal,Sports,4.7,8.741,Oct-Mar
+744,Princep Ghat,Kolkata,West Bengal,Leisure,4.5,8.0038,Oct-Mar
+745,Indian Museum,Kolkata,West Bengal,Education,4.4,7.1894,Oct-Mar
+746,Marble Palace,Kolkata,West Bengal,Historical,4.3,9.1985,Oct-Mar
+747,Birla Planetarium Kolkata,Kolkata,West Bengal,Education,4.2,7.646,Oct-Mar
+748,Nicco Park,Kolkata,West Bengal,Leisure,4.1,8.1267,Oct-Mar
+749,Eco Park New Town,Kolkata,West Bengal,Nature,4.6,9.2193,Jul-Sep
+750,Mother's Wax Museum,Kolkata,West Bengal,Culture,4.3,8.3696,Oct-Mar
+751,St. Paul's Cathedral,Kolkata,West Bengal,Religious,4.6,6.8422,Oct-Mar
+752,Kalighat Kali Temple,Kolkata,West Bengal,Religious,4.5,9.3197,Oct-Mar
+753,Belur Math,Howrah,West Bengal,Religious,4.8,8.3801,Oct-Mar
+754,Botanical Garden Howrah,Howrah,West Bengal,Nature,4.2,7.4986,Jul-Sep
+755,Digha Beach,Purba Medinipur,West Bengal,Beach,3.6,6.9096,Mar-Jun
+756,Mandarmani Beach,Purba Medinipur,West Bengal,Beach,4.2,8.8808,Mar-Jun
+757,Tajpur Beach,Purba Medinipur,West Bengal,Beach,4.1,8.3571,Mar-Jun
+758,Shankarpur Beach,Purba Medinipur,West Bengal,Beach,3.8,8.0963,Mar-Jun
+759,Bakkhali Beach,South 24 Parganas,West Bengal,Beach,3.7,9.1814,Mar-Jun
+760,Henry's Island,South 24 Parganas,West Bengal,Nature,4.3,8.8644,Jul-Sep
+761,Gangasagar (Sagar Island),South 24 Parganas,West Bengal,Religious,4.4,6.9469,Oct-Mar
+762,Mayapur ISKCON Temple,Nadia,West Bengal,Religious,4.8,7.4288,Oct-Mar
+763,Nabadwip Temples,Nadia,West Bengal,Religious,4.5,7.2384,Oct-Mar
+764,Bethuadahari Wildlife Sanctuary,Nadia,West Bengal,Wildlife,3.5,8.73,Nov-Feb
+765,Batasia Loop,Darjeeling,West Bengal,Historical,4.6,6.5913,Oct-Mar
+766,Tiger Hill Sunrise,Darjeeling,West Bengal,Nature,4.7,8.206,Jul-Sep
+767,Peace Pagoda Darjeeling,Darjeeling,West Bengal,Religious,4.5,8.7857,Oct-Mar
+768,Himalayan Mountaineering Institute,Darjeeling,West Bengal,Education,4.6,9.1298,Oct-Mar
+769,Padmaja Naidu Zoo,Darjeeling,West Bengal,Wildlife,4.5,7.5202,Nov-Feb
+770,Happy Valley Tea Estate,Darjeeling,West Bengal,Nature,4.2,8.9627,Jul-Sep
+771,Mirik Lake (Sumendu Lake),Mirik,West Bengal,Leisure,4.0,6.8234,Oct-Mar
+772,Pashupati Market,Indo-Nepal Border,West Bengal,Shopping,3.1,9.0386,Oct-Mar
+773,Sandakphu Trek,Ilam,West Bengal,Adventure,4.8,6.8741,Apr-Jun
+774,Singalila National Park,Darjeeling,West Bengal,Wildlife,4.6,7.6864,Nov-Feb
+775,Kalimpong Pine View Nursery,Kalimpong,West Bengal,Nature,4.1,8.8906,Jul-Sep
+776,Durpin Monastery,Kalimpong,West Bengal,Religious,4.4,6.9416,Oct-Mar
+777,Morgan House,Kalimpong,West Bengal,Historical,4.3,7.1805,Oct-Mar
+778,Deolo Hill,Kalimpong,West Bengal,Nature,4.5,8.6647,Jul-Sep
+779,Lava Monastery,Lava,West Bengal,Religious,4.4,8.658,Oct-Mar
+780,Neora Valley National Park,Kalimpong,West Bengal,Wildlife,4.3,8.4205,Nov-Feb
+781,Gorumara National Park,Lataguri,West Bengal,Wildlife,4.5,8.5795,Nov-Feb
+782,Jaldapara National Park,Alipurduar,West Bengal,Wildlife,4.6,8.1242,Nov-Feb
+783,Buxa Fort,Alipurduar,West Bengal,Historical,4.1,7.2484,Oct-Mar
+784,Jayanti River Bed,Buxa Tiger Reserve,West Bengal,Nature,4.4,7.531,Jul-Sep
+785,Chilapata Forest,Alipurduar,West Bengal,Wildlife,4.2,7.037,Nov-Feb
+786,Bindu Dam,Jalpaiguri,West Bengal,Nature,3.9,9.2252,Jul-Sep
+787,Udayagiri and Khandagiri Caves,Bhubaneswar,Odisha,Historical,4.5,8.2466,Oct-Mar
+788,Lingaraja Temple,Bhubaneswar,Odisha,Religious,4.7,7.6971,Oct-Mar
+789,Nandankanan Zoological Park,Bhubaneswar,Odisha,Wildlife,4.4,7.8812,Nov-Feb
+790,Dhauli Shanti Stupa,Bhubaneswar,Odisha,Religious,4.6,9.3421,Oct-Mar
+791,Odisha State Museum,Bhubaneswar,Odisha,Education,4.2,6.952,Oct-Mar
+792,Kala Bhoomi Crafts Museum,Bhubaneswar,Odisha,Culture,4.7,8.2552,Oct-Mar
+793,Mukteswara Temple,Bhubaneswar,Odisha,Religious,4.6,8.0133,Oct-Mar
+794,Rajarani Temple,Bhubaneswar,Odisha,Historical,4.5,8.3311,Oct-Mar
+795,Ekaterini Kanan,Bhubaneswar,Odisha,Nature,3.6,6.5448,Jul-Sep
+796,Konark Sun Temple Museum,Konark,Odisha,Education,4.1,9.1159,Oct-Mar
+797,Chandrabhaga Beach,Konark,Odisha,Beach,4.3,9.2965,Mar-Jun
+798,Puri Golden Beach,Puri,Odisha,Beach,4.5,8.1917,Mar-Jun
+799,Swargadwar Beach,Puri,Odisha,Religious,4.2,8.5876,Oct-Mar
+800,Chilika Lake (Mangalajodi),Khordha,Odisha,Wildlife,4.7,9.2675,Nov-Feb
+801,Chilika Lake (Satapada Dolphin Point),Puri,Odisha,Nature,4.4,8.6195,Jul-Sep
+802,Pipili Village,Puri,Odisha,Culture,4.2,6.9495,Oct-Mar
+803,Raghurajpur Artist Village,Puri,Odisha,Culture,4.6,8.2252,Oct-Mar
+804,Sakshi Gopal Temple,Puri,Odisha,Religious,4.3,8.3169,Oct-Mar
+805,Gopalpur Beach,Ganjam,Odisha,Beach,4.2,7.7672,Mar-Jun
+806,Tara Tarini Hill Shrine,Ganjam,Odisha,Religious,4.6,8.7074,Oct-Mar
+807,Tampara Lake,Chatrapur,Odisha,Leisure,4.1,9.3033,Oct-Mar
+808,Rushikulya Turtle Nesting Site,Ganjam,Odisha,Wildlife,4.4,9.2768,Nov-Feb
+809,Daringbadi (Odisha's Kashmir),Kandhamal,Odisha,Hill Station,4.1,7.8476,Mar-Jun
+810,Simlipal National Park,Mayurbhanj,Odisha,Wildlife,4.5,6.8312,Nov-Feb
+811,Barehipani Falls,Simlipal,Odisha,Nature,4.3,9.4552,Jul-Sep
+812,Khiching Temple,Mayurbhanj,Odisha,Religious,4.4,9.0158,Oct-Mar
+813,Baripada Jagannath Temple,Mayurbhanj,Odisha,Religious,4.5,6.8656,Oct-Mar
+814,Chandipur Sea Beach,Balasore,Odisha,Beach,4.4,9.2625,Mar-Jun
+815,Panchalingeshwar Temple,Balasore,Odisha,Religious,4.5,9.1092,Oct-Mar
+816,Bhitarkanika Mangroves,Kendrapara,Odisha,Wildlife,4.6,8.0523,Nov-Feb
+817,Gahirmatha Marine Sanctuary,Kendrapara,Odisha,Wildlife,4.5,8.2704,Nov-Feb
+818,Hirakud Dam,Sambalpur,Odisha,Engineering,4.4,7.6915,Oct-Mar
+819,Samaleswari Temple,Sambalpur,Odisha,Religious,4.7,6.6552,Oct-Mar
+820,Debrigarh Wildlife Sanctuary,Sambalpur,Odisha,Wildlife,4.2,7.4994,Nov-Feb
+821,Leaning Temple of Huma,Sambalpur,Odisha,Historical,4.3,8.9073,Oct-Mar
+822,Khandadhar Falls,Keonjhar,Odisha,Nature,4.4,6.5043,Jul-Sep
+823,Ghatgaon Tarini Temple,Keonjhar,Odisha,Religious,4.6,7.4943,Oct-Mar
+824,Gupteswar Cave,Koraput,Odisha,Religious,4.4,7.689,Oct-Mar
+825,Duduma Waterfall,Koraput,Odisha,Nature,4.5,8.1082,Jul-Sep
+826,Kolab Dam,Koraput,Odisha,Leisure,4.1,9.2596,Oct-Mar
+827,Tribal Museum Koraput,Koraput,Odisha,Culture,4.3,7.533,Oct-Mar
+828,Sunabeda Aero Engine Factory,Sunabeda,Odisha,Education,4.4,7.5348,Oct-Mar
+829,Kapilash Temple,Dhenkanal,Odisha,Religious,4.5,8.7106,Oct-Mar
+830,Saptasajya Hill,Dhenkanal,Odisha,Nature,4.1,7.8517,Jul-Sep
+831,Mahima Gadi,Joranda,Odisha,Religious,4.4,7.1665,Oct-Mar
+832,Cuttack Maritime Museum,Cuttack,Odisha,Education,4.3,7.8524,Oct-Mar
+833,Netaji Birthplace Museum,Cuttack,Odisha,Historical,4.5,6.9144,Oct-Mar
+834,Barabati Fort Ruins,Cuttack,Odisha,Historical,3.8,7.0213,Oct-Mar
+835,Dhabaleswar Island Temple,Cuttack,Odisha,Religious,4.4,7.9907,Oct-Mar
+836,Ratnagiri Buddhist Excavations,Jajpur,Odisha,Historical,4.6,7.7515,Oct-Mar
+837,Udayagiri Buddhist Monastery,Jajpur,Odisha,Historical,4.5,9.2445,Oct-Mar
+838,Lalitgiri Stupa,Jajpur,Odisha,Historical,4.6,7.5813,Oct-Mar
+839,Biraja Temple,Jajpur,Odisha,Religious,4.5,8.2382,Oct-Mar
+840,Gangtok MG Marg,Gangtok,Sikkim,Shopping,4.6,8.3938,Oct-Mar
+841,Tsomgo Lake (Changu Lake),East Sikkim,Sikkim,Nature,4.7,6.5297,Jul-Sep
+842,Baba Harbhajan Singh Mandir,East Sikkim,Sikkim,Religious,4.6,8.4879,Oct-Mar
+843,Nathu La Pass Border,East Sikkim,Sikkim,Adventure,4.7,7.0263,Apr-Jun
+844,Enchey Monastery,Gangtok,Sikkim,Religious,4.3,9.3837,Oct-Mar
+845,Namgyal Institute of Tibetology,Gangtok,Sikkim,Education,4.4,6.9379,Oct-Mar
+846,Ban Jhakri Falls,Gangtok,Sikkim,Nature,4.1,7.7386,Jul-Sep
+847,Ganesh Tok Viewpoint,Gangtok,Sikkim,Nature,4.0,6.7473,Jul-Sep
+848,Hanuman Tok,Gangtok,Sikkim,Religious,4.5,9.4914,Oct-Mar
+849,Tashi Viewpoint,Gangtok,Sikkim,Nature,4.2,8.0022,Jul-Sep
+850,Rumtek Dharma Chakra Centre,Gangtok,Sikkim,Religious,4.6,8.2827,Oct-Mar
+851,Zuluk Silk Route,East Sikkim,Sikkim,Adventure,4.7,6.6922,Apr-Jun
+852,Kupup Elephant Lake,East Sikkim,Sikkim,Nature,4.5,8.7481,Jul-Sep
+853,Pelling Skywalk,Pelling,Sikkim,Adventure,4.6,7.1222,Apr-Jun
+854,Rabdentse Ruins,Pelling,Sikkim,Historical,4.5,9.1939,Oct-Mar
+855,Sangachoeling Monastery,Pelling,Sikkim,Religious,4.4,7.1079,Oct-Mar
+856,Pemayangtse Monastery,Pelling,Sikkim,Religious,4.5,7.0644,Oct-Mar
+857,Khecheopalri Wish-Fulfilling Lake,West Sikkim,Sikkim,Religious,4.6,6.6003,Oct-Mar
+858,Kanchenjunga Falls,Pelling,Sikkim,Nature,4.3,7.9115,Jul-Sep
+859,Rimbi Orange Garden,Pelling,Sikkim,Nature,3.8,8.1908,Jul-Sep
+860,Singshore Bridge,Pelling,Sikkim,Engineering,4.5,6.6881,Oct-Mar
+861,Lachung Village,North Sikkim,Sikkim,Nature,4.7,8.8251,Jul-Sep
+862,Yumthang Valley of Flowers,North Sikkim,Sikkim,Nature,4.8,7.855,Jul-Sep
+863,Zero Point (Yumesamdong),North Sikkim,Sikkim,Adventure,4.7,8.069,Apr-Jun
+864,Lachen Village,North Sikkim,Sikkim,Nature,4.5,7.8172,Jul-Sep
+865,Gurudongmar Sacred Lake,North Sikkim,Sikkim,Nature,4.8,7.6968,Jul-Sep
+866,Thangu Valley,North Sikkim,Sikkim,Nature,4.3,8.1751,Jul-Sep
+867,Chopta Valley,North Sikkim,Sikkim,Nature,4.6,6.9577,Jul-Sep
+868,Namchi Chardham (Siddheshwar Dham),Namchi,Sikkim,Religious,4.7,7.038,Oct-Mar
+869,Samdruptse Statue,Namchi,Sikkim,Religious,4.5,9.0848,Oct-Mar
+870,Temi Tea Garden,South Sikkim,Sikkim,Nature,4.6,9.3386,Jul-Sep
+871,Ravangla Buddha Park (Tathagata Tsal),Ravangla,Sikkim,Religious,4.8,7.6142,Oct-Mar
+872,Bon Monastery,Ravangla,Sikkim,Religious,4.4,7.3054,Oct-Mar
+873,Maenam Wildlife Sanctuary,Ravangla,Sikkim,Wildlife,4.2,8.4291,Nov-Feb
+874,Yuksom Coronation Site,West Sikkim,Sikkim,Historical,4.4,7.7208,Oct-Mar
+875,Dubdi Monastery,Yuksom,Sikkim,Religious,4.3,6.5667,Oct-Mar
+876,Tashiding Monastery,West Sikkim,Sikkim,Religious,4.5,6.9604,Oct-Mar
+877,Varsey Rhododendron Sanctuary,West Sikkim,Sikkim,Nature,4.6,8.6458,Jul-Sep
+878,Goechala Trek Base,Yuksom,Sikkim,Adventure,4.8,8.474,Apr-Jun
+879,Ziro Pine Grove,Ziro,Arunachal Pradesh,Nature,4.3,6.5719,Jul-Sep
+880,Talley Valley Wildlife Sanctuary,Ziro,Arunachal Pradesh,Wildlife,4.4,7.1586,Nov-Feb
+881,Meghna Cave Temple,Ziro,Arunachal Pradesh,Religious,4.2,7.186,Oct-Mar
+882,Tawang War Memorial,Tawang,Arunachal Pradesh,Historical,4.7,8.5131,Oct-Mar
+883,Sela Pass,Tawang,Arunachal Pradesh,Nature,4.7,6.5497,Jul-Sep
+884,Madhuri Lake (Sangetsar),Tawang,Arunachal Pradesh,Nature,4.6,6.8037,Jul-Sep
+885,Nuranang Falls (Bong Bong Falls),Tawang,Arunachal Pradesh,Nature,4.7,8.8985,Jul-Sep
+886,Bum La Pass Border,Tawang,Arunachal Pradesh,Adventure,4.8,7.0278,Apr-Jun
+887,P.T. Tso Lake,Tawang,Arunachal Pradesh,Nature,4.4,8.4554,Jul-Sep
+888,Gorichen Peak,Tawang,Arunachal Pradesh,Adventure,4.5,7.2074,Apr-Jun
+889,Bomdila Monastery,Bomdila,Arunachal Pradesh,Religious,4.5,6.7897,Oct-Mar
+890,Eaglenest Wildlife Sanctuary,Bomdila,Arunachal Pradesh,Wildlife,4.6,7.2224,Nov-Feb
+891,Dirang Valley,Bomdila,Arunachal Pradesh,Nature,4.5,8.6647,Jul-Sep
+892,Sangti Valley,Dirang,Arunachal Pradesh,Nature,4.4,9.0664,Jul-Sep
+893,Itanagar Ita Fort,Itanagar,Arunachal Pradesh,Historical,4.1,8.9897,Oct-Mar
+894,Jawaharlal Nehru State Museum,Itanagar,Arunachal Pradesh,Education,4.0,7.686,Oct-Mar
+895,Geker Sinying (Ganga Lake),Itanagar,Arunachal Pradesh,Nature,3.7,8.5016,Jul-Sep
+896,Namdapha National Park,Miao,Arunachal Pradesh,Wildlife,4.5,7.1074,Nov-Feb
+897,Pakhui (Pakke) Tiger Reserve,Seijosa,Arunachal Pradesh,Wildlife,4.4,7.3728,Nov-Feb
+898,Bhalukpong River Side,Bhalukpong,Arunachal Pradesh,Nature,4.2,9.1888,Jul-Sep
+899,Roing Mayudia Pass,Roing,Arunachal Pradesh,Adventure,4.5,6.5295,Apr-Jun
+900,Dong Village (First Sunrise),Anjaw,Arunachal Pradesh,Adventure,4.6,6.7477,Apr-Jun
+901,Vishnupad Temple,Gaya,Bihar,Religious,4.6,7.1162,Oct-Mar
+902,Barabar Caves,Jehanabad,Bihar,Historical,4.3,6.5702,Oct-Mar
+903,Sher Shah Suri Tomb,Sasaram,Bihar,Historical,4.5,7.0365,Oct-Mar
+904,Rohtasgarh Fort,Sasaram,Bihar,Historical,4.1,8.2456,Oct-Mar
+905,Pawapuri Jain Temple,Nalanda,Bihar,Religious,4.6,7.759,Oct-Mar
+906,Hiuen Tsang Memorial Hall,Nalanda,Bihar,Education,4.4,9.1777,Oct-Mar
+907,Rajgir Glass Bridge,Rajgir,Bihar,Adventure,4.2,8.9513,Apr-Jun
+908,Vishwa Shanti Stupa,Rajgir,Bihar,Religious,4.7,7.5194,Oct-Mar
+909,Vulture's Peak (Gridhakuta),Rajgir,Bihar,Historical,4.5,7.2713,Oct-Mar
+910,Bimbisara Jail,Rajgir,Bihar,Historical,3.8,7.6334,Oct-Mar
+911,Cyclopean Wall,Rajgir,Bihar,Historical,3.5,8.2674,Oct-Mar
+912,Ghora Katora Lake,Rajgir,Bihar,Nature,4.1,7.2973,Jul-Sep
+913,Vikramshila University Ruins,Bhagalpur,Bihar,Historical,4.3,8.3693,Oct-Mar
+914,Dolphin Sanctuary,Bhagalpur,Bihar,Wildlife,3.4,7.7229,Nov-Feb
+915,Valmiki National Park,West Champaran,Bihar,Wildlife,4.2,8.1523,Nov-Feb
+916,Kesaria Stupa,East Champaran,Bihar,Historical,4.0,7.8033,Oct-Mar
+917,Patna Museum,Patna,Bihar,Education,4.3,7.3768,Oct-Mar
+918,Golghar,Patna,Bihar,Historical,3.9,9.3457,Oct-Mar
+919,Takhat Sri Patna Sahib,Patna,Bihar,Religious,4.8,8.7892,Oct-Mar
+920,Sanjay Gandhi Biological Park,Patna,Bihar,Wildlife,4.1,6.9121,Nov-Feb
+921,Bihar Museum,Patna,Bihar,Culture,4.7,9.1049,Oct-Mar
+922,Maner Sharif Dargah,Patna,Bihar,Religious,4.2,7.9577,Oct-Mar
+923,Kakolat Waterfall,Nawada,Bihar,Nature,3.7,9.1834,Jul-Sep
+924,Munger Fort,Munger,Bihar,Historical,3.6,8.8983,Oct-Mar
+925,Jalmandir,Pawapuri,Bihar,Religious,4.7,7.7704,Oct-Mar
+926,Indira Gandhi Tulip Garden,Srinagar,Jammu & Kashmir,Nature,4.6,6.558,Jul-Sep
+927,Pari Mahal,Srinagar,Jammu & Kashmir,Historical,4.4,7.2992,Oct-Mar
+928,Shankaracharya Temple,Srinagar,Jammu & Kashmir,Religious,4.7,8.1209,Oct-Mar
+929,Chashme Shahi,Srinagar,Jammu & Kashmir,Nature,4.3,8.3974,Jul-Sep
+930,Hazratbal Shrine,Srinagar,Jammu & Kashmir,Religious,4.6,7.2667,Oct-Mar
+931,Dachigam National Park,Srinagar,Jammu & Kashmir,Wildlife,4.3,6.9098,Nov-Feb
+932,Aru Valley,Pahalgam,Jammu & Kashmir,Nature,4.6,9.0039,Jul-Sep
+933,Betaab Valley,Pahalgam,Jammu & Kashmir,Nature,4.7,9.4539,Jul-Sep
+934,Chandanwari,Pahalgam,Jammu & Kashmir,Nature,4.2,8.0729,Jul-Sep
+935,Baisaran Valley (Mini Switzerland),Pahalgam,Jammu & Kashmir,Nature,4.5,7.0072,Jul-Sep
+936,Sheshnag Lake,Anantnag,Jammu & Kashmir,Nature,4.8,7.3101,Jul-Sep
+937,Martand Sun Temple Ruins,Anantnag,Jammu & Kashmir,Historical,4.5,6.5457,Oct-Mar
+938,Khilanmarg,Gulmarg,Jammu & Kashmir,Adventure,4.4,9.2428,Apr-Jun
+939,Alpathar Lake,Gulmarg,Jammu & Kashmir,Nature,4.6,6.8448,Jul-Sep
+940,Apharwat Peak,Gulmarg,Jammu & Kashmir,Adventure,4.7,8.2259,Apr-Jun
+941,Wular Lake,Bandipora,Jammu & Kashmir,Nature,3.9,7.3154,Jul-Sep
+942,Manasbal Lake,Ganderbal,Jammu & Kashmir,Nature,4.1,8.1587,Jul-Sep
+943,Sonamarg Glaciers,Sonamarg,Jammu & Kashmir,Nature,4.7,8.4514,Jul-Sep
+944,Thajiwas Glacier,Sonamarg,Jammu & Kashmir,Adventure,4.6,8.9883,Apr-Jun
+945,Zoji La Pass,Sonamarg,Jammu & Kashmir,Adventure,4.5,7.1118,Apr-Jun
+946,Kishansar Lake,Sonamarg,Jammu & Kashmir,Nature,4.8,6.5234,Jul-Sep
+947,Yusmarg,Budgam,Jammu & Kashmir,Nature,4.4,6.9024,Jul-Sep
+948,Doodhpathri,Budgam,Jammu & Kashmir,Nature,4.5,9.1999,Jul-Sep
+949,Verinag Spring,Anantnag,Jammu & Kashmir,Nature,4.4,9.1212,Jul-Sep
+950,Aharbal Waterfall,Kulgam,Jammu & Kashmir,Nature,4.5,8.2888,Jul-Sep
+951,Leh Palace,Leh,Ladakh,Historical,4.3,8.2982,Oct-Mar
+952,Shanti Stupa Leh,Leh,Ladakh,Religious,4.7,8.4924,Oct-Mar
+953,Magnetic Hill,Leh,Ladakh,Nature,4.1,7.0183,Jul-Sep
+954,Sangam Point (Indus & Zanskar),Leh,Ladakh,Nature,4.6,9.2432,Jul-Sep
+955,Hall of Fame,Leh,Ladakh,Historical,4.8,7.751,Oct-Mar
+956,Spituk Monastery,Leh,Ladakh,Religious,4.5,7.6438,Oct-Mar
+957,Thiksey Monastery,Leh,Ladakh,Religious,4.7,8.0525,Oct-Mar
+958,Stakna Monastery,Leh,Ladakh,Religious,4.4,6.6317,Oct-Mar
+959,Shey Monastery,Leh,Ladakh,Religious,4.3,6.9909,Oct-Mar
+960,Alchi Monastery,Alchi,Ladakh,Religious,4.6,8.7122,Oct-Mar
+961,Likir Monastery,Likir,Ladakh,Religious,4.5,6.7396,Oct-Mar
+962,Lamayuru Moonland,Lamayuru,Ladakh,Nature,4.7,8.3061,Jul-Sep
+963,Diskit Monastery,Nubra Valley,Ladakh,Religious,4.6,7.2289,Oct-Mar
+964,Hunder Sand Dunes,Nubra Valley,Ladakh,Nature,4.7,7.6623,Jul-Sep
+965,Turtuk Village,Nubra Valley,Ladakh,Culture,4.8,7.3594,Oct-Mar
+966,Panamik Hot Springs,Nubra Valley,Ladakh,Nature,3.2,7.5611,Jul-Sep
+967,Tso Moriri Lake,Changthang,Ladakh,Nature,4.7,8.655,Jul-Sep
+968,Tso Kar Lake,Changthang,Ladakh,Nature,4.4,7.3848,Jul-Sep
+969,Khardung La Pass,Leh,Ladakh,Adventure,4.6,8.1955,Apr-Jun
+970,Chang La Pass,Leh,Ladakh,Adventure,4.5,7.9235,Apr-Jun
+971,Zanskar Valley,Padum,Ladakh,Adventure,4.8,8.4883,Apr-Jun
+972,Phugtal Monastery,Zanskar,Ladakh,Religious,4.9,9.3107,Oct-Mar
+973,Rangdum Monastery,Zanskar,Ladakh,Religious,4.3,8.6957,Oct-Mar
+974,Shinku La Pass,Zanskar,Ladakh,Adventure,4.6,7.1374,Apr-Jun
+975,Drass War Memorial,Kargil,Ladakh,Historical,4.9,6.5842,Oct-Mar
+976,Mulbekh Monastery,Kargil,Ladakh,Religious,4.2,7.2799,Oct-Mar
+977,Suru Valley,Kargil,Ladakh,Nature,4.4,8.2818,Jul-Sep
+978,Sukhna Wildlife Sanctuary,Chandigarh,Chandigarh,Wildlife,3.9,6.6451,Nov-Feb
+979,Le Corbusier Centre,Chandigarh,Chandigarh,Culture,4.2,7.9846,Oct-Mar
+980,Open Hand Monument,Chandigarh,Chandigarh,Historical,4.3,8.2871,Oct-Mar
+981,Rose Garden,Chandigarh,Chandigarh,Nature,4.4,7.4966,Jul-Sep
+982,Pinjore Gardens (Yadavindra),Panchkula,Haryana,Nature,4.1,8.8112,Jul-Sep
+983,Morni Hills,Panchkula,Haryana,Hill Station,3.6,6.8112,Mar-Jun
+984,Tikkar Taal,Morni Hills,Haryana,Leisure,3.4,6.7165,Oct-Mar
+985,Kurukshetra Brahma Sarovar,Kurukshetra,Haryana,Religious,4.6,8.6826,Oct-Mar
+986,Jyotisar Birthplace of Gita,Kurukshetra,Haryana,Religious,4.5,7.982,Oct-Mar
+987,Sheikh Chilli's Tomb,Kurukshetra,Haryana,Historical,4.2,8.5628,Oct-Mar
+988,Sultanpur Bird Sanctuary,Gurugram,Haryana,Wildlife,4.1,7.7994,Nov-Feb
+989,Heritage Transport Museum,Manesar,Haryana,Culture,4.7,7.2321,Oct-Mar
+990,Kingdom of Dreams,Gurugram,Haryana,Leisure,2.5,8.9563,Oct-Mar
+991,Cyber Hub,Gurugram,Haryana,Leisure,4.5,8.897,Oct-Mar
+992,Leisure Valley Park,Gurugram,Haryana,Nature,3.8,8.5817,Jul-Sep
+993,Surajkund Lake,Faridabad,Haryana,Historical,3.2,7.3096,Oct-Mar
+994,Badkhal Lake,Faridabad,Haryana,Nature,1.8,8.2672,Jul-Sep
+995,Damdama Lake,Sohna,Haryana,Adventure,3.5,7.577,Apr-Jun
+996,Sohna Hot Springs,Sohna,Haryana,Nature,2.6,6.766,Jul-Sep
+997,Raja Nahar Singh Palace,Ballabhgarh,Haryana,Historical,3.9,9.2519,Oct-Mar
+998,Tilyar Lake,Rohtak,Haryana,Leisure,3.6,6.9022,Oct-Mar
+999,Star Monument,Bhiwani,Haryana,Historical,4.3,9.351,Oct-Mar
+1000,Loharu Fort,Bhiwani,Haryana,Historical,2.9,7.833,Oct-Mar
+1001,Gobindgarh Fort,Amritsar,Punjab,Historical,4.5,7.0477,Oct-Mar
+1002,Durgiana Temple,Amritsar,Punjab,Religious,4.6,8.1217,Oct-Mar
+1003,Partition Museum,Amritsar,Punjab,Education,4.7,9.1183,Oct-Mar
+1004,Ram Bagh Gardens,Amritsar,Punjab,Nature,3.5,8.6947,Jul-Sep
+1005,Harike Wetland,Tarn Taran,Punjab,Wildlife,4.0,8.9185,Nov-Feb
+1006,Qila Mubarak,Bathinda,Punjab,Historical,4.1,8.4736,Oct-Mar
+1007,Rose Garden Bathinda,Bathinda,Punjab,Nature,3.8,8.5744,Jul-Sep
+1008,Chetak Park,Bathinda,Punjab,Leisure,3.4,9.0468,Oct-Mar
+1009,Virasat-e-Khalsa,Anandpur Sahib,Punjab,Culture,4.8,7.2419,Oct-Mar
+1010,Takht Sri Keshgarh Sahib,Anandpur Sahib,Punjab,Religious,4.7,7.9637,Oct-Mar
+1011,Anandpur Sahib Fort,Anandpur Sahib,Punjab,Historical,4.5,7.1563,Oct-Mar
+1012,Fatehgarh Sahib Gurudwara,Sirhind,Punjab,Religious,4.7,9.4637,Oct-Mar
+1013,Aam Khas Bagh,Sirhind,Punjab,Historical,3.7,9.3324,Oct-Mar
+1014,Sanghol Buddhist Stupa,Fatehgarh Sahib,Punjab,Historical,3.9,6.609,Oct-Mar
+1015,Rock Garden Ludhiana,Ludhiana,Punjab,Nature,3.2,8.6145,Jul-Sep
+1016,Maharaja Ranjit Singh War Museum,Ludhiana,Punjab,Education,4.3,9.2758,Oct-Mar
+1017,Nehru Rose Garden,Ludhiana,Punjab,Nature,3.8,7.0339,Jul-Sep
+1018,Tiger Safari Ludhiana,Ludhiana,Punjab,Wildlife,3.1,8.2001,Nov-Feb
+1019,Hardy’s World,Ludhiana,Punjab,Leisure,3.5,9.2464,Oct-Mar
+1020,Pushpa Gujral Science City,Kapurthala,Punjab,Education,4.4,6.5925,Oct-Mar
+1021,Jagatjit Palace,Kapurthala,Punjab,Historical,4.2,8.5899,Oct-Mar
+1022,Moorish Mosque,Kapurthala,Punjab,Religious,4.1,7.3855,Oct-Mar
+1023,Shalimar Gardens Kapurthala,Kapurthala,Punjab,Nature,3.3,9.2732,Jul-Sep
+1024,Wonderland Theme Park,Jalandhar,Punjab,Leisure,3.9,9.4137,Oct-Mar
+1025,Devi Talab Mandir,Jalandhar,Punjab,Religious,4.6,9.3331,Oct-Mar
+1026,Jang-e-Azadi Memorial,Kartarpur,Punjab,Culture,4.7,7.918,Oct-Mar
+1027,Rangla Punjab,Jalandhar,Punjab,Culture,4.3,9.0855,Oct-Mar
+1028,Science City Kapurthala,Jalandhar,Punjab,Education,4.4,9.0329,Oct-Mar
+1029,Qila Mubarak Patiala,Patiala,Punjab,Historical,4.0,7.451,Oct-Mar
+1030,Sheesh Mahal Patiala,Patiala,Punjab,Historical,3.9,8.9858,Oct-Mar
+1031,Moti Bagh Palace,Patiala,Punjab,Historical,4.1,6.6017,Oct-Mar
+1032,Baradari Gardens,Patiala,Punjab,Nature,3.8,8.2854,Jul-Sep
+1033,Gurudwara Dukh Niwan Sahib,Patiala,Punjab,Religious,4.8,7.1828,Oct-Mar
+1034,Bahadurgarh Fort,Patiala,Punjab,Historical,3.4,6.8533,Oct-Mar
+1035,Shahpur Kandi Fort,Pathankot,Punjab,Historical,3.6,6.722,Oct-Mar
+1036,Mukteshwar Mahadev,Pathankot,Punjab,Religious,4.5,8.5865,Oct-Mar
+1037,Ranjit Sagar Dam,Pathankot,Punjab,Leisure,4.2,7.5135,Oct-Mar
+1038,Kathgarh Temple,Pathankot,Punjab,Religious,4.4,8.6722,Oct-Mar
+1039,Mussorie Lake,Mussoorie,Uttarakhand,Leisure,3.6,6.6871,Oct-Mar
+1040,Kempty Falls,Mussoorie,Uttarakhand,Nature,3.4,7.4395,Jul-Sep
+1041,George Everest's House,Mussoorie,Uttarakhand,Historical,4.5,8.1145,Oct-Mar
+1042,Lal Tibba,Mussoorie,Uttarakhand,Nature,4.1,8.8708,Jul-Sep
+1043,Gun Hill,Mussoorie,Uttarakhand,Leisure,3.2,7.4499,Oct-Mar
+1044,Cloud’s End,Mussoorie,Uttarakhand,Nature,4.3,8.3746,Jul-Sep
+1045,Company Garden,Mussoorie,Uttarakhand,Leisure,3.9,9.1576,Oct-Mar
+1046,Camel's Back Road,Mussoorie,Uttarakhand,Nature,4.0,8.3444,Jul-Sep
+1047,Jhari Pani Falls,Mussoorie,Uttarakhand,Nature,3.5,7.1916,Jul-Sep
+1048,Mossy Falls,Mussoorie,Uttarakhand,Nature,3.1,6.5638,Jul-Sep
+1049,Benog Wildlife Sanctuary,Mussoorie,Uttarakhand,Wildlife,3.8,9.1098,Nov-Feb
+1050,Mindrolling Stupa,Dehradun,Uttarakhand,Religious,4.7,6.5543,Oct-Mar
+1051,Shikhar Fall,Dehradun,Uttarakhand,Nature,3.3,9.1236,Jul-Sep
+1052,Lachhiwala,Dehradun,Uttarakhand,Leisure,3.7,8.0827,Oct-Mar
+1053,Maldevta,Dehradun,Uttarakhand,Nature,4.1,9.3174,Jul-Sep
+1054,Santala Devi Temple,Dehradun,Uttarakhand,Religious,4.2,8.8951,Oct-Mar
+1055,Khalanga War Memorial,Dehradun,Uttarakhand,Historical,3.6,9.4946,Oct-Mar
+1056,Guru Ram Rai Darbar,Dehradun,Uttarakhand,Religious,4.5,7.5461,Oct-Mar
+1057,Tibetan Buddhist Temple,Dehradun,Uttarakhand,Religious,4.6,8.8,Oct-Mar
+1058,Chew Valley,Mussoorie,Uttarakhand,Nature,2.8,7.7003,Jul-Sep
+1059,Kimadi Road Viewpoint,Dehradun,Uttarakhand,Nature,4.4,7.935,Jul-Sep
+1060,George Everest Peak,Mussoorie,Uttarakhand,Adventure,4.7,8.3794,Apr-Jun
+1061,Asan Barrage,Dehradun,Uttarakhand,Wildlife,4.0,9.1206,Nov-Feb
+1062,Rishikesh Rafting Point,Rishikesh,Uttarakhand,Adventure,4.7,9.4529,Apr-Jun
+1063,Triveni Ghat Aarti,Rishikesh,Uttarakhand,Religious,4.8,8.8032,Oct-Mar
+1064,Neer Garh Waterfall,Rishikesh,Uttarakhand,Nature,4.2,7.748,Jul-Sep
+1065,Beatles Ashram,Rishikesh,Uttarakhand,Culture,4.4,7.7588,Oct-Mar
+1066,Parmarth Niketan,Rishikesh,Uttarakhand,Religious,4.7,8.7108,Oct-Mar
+1067,Ram Jhula,Rishikesh,Uttarakhand,Historical,4.6,7.2092,Oct-Mar
+1068,Jumpin Heights,Rishikesh,Uttarakhand,Adventure,4.8,6.8229,Apr-Jun
+1069,Shivpuri Camping,Rishikesh,Uttarakhand,Adventure,4.5,7.5579,Apr-Jun
+1070,Vashishta Gufa,Rishikesh,Uttarakhand,Religious,4.6,7.3551,Oct-Mar
+1071,Kunjapuri Temple,Rishikesh,Uttarakhand,Religious,4.5,7.3824,Oct-Mar
+1072,Kaudiyala,Rishikesh,Uttarakhand,Adventure,4.3,7.1936,Apr-Jun
+1073,Chilla Range Wildlife,Haridwar,Uttarakhand,Wildlife,4.1,6.617,Nov-Feb
+1074,Crystal World,Haridwar,Uttarakhand,Leisure,3.5,6.5441,Oct-Mar
+1075,Bharat Mata Mandir,Haridwar,Uttarakhand,Religious,4.3,9.4639,Oct-Mar
+1076,Shanti Kunj,Haridwar,Uttarakhand,Religious,4.6,7.7781,Oct-Mar
+1077,Pawan Dham,Haridwar,Uttarakhand,Religious,4.4,7.6473,Oct-Mar
+1078,Bhimgoda Kund,Haridwar,Uttarakhand,Religious,3.8,8.5364,Oct-Mar
+1079,Sapt Rishi Ashram,Haridwar,Uttarakhand,Religious,4.2,7.1474,Oct-Mar
+1080,Sati Kund,Kankhal,Uttarakhand,Religious,3.6,9.3502,Oct-Mar
+1081,Nanda Devi Peak,Joshimath,Uttarakhand,Nature,4.9,8.8576,Jul-Sep
+1082,Nanda Devi Temple,Almora,Uttarakhand,Religious,4.5,6.7595,Oct-Mar
+1083,Lakhudiyar Caves,Almora,Uttarakhand,Historical,3.9,7.7475,Oct-Mar
+1084,Bright End Corner,Almora,Uttarakhand,Nature,4.2,9.1369,Jul-Sep
+1085,Martola,Almora,Uttarakhand,Nature,4.1,9.3345,Jul-Sep
+1086,Kalimat,Almora,Uttarakhand,Nature,3.8,7.8974,Jul-Sep
+1087,Simtola,Almora,Uttarakhand,Nature,3.7,8.337,Jul-Sep
+1088,Govind Vallabh Pant Museum,Almora,Uttarakhand,Education,3.4,6.9932,Oct-Mar
+1089,Chitai Golu Devta Temple,Almora,Uttarakhand,Religious,4.8,9.4743,Oct-Mar
+1090,Patal Bhuvaneshwar Cave,Gangolihat,Uttarakhand,Religious,4.7,7.1878,Oct-Mar
+1091,Berinag Tea Gardens,Berinag,Uttarakhand,Nature,4.2,9.3284,Jul-Sep
+1092,Dharchula,Pithoragarh,Uttarakhand,Adventure,4.1,8.4461,Apr-Jun
+1093,Askot Musk Deer Sanctuary,Pithoragarh,Uttarakhand,Wildlife,3.9,8.3199,Nov-Feb
+1094,Jauljibi,Pithoragarh,Uttarakhand,Culture,3.5,8.0338,Oct-Mar
+1095,Milam Glacier,Munsiyari,Uttarakhand,Adventure,4.7,7.1848,Apr-Jun
+1096,Ralam Glacier,Munsiyari,Uttarakhand,Adventure,4.6,7.0218,Apr-Jun
+1097,Madkot Hot Springs,Munsiyari,Uttarakhand,Nature,3.2,7.1541,Jul-Sep
+1098,Betulidhar,Munsiyari,Uttarakhand,Nature,4.1,7.0516,Jul-Sep
+1099,Maheshwari Kund,Munsiyari,Uttarakhand,Nature,3.9,8.8373,Jul-Sep
+1100,Thamri Kund,Munsiyari,Uttarakhand,Nature,4.0,7.5444,Jul-Sep
+1101,Bhangarh Haunted Fort,Alwar,Rajasthan,Historical,3.8,6.6644,Oct-Mar
+1102,Sariska Palace,Sariska,Rajasthan,Historical,4.2,9.4078,Oct-Mar
+1103,Pandupol Hanuman Temple,Sariska,Rajasthan,Religious,4.4,9.151,Oct-Mar
+1104,Siliserh Lake Palace,Alwar,Rajasthan,Leisure,4.1,9.2833,Oct-Mar
+1105,Moosi Maharani Ki Chhatri,Alwar,Rajasthan,Historical,4.3,9.4855,Oct-Mar
+1106,Bala Quila Fort,Alwar,Rajasthan,Historical,3.9,7.0138,Oct-Mar
+1107,Neelkanth Mahadev Temple,Alwar,Rajasthan,Religious,4.5,7.6832,Oct-Mar
+1108,Garwaji Waterfall,Alwar,Rajasthan,Nature,3.2,8.773,Jul-Sep
+1109,Vinay Vilas Mahal,Alwar,Rajasthan,Historical,4.0,8.5857,Oct-Mar
+1110,Fateh Jung Gumbad,Alwar,Rajasthan,Historical,3.4,6.9536,Oct-Mar
+1111,Bikaner Camel Research Centre,Bikaner,Rajasthan,Science,4.4,8.9464,Oct-Mar
+1112,Lallgarh Palace,Bikaner,Rajasthan,Historical,4.2,7.166,Oct-Mar
+1113,Gajner Lake & Palace,Bikaner,Rajasthan,Nature,4.1,7.1641,Jul-Sep
+1114,Rampuria Havelis,Bikaner,Rajasthan,Historical,4.5,8.1069,Oct-Mar
+1115,Bhandasar Jain Temple,Bikaner,Rajasthan,Religious,4.6,8.2754,Oct-Mar
+1116,Seth Bhandasar Jain Temple,Bikaner,Rajasthan,Religious,4.4,8.2367,Oct-Mar
+1117,Devi Kund Sagar,Bikaner,Rajasthan,Historical,4.1,6.7657,Oct-Mar
+1118,Kodamdeswar Temple,Bikaner,Rajasthan,Religious,3.8,9.1319,Oct-Mar
+1119,Sadul Singh Museum,Bikaner,Rajasthan,Culture,3.9,7.2899,Oct-Mar
+1120,Bikaner Old City Food Street,Bikaner,Rajasthan,Cuisine,4.5,6.8802,Oct-Mar
+1121,Johari Bazaar,Jaipur,Rajasthan,Shopping,4.6,9.1659,Oct-Mar
+1122,Bapu Bazaar,Jaipur,Rajasthan,Shopping,4.4,9.3673,Oct-Mar
+1123,Panna Meena Ka Kund,Jaipur,Rajasthan,Historical,4.5,9.0858,Oct-Mar
+1124,Sisodia Rani Garden,Jaipur,Rajasthan,Nature,3.7,8.9274,Jul-Sep
+1125,Vidyadhar Garden,Jaipur,Rajasthan,Nature,3.5,8.4629,Jul-Sep
+1126,Central Park Jaipur,Jaipur,Rajasthan,Leisure,4.2,8.1487,Oct-Mar
+1127,Amrapali Museum,Jaipur,Rajasthan,Culture,4.5,6.7522,Oct-Mar
+1128,Anokhi Museum of Hand Printing,Jaipur,Rajasthan,Culture,4.4,7.72,Oct-Mar
+1129,World Trade Park Mall,Jaipur,Rajasthan,Shopping,4.3,7.6123,Oct-Mar
+1130,Masala Chowk,Jaipur,Rajasthan,Cuisine,4.2,7.2723,Oct-Mar
+1131,Amer Elephant Village,Jaipur,Rajasthan,Wildlife,3.4,8.6682,Nov-Feb
+1132,Patrika Gate,Jaipur,Rajasthan,Culture,4.6,7.9832,Oct-Mar
+1133,Sambharsalt Lake,Sambhar,Rajasthan,Nature,4.1,6.7343,Jul-Sep
+1134,Shakambhari Devi Temple,Sambhar,Rajasthan,Religious,4.3,7.1532,Oct-Mar
+1135,Khatushyamji Temple,Sikar,Rajasthan,Religious,4.7,8.5473,Oct-Mar
+1136,Salasar Balaji Temple,Churu,Rajasthan,Religious,4.7,6.7195,Oct-Mar
+1137,Tal Chhapar Sanctuary,Churu,Rajasthan,Wildlife,4.5,9.0529,Nov-Feb
+1138,Jhunjhunu Rani Sati Dadi,Jhunjhunu,Rajasthan,Religious,4.6,7.981,Oct-Mar
+1139,Mandawa Havelis,Mandawa,Rajasthan,Historical,4.4,7.9371,Oct-Mar
+1140,Nawalgarh Fort,Nawalgarh,Rajasthan,Historical,4.1,8.2738,Oct-Mar
+1141,Dundlod Fort,Jhunjhunu,Rajasthan,Historical,3.9,8.973,Oct-Mar
+1142,Alsisar Mahal,Jhunjhunu,Rajasthan,Historical,4.2,7.5374,Oct-Mar
+1143,Osian Desert Temples,Jodhpur,Rajasthan,Historical,4.5,8.5315,Oct-Mar
+1144,Bishnoi Village Safari,Jodhpur,Rajasthan,Culture,4.4,8.1935,Oct-Mar
+1145,Toorji Ka Jhalra Stepwell,Jodhpur,Rajasthan,Historical,4.6,7.2942,Oct-Mar
+1146,Machia Biological Park,Jodhpur,Rajasthan,Wildlife,3.8,9.1355,Nov-Feb
+1147,Rao Jodha Desert Rock Park,Jodhpur,Rajasthan,Nature,4.5,8.891,Jul-Sep
+1148,Balsamand Lake,Jodhpur,Rajasthan,Nature,4.0,8.4726,Jul-Sep
+1149,Ghanta Ghar Market,Jodhpur,Rajasthan,Shopping,4.2,9.051,Oct-Mar
+1150,Sardar Samand Lake,Pali,Rajasthan,Nature,3.6,9.1013,Jul-Sep
+1151,Ranakpur Jain Temple,Pali,Rajasthan,Religious,4.8,8.6229,Oct-Mar
+1152,Jawai Dam Leopard Safari,Pali,Rajasthan,Wildlife,4.7,9.0102,Nov-Feb
+1153,Kumbhalgarh Wildlife Sanctuary,Rajsamand,Rajasthan,Wildlife,4.1,8.5901,Nov-Feb
+1154,Haldighati Museum,Rajsamand,Rajasthan,Historical,4.3,8.5379,Oct-Mar
+1155,Shreenathji Temple,Nathdwara,Rajasthan,Religious,4.7,8.3527,Oct-Mar
+1156,Statue of Belief (Viswas Swaroopam),Nathdwara,Rajasthan,Religious,4.7,8.7564,Oct-Mar
+1157,Rajsamand Lake,Rajsamand,Rajasthan,Nature,3.9,6.9678,Jul-Sep
+1158,Sajjangarh Monsoon Palace,Udaipur,Rajasthan,Historical,4.2,9.1422,Oct-Mar
+1159,Biological Park Sajjangarh,Udaipur,Rajasthan,Wildlife,4.0,9.115,Nov-Feb
+1160,Jag Mandir Island,Udaipur,Rajasthan,Historical,4.4,6.5784,Oct-Mar
+1161,Gulab Bagh and Zoo,Udaipur,Rajasthan,Nature,3.2,8.9765,Jul-Sep
+1162,Bagore Ki Haveli,Udaipur,Rajasthan,Culture,4.6,6.8783,Oct-Mar
+1163,Bharatiya Lok Kala Mandal,Udaipur,Rajasthan,Culture,4.3,7.4992,Oct-Mar
+1164,Vintage Car Museum Udaipur,Udaipur,Rajasthan,Culture,4.1,8.7287,Oct-Mar
+1165,Shilpgram Crafts Village,Udaipur,Rajasthan,Culture,4.4,6.9743,Oct-Mar
+1166,Jaisamand Lake,Udaipur,Rajasthan,Nature,4.0,8.9528,Jul-Sep
+1167,Badi Lake Viewpoint,Udaipur,Rajasthan,Nature,4.5,8.9955,Jul-Sep
+1168,Moti Magri,Udaipur,Rajasthan,Historical,4.1,8.0181,Oct-Mar
+1169,Dhebar Lake,Udaipur,Rajasthan,Nature,3.7,6.5095,Jul-Sep
+1170,Sas Bahu Temple Nagda,Udaipur,Rajasthan,Historical,4.5,7.3545,Oct-Mar
+1171,Sita Mata Wildlife Sanctuary,Pratapgarh,Rajasthan,Wildlife,4.2,8.3476,Nov-Feb
+1172,Garh Palace Kota,Kota,Rajasthan,Historical,4.1,9.4442,Oct-Mar
+1173,Seven Wonders Park,Kota,Rajasthan,Leisure,4.3,8.3924,Oct-Mar
+1174,Kishore Sagar Lake,Kota,Rajasthan,Nature,4.2,7.2725,Jul-Sep
+1175,Jagmandir Palace Kota,Kota,Rajasthan,Historical,3.8,8.399,Oct-Mar
+1176,Chambal River Safari,Kota,Rajasthan,Adventure,4.4,8.116,Apr-Jun
+1177,Abheda Mahal,Kota,Rajasthan,Historical,3.4,8.8381,Oct-Mar
+1178,Gaipernath Waterfall,Kota,Rajasthan,Nature,4.1,6.8124,Jul-Sep
+1179,Darrah National Park,Kota,Rajasthan,Wildlife,3.6,8.7814,Nov-Feb
+1180,Gagron Fort (Jal Durg),Jhalawar,Rajasthan,Historical,4.5,8.1198,Oct-Mar
+1181,Jhalrapatan Sun Temple,Jhalawar,Rajasthan,Religious,4.4,9.3894,Oct-Mar
+1182,Chandrabhaga Temples,Jhalawar,Rajasthan,Religious,4.2,7.5195,Oct-Mar
+1183,Bundi Palace,Bundi,Rajasthan,Historical,4.5,8.3948,Oct-Mar
+1184,Chaurasi Khambon Ki Chhatri,Bundi,Rajasthan,Historical,4.1,9.2962,Oct-Mar
+1185,Sukh Mahal,Bundi,Rajasthan,Historical,3.7,6.7989,Oct-Mar
+1186,Nawal Sagar Lake,Bundi,Rajasthan,Nature,3.4,9.3119,Jul-Sep
+1187,Menal Waterfalls,Bhilwara,Rajasthan,Nature,4.3,8.5612,Jul-Sep
+1188,Bijolia Temples,Bhilwara,Rajasthan,Religious,4.2,6.6945,Oct-Mar
+1189,Harni Mahadev Temple,Bhilwara,Rajasthan,Religious,4.4,7.3964,Oct-Mar
+1190,Shahpura Bagh,Bhilwara,Rajasthan,Leisure,4.1,8.6223,Oct-Mar
+1191,Todgarh Raoli Sanctuary,Ajmer,Rajasthan,Wildlife,3.9,6.6931,Nov-Feb
+1192,Ana Sagar Lake,Ajmer,Rajasthan,Nature,4.0,8.243,Jul-Sep
+1193,Dargah Sharif Ajmer,Ajmer,Rajasthan,Religious,4.6,7.5316,Oct-Mar
+1194,Adhai Din Ka Jhonpra,Ajmer,Rajasthan,Historical,4.3,8.3596,Oct-Mar
+1195,Taragarh Fort Ajmer,Ajmer,Rajasthan,Historical,3.5,6.628,Oct-Mar
+1196,Nareli Jain Temple,Ajmer,Rajasthan,Religious,4.5,9.1141,Oct-Mar
+1197,Mayo College Museum,Ajmer,Rajasthan,Education,4.4,9.421,Oct-Mar
+1198,Soniji Ki Nasiyan (Red Temple),Ajmer,Rajasthan,Religious,4.6,9.4072,Oct-Mar
+1199,Akbar's Palace & Museum,Ajmer,Rajasthan,Historical,4.1,8.7472,Oct-Mar
+1200,Foy Sagar Lake,Ajmer,Rajasthan,Nature,3.2,6.8819,Jul-Sep
+1201,Worli Sea Link,Mumbai,Maharashtra,Engineering,4.7,8.7731,Oct-Mar
+1202,Bandra Fort (Castella de Aguada),Mumbai,Maharashtra,Historical,4.3,6.5643,Oct-Mar
+1203,Mount Mary Basilica,Bandra,Maharashtra,Religious,4.6,6.5569,Oct-Mar
+1204,Bandra-Worli Promenade,Mumbai,Maharashtra,Leisure,4.5,7.4646,Oct-Mar
+1205,Carter Road,Bandra,Maharashtra,Leisure,4.2,7.9614,Oct-Mar
+1206,Linkin Road Shopping,Bandra,Maharashtra,Shopping,4.0,8.8097,Oct-Mar
+1207,Crawford Market,Mumbai,Maharashtra,Shopping,3.9,8.5474,Oct-Mar
+1208,Colaba Causeway,Mumbai,Maharashtra,Shopping,4.3,7.8327,Oct-Mar
+1209,Chor Bazaar,Mumbai,Maharashtra,Shopping,3.5,7.3141,Oct-Mar
+1210,Fashion Street Mumbai,Mumbai,Maharashtra,Shopping,3.1,9.4922,Oct-Mar
+1211,Siddhivinayak Temple,Mumbai,Maharashtra,Religious,4.8,7.7733,Oct-Mar
+1212,Mahalaxmi Temple,Mumbai,Maharashtra,Religious,4.7,7.8492,Oct-Mar
+1213,Mumbadevi Temple,Mumbai,Maharashtra,Religious,4.4,6.9829,Oct-Mar
+1214,ISKCON Juhu,Mumbai,Maharashtra,Religious,4.8,8.8831,Oct-Mar
+1215,Babulnath Temple,Mumbai,Maharashtra,Religious,4.6,8.5787,Oct-Mar
+1216,Keneseth Eliyahoo Synagogue,Mumbai,Maharashtra,Religious,4.5,7.1549,Oct-Mar
+1217,Taraporevala Aquarium,Mumbai,Maharashtra,Science,2.4,6.7383,Oct-Mar
+1218,Nehru Science Centre,Mumbai,Maharashtra,Science,4.5,8.539,Oct-Mar
+1219,Nehru Planetarium Mumbai,Mumbai,Maharashtra,Science,4.3,8.4607,Oct-Mar
+1220,Mani Bhavan Gandhi Sangrahalaya,Mumbai,Maharashtra,Historical,4.6,7.313,Oct-Mar
+1221,National Museum of Indian Cinema,Mumbai,Maharashtra,Culture,4.7,9.3529,Oct-Mar
+1222,Jehangir Art Gallery,Mumbai,Maharashtra,Culture,4.5,6.9451,Oct-Mar
+1223,Prithvi Theatre,Mumbai,Maharashtra,Culture,4.6,7.7919,Oct-Mar
+1224,Kamla Nehru Park,Mumbai,Maharashtra,Nature,3.8,9.3311,Jul-Sep
+1225,Hanging Gardens Mumbai,Mumbai,Maharashtra,Nature,4.0,7.7539,Jul-Sep
+1226,Malabar Hill Sunset Point,Mumbai,Maharashtra,Nature,4.4,8.4126,Jul-Sep
+1227,Banganga Tank,Mumbai,Maharashtra,Historical,4.3,7.6873,Oct-Mar
+1228,Vihar Lake,Mumbai,Maharashtra,Nature,3.6,7.3158,Jul-Sep
+1229,Tulsi Lake,Mumbai,Maharashtra,Nature,3.4,9.4526,Jul-Sep
+1230,Powai Lake Garden,Mumbai,Maharashtra,Nature,3.7,7.7226,Jul-Sep
+1231,Gorai Beach,Mumbai,Maharashtra,Beach,3.5,9.182,Mar-Jun
+1232,Madh Island Fort,Mumbai,Maharashtra,Historical,3.8,7.1826,Oct-Mar
+1233,Aksa Beach,Mumbai,Maharashtra,Beach,3.9,7.1319,Mar-Jun
+1234,Marve Beach,Mumbai,Maharashtra,Beach,3.3,6.584,Mar-Jun
+1235,Manori Beach,Mumbai,Maharashtra,Beach,3.6,8.4522,Mar-Jun
+1236,Essel World (Closed/Renovation),Mumbai,Maharashtra,Leisure,1.5,7.5998,Oct-Mar
+1237,Water Kingdom,Mumbai,Maharashtra,Leisure,4.2,9.0925,Oct-Mar
+1238,Pagoda Global Vipassana,Borivali,Maharashtra,Religious,4.7,7.9149,Oct-Mar
+1239,Matheran Toy Train,Matheran,Maharashtra,Engineering,4.4,9.4051,Oct-Mar
+1240,Panorama Point Matheran,Matheran,Maharashtra,Nature,4.5,7.0488,Jul-Sep
+1241,Echo Point Matheran,Matheran,Maharashtra,Nature,4.1,9.1053,Jul-Sep
+1242,Charlotte Lake,Matheran,Maharashtra,Nature,4.3,8.8283,Jul-Sep
+1243,Louisa Point,Matheran,Maharashtra,Nature,4.6,8.8112,Jul-Sep
+1244,Prabal Fort (Prabalgad),Matheran,Maharashtra,Adventure,4.5,9.0336,Apr-Jun
+1245,Kala Avantin Durg,Panvel,Maharashtra,Adventure,4.7,8.7814,Apr-Jun
+1246,Karnala Bird Sanctuary,Panvel,Maharashtra,Wildlife,4.0,8.3756,Nov-Feb
+1247,Karnala Fort,Panvel,Maharashtra,Historical,4.1,6.8854,Oct-Mar
+1248,Gadeshwar Dam,Panvel,Maharashtra,Nature,3.8,6.5882,Jul-Sep
+1249,Tikona Fort,Lonavala,Maharashtra,Adventure,4.4,9.2626,Apr-Jun
+1250,Visapur Fort,Lonavala,Maharashtra,Adventure,4.5,8.3468,Apr-Jun
+1251,Tung Fort,Lonavala,Maharashtra,Adventure,4.3,8.8883,Apr-Jun
+1252,Korigad Fort,Lonavala,Maharashtra,Historical,4.2,7.94,Oct-Mar
+1253,Rajmachi Garden,Khandala,Maharashtra,Nature,4.1,6.8435,Jul-Sep
+1254,Rajmachi Fort,Khandala,Maharashtra,Adventure,4.6,6.8672,Apr-Jun
+1255,Kune Falls,Khandala,Maharashtra,Nature,4.3,8.5542,Jul-Sep
+1256,Pawna Lake Camping,Lonavala,Maharashtra,Adventure,4.5,7.7858,Apr-Jun
+1257,Dudhiware Waterfall,Lonavala,Maharashtra,Nature,4.0,7.094,Jul-Sep
+1258,Bedse Caves,Maval,Maharashtra,Historical,4.4,7.9703,Oct-Mar
+1259,Hadshi Temple,Paud,Maharashtra,Religious,4.3,6.6836,Oct-Mar
+1260,Mulshi Lake,Pune,Maharashtra,Nature,4.4,8.2424,Jul-Sep
+1261,Tamhini Ghat,Pune,Maharashtra,Nature,4.6,7.3001,Jul-Sep
+1262,Plus Valley,Tamhini,Maharashtra,Adventure,4.5,8.8914,Apr-Jun
+1263,Devkund Waterfall,Bhira,Maharashtra,Nature,4.7,7.4247,Jul-Sep
+1264,Bhira Dam,Rohay,Maharashtra,Engineering,4.1,7.8608,Oct-Mar
+1265,Kundalika River Rafting,Kolad,Maharashtra,Adventure,4.5,6.5253,Apr-Jun
+1266,Sutarwadi Lake,Kolad,Maharashtra,Nature,3.9,6.7084,Jul-Sep
+1267,Tala Fort,Raigad,Maharashtra,Historical,3.8,7.6719,Oct-Mar
+1268,Kuda Caves,Raigad,Maharashtra,Historical,4.2,7.9352,Oct-Mar
+1269,Ballaleshwar Pali Ganpati,Pali,Maharashtra,Religious,4.7,8.2967,Oct-Mar
+1270,Varadvinayak Mahad Ganpati,Mahad,Maharashtra,Religious,4.6,7.3684,Oct-Mar
+1271,Gandharpale Caves,Mahad,Maharashtra,Historical,4.1,8.5826,Oct-Mar
+1272,Velas Turtle Beach,Ratnagiri,Maharashtra,Wildlife,4.4,9.0797,Nov-Feb
+1273,Harihareshwar Beach,Raigad,Maharashtra,Beach,4.3,8.8381,Mar-Jun
+1274,Shrivardhan Beach,Raigad,Maharashtra,Beach,4.1,6.6096,Mar-Jun
+1275,Diveagar Beach,Raigad,Maharashtra,Beach,4.4,7.9369,Mar-Jun
+1276,Bankot Fort,Ratnagiri,Maharashtra,Historical,4.0,6.8062,Oct-Mar
+1277,Kelshi Beach,Ratnagiri,Maharashtra,Beach,4.2,7.219,Mar-Jun
+1278,Anjarle Turtle Beach,Ratnagiri,Maharashtra,Wildlife,4.5,9.4607,Nov-Feb
+1279,Kadyavarcha Ganpati,Anjarle,Maharashtra,Religious,4.6,6.9193,Oct-Mar
+1280,Harnai Fish Market,Harnai,Maharashtra,Cuisine,4.2,7.9922,Oct-Mar
+1281,Suvarnadurg Fort,Harnai,Maharashtra,Historical,4.4,8.3513,Oct-Mar
+1282,Murud Beach,Dapoli,Maharashtra,Beach,4.3,8.6051,Mar-Jun
+1283,Ladghar Beach,Dapoli,Maharashtra,Beach,4.2,8.1752,Mar-Jun
+1284,Karde Beach,Dapoli,Maharashtra,Beach,4.1,6.5197,Mar-Jun
+1285,Kolthare Beach,Dapoli,Maharashtra,Beach,4.0,7.4731,Mar-Jun
+1286,Dabhol Jetty,Dapoli,Maharashtra,Nature,3.6,8.0489,Jul-Sep
+1287,Chandika Devi Temple,Dabhol,Maharashtra,Religious,4.4,6.7548,Oct-Mar
+1288,Guhagar Beach,Guhagar,Maharashtra,Beach,4.5,7.5459,Mar-Jun
+1289,Vyadeshwar Temple,Guhagar,Maharashtra,Religious,4.6,6.5903,Oct-Mar
+1290,Hedvi Ganesh Temple,Hedvi,Maharashtra,Religious,4.5,6.7269,Oct-Mar
+1291,Velneshwar Temple & Beach,Velneshwar,Maharashtra,Religious,4.4,7.6853,Oct-Mar
+1292,Jaigad Fort,Ratnagiri,Maharashtra,Historical,4.3,6.8899,Oct-Mar
+1293,Jaigad Lighthouse,Ratnagiri,Maharashtra,Historical,4.2,8.1989,Oct-Mar
+1294,Ganpatipule Temple,Ratnagiri,Maharashtra,Religious,4.7,8.566,Oct-Mar
+1295,Ganpatipule Beach,Ratnagiri,Maharashtra,Beach,4.6,8.9005,Mar-Jun
+1296,Prachin Konkan Museum,Ganpatipule,Maharashtra,Culture,4.3,7.0929,Oct-Mar
+1297,Arey Ware Beach,Ratnagiri,Maharashtra,Beach,4.7,6.9945,Mar-Jun
+1298,Ratnadurg Fort,Ratnagiri,Maharashtra,Historical,4.5,6.8051,Oct-Mar
+1299,Thiba Palace,Ratnagiri,Maharashtra,Historical,4.1,8.4063,Oct-Mar
+1300,Tilak Ali Museum,Ratnagiri,Maharashtra,Historical,4.2,8.6172,Oct-Mar
+1301,Kanakaditya Temple,Kasheli,Maharashtra,Religious,4.5,6.5854,Oct-Mar
+1302,Pawas Ashram,Pawas,Maharashtra,Religious,4.6,9.3088,Oct-Mar
+1303,Purnagad Fort,Ratnagiri,Maharashtra,Historical,3.8,6.6468,Oct-Mar
+1304,Ambolgad Fort,Rajapur,Maharashtra,Historical,3.5,8.1199,Oct-Mar
+1305,Kunkeshwar Temple,Devgad,Maharashtra,Religious,4.7,8.625,Oct-Mar
+1306,Devgad Beach,Devgad,Maharashtra,Beach,4.4,9.1124,Mar-Jun
+1307,Vijaypurg Fort (Vijaydurga),Devgad,Maharashtra,Historical,4.7,8.6401,Oct-Mar
+1308,Rameshwar Temple Girye,Devgad,Maharashtra,Religious,4.5,8.9039,Oct-Mar
+1309,Tarkarli Backwaters,Malvan,Maharashtra,Nature,4.6,7.5122,Jul-Sep
+1310,Sindhudurg Fort,Malvan,Maharashtra,Historical,4.6,8.9434,Oct-Mar
+1311,Malvan Scuba Diving Point,Malvan,Maharashtra,Adventure,4.5,6.7315,Apr-Jun
+1312,Rock Garden Malvan,Malvan,Maharashtra,Nature,4.1,9.1842,Jul-Sep
+1313,Devbagh Beach,Malvan,Maharashtra,Beach,4.5,8.1389,Mar-Jun
+1314,Tsunami Island,Malvan,Maharashtra,Adventure,4.3,8.9508,Apr-Jun
+1315,Angre Port,Malvan,Maharashtra,Engineering,3.9,7.852,Oct-Mar
+1316,Vengurla Lighthouse,Vengurla,Maharashtra,Historical,4.4,8.4278,Oct-Mar
+1317,Mochemad Beach,Vengurla,Maharashtra,Beach,4.5,8.0751,Mar-Jun
+1318,Shiroda Beach,Vengurla,Maharashtra,Beach,4.4,8.6928,Mar-Jun
+1319,Redi Ganesha Temple,Vengurla,Maharashtra,Religious,4.7,6.7361,Oct-Mar
+1320,Yashwantgad Fort,Redi,Maharashtra,Historical,4.2,6.672,Oct-Mar
+1321,Terekhol Fort,Querim,Maharashtra,Historical,4.3,7.2342,Oct-Mar
+1322,Amboli Falls,Amboli,Maharashtra,Nature,4.5,6.9706,Jul-Sep
+1323,Madhavgad Fort,Amboli,Maharashtra,Historical,3.4,9.1148,Oct-Mar
+1324,Hiranyakeshi Temple,Amboli,Maharashtra,Religious,4.4,7.1503,Oct-Mar
+1325,Kawalshet Point,Amboli,Maharashtra,Nature,4.6,9.4282,Jul-Sep
+1326,Radhanagari Dam,Kolhapur,Maharashtra,Engineering,4.2,7.5045,Oct-Mar
+1327,Mahalakshmi Temple Kolhapur,Kolhapur,Maharashtra,Religious,4.8,7.0386,Oct-Mar
+1328,Panhala Fort,Kolhapur,Maharashtra,Historical,4.6,8.8677,Oct-Mar
+1329,Jyotiba Temple,Kolhapur,Maharashtra,Religious,4.7,8.4734,Oct-Mar
+1330,Rankala Lake,Kolhapur,Maharashtra,Nature,4.1,7.9901,Jul-Sep
+1331,New Palace Kolhapur,Kolhapur,Maharashtra,Historical,4.4,8.1623,Oct-Mar
+1332,Kaneri Math Museum,Kolhapur,Maharashtra,Culture,4.5,8.6555,Oct-Mar
+1333,Sajjangad Fort,Satara,Maharashtra,Religious,4.7,7.1781,Oct-Mar
+1334,Kaas Plateau (Valley of Flowers),Satara,Maharashtra,Nature,4.6,9.4898,Jul-Sep
+1335,Kaas Lake,Satara,Maharashtra,Nature,4.2,9.425,Jul-Sep
+1336,Thoseghar Waterfalls,Satara,Maharashtra,Nature,4.5,8.4481,Jul-Sep
+1337,Vajrai Waterfall,Satara,Maharashtra,Nature,4.4,7.091,Jul-Sep
+1338,Ajinkyatara Fort,Satara,Maharashtra,Historical,4.1,8.5382,Oct-Mar
+1339,Koyna Dam,Koynanagar,Maharashtra,Engineering,4.3,6.7077,Oct-Mar
+1340,Nehru Garden Koyna,Koynanagar,Maharashtra,Nature,3.8,6.5826,Jul-Sep
+1341,Ozarde Waterfall,Koynanagar,Maharashtra,Nature,4.2,7.2661,Jul-Sep
+1342,Chandoli National Park,Sangli,Maharashtra,Wildlife,4.1,7.8831,Nov-Feb
+1343,Sagareshwar Wildlife Sanctuary,Sangli,Maharashtra,Wildlife,3.9,9.1043,Nov-Feb
+1344,Ganpati Temple Sangli,Sangli,Maharashtra,Religious,4.5,8.6795,Oct-Mar
+1345,Narsinhwadi Datta Mandir,Sangli,Maharashtra,Religious,4.7,8.7263,Oct-Mar
+1346,Audumbar Temple,Sangli,Maharashtra,Religious,4.6,7.7713,Oct-Mar
+1347,Bibi Ka Maqbara,Aurangabad,Maharashtra,Historical,4.4,7.5318,Oct-Mar
+1348,Panchakki,Aurangabad,Maharashtra,Historical,4.1,7.6073,Oct-Mar
+1349,Aurangabad Caves,Aurangabad,Maharashtra,Historical,4.2,9.4637,Oct-Mar
+1350,Siddharth Garden and Zoo,Aurangabad,Maharashtra,Wildlife,2.8,6.6111,Nov-Feb
+1351,Jayakwadi Dam,Paithan,Maharashtra,Engineering,4.0,9.1005,Oct-Mar
+1352,Dnyaneshwar Garden,Paithan,Maharashtra,Nature,3.5,8.2324,Jul-Sep
+1353,Sant Eknath Temple,Paithan,Maharashtra,Religious,4.6,7.8108,Oct-Mar
+1354,Bani Begum Garden,Khuldabad,Maharashtra,Nature,3.9,8.6737,Jul-Sep
+1355,Tomb of Aurangzeb,Khuldabad,Maharashtra,Historical,4.1,7.9554,Oct-Mar
+1356,Ghrishneshwar Jyotirlinga,Verul,Maharashtra,Religious,4.8,9.1198,Oct-Mar
+1357,Lonar Crater Lake,Lonar,Maharashtra,Nature,4.6,9.2019,Jul-Sep
+1358,Daityasudan Temple,Lonar,Maharashtra,Historical,4.5,7.7599,Oct-Mar
+1359,Gajanan Maharaj Temple,Shegaon,Maharashtra,Religious,4.9,7.3237,Oct-Mar
+1360,Anand Sagar Garden,Shegaon,Maharashtra,Leisure,4.6,8.2736,Oct-Mar
+1361,Sevagram Ashram,Wardha,Maharashtra,Historical,4.6,9.237,Oct-Mar
+1362,Vishwa Shanti Stupa Wardha,Wardha,Maharashtra,Religious,4.5,7.1245,Oct-Mar
+1363,Paunar Ashram,Wardha,Maharashtra,Religious,4.3,8.3658,Oct-Mar
+1364,Mahatma Gandhi Institute Museum,Wardha,Maharashtra,Education,4.1,8.3916,Oct-Mar
+1365,Dikshabhoomi,Nagpur,Maharashtra,Religious,4.7,8.6974,Oct-Mar
+1366,Zero Mile Marker,Nagpur,Maharashtra,Historical,3.8,6.8864,Oct-Mar
+1367,Futala Lake,Nagpur,Maharashtra,Nature,4.2,8.6453,Jul-Sep
+1368,Ramtek Temple,Nagpur,Maharashtra,Religious,4.5,9.227,Oct-Mar
+1369,Khindsi Lake,Nagpur,Maharashtra,Leisure,3.9,7.0313,Oct-Mar
+1370,Dragon Palace Temple,Kamptee,Maharashtra,Religious,4.6,7.2054,Oct-Mar
+1371,Totladoh Dam,Nagpur,Maharashtra,Engineering,4.1,9.4147,Oct-Mar
+1372,Melghat Tiger Reserve,Amravati,Maharashtra,Wildlife,4.3,7.0351,Nov-Feb
+1373,Chikhaldara Hill Station,Amravati,Maharashtra,Hill Station,4.1,9.0625,Mar-Jun
+1374,Gawilghur Fort,Chikhaldara,Maharashtra,Historical,4.0,7.9723,Oct-Mar
+1375,Bhim-Kund,Chikhaldara,Maharashtra,Nature,3.9,7.2346,Jul-Sep
+1376,Gautala Autramghat Sanctuary,Kannad,Maharashtra,Wildlife,3.8,9.1117,Nov-Feb
+1377,Muktagiri Jain Temples,Amravati,Maharashtra,Religious,4.6,7.8309,Oct-Mar
+1378,Hazur Sahib Nanded,Nanded,Maharashtra,Religious,4.9,8.0402,Oct-Mar
+1379,Nanded Fort,Nanded,Maharashtra,Historical,3.2,7.5718,Oct-Mar
+1380,Kandhar Fort,Nanded,Maharashtra,Historical,3.4,8.2754,Oct-Mar
+1381,Aundha Nagnath Jyotirlinga,Hingoli,Maharashtra,Religious,4.7,6.9826,Oct-Mar
+1382,Parli Vaijnath Jyotirlinga,Beed,Maharashtra,Religious,4.6,7.6677,Oct-Mar
+1383,Kankaleshwar Temple,Beed,Maharashtra,Religious,4.5,9.4088,Oct-Mar
+1384,Dharur Fort,Beed,Maharashtra,Historical,3.3,7.2674,Oct-Mar
+1385,Siddheshwar Temple Solapur,Solapur,Maharashtra,Religious,4.6,8.4674,Oct-Mar
+1386,Bhuikot Fort Solapur,Solapur,Maharashtra,Historical,3.9,7.4693,Oct-Mar
+1387,Great Indian Bustard Sanctuary,Solapur,Maharashtra,Wildlife,3.6,8.8189,Nov-Feb
+1388,Pandharpur Vitthal Temple,Solapur,Maharashtra,Religious,4.8,6.8843,Oct-Mar
+1389,Tuljapur Bhavani Temple,Osmanabad,Maharashtra,Religious,4.7,9.41,Oct-Mar
+1390,Dharashiv Caves,Osmanabad,Maharashtra,Historical,3.8,7.8565,Oct-Mar
+1391,Paranda Fort,Osmanabad,Maharashtra,Historical,4.1,7.201,Oct-Mar
+1392,Naldurg Fort,Osmanabad,Maharashtra,Historical,4.5,6.7116,Oct-Mar
+1393,Kalsubai Peak,Bhandardara,Maharashtra,Adventure,4.7,7.0014,Apr-Jun
+1394,Arthur Lake,Bhandardara,Maharashtra,Nature,4.4,8.0551,Jul-Sep
+1395,Wilson Dam Bhandardara,Bhandardara,Maharashtra,Engineering,4.2,7.5049,Oct-Mar
+1396,Randha Falls,Bhandardara,Maharashtra,Nature,4.5,8.9857,Jul-Sep
+1397,Sandhan Valley,Bhandardara,Maharashtra,Adventure,4.8,7.7875,Apr-Jun
+1398,Ratangad Fort,Bhandardara,Maharashtra,Historical,4.6,7.2391,Oct-Mar
+1399,Harishchandragad Fort,Ahmednagar,Maharashtra,Adventure,4.7,8.3483,Apr-Jun
+1400,Ahmednagar Fort,Ahmednagar,Maharashtra,Historical,4.0,8.6181,Oct-Mar
+1401,Chand Minar Daulatabad,Daulatabad,Maharashtra,Historical,4.3,6.9932,Oct-Mar
+1402,Pashan Lake,Pune,Maharashtra,Nature,3.5,6.9949,Jul-Sep
+1403,Khadevasla Dam,Pune,Maharashtra,Nature,4.1,6.6007,Jul-Sep
+1404,Panshet Dam,Pune,Maharashtra,Leisure,4.2,8.7073,Oct-Mar
+1405,Varasgaon Dam,Pune,Maharashtra,Engineering,4.0,8.4887,Oct-Mar
+1406,Lavad Lake City,Pune,Maharashtra,Leisure,4.3,7.9192,Oct-Mar
+1407,Temghar Dam,Pune,Maharashtra,Engineering,3.8,9.0317,Oct-Mar
+1408,Parvati Hill,Pune,Maharashtra,Religious,4.6,8.9158,Oct-Mar
+1409,Saras Baug,Pune,Maharashtra,Nature,4.3,8.2525,Jul-Sep
+1410,Okayama Friendship Garden,Pune,Maharashtra,Nature,4.5,9.1043,Jul-Sep
+1411,Chaturshringi Temple,Pune,Maharashtra,Religious,4.6,7.11,Oct-Mar
+1412,Pataleshwar Cave Temple,Pune,Maharashtra,Historical,4.2,6.8272,Oct-Mar
+1413,Pune Tribal Museum,Pune,Maharashtra,Culture,4.1,7.3024,Oct-Mar
+1414,Aga Khan Palace,Pune,Maharashtra,Historical,4.4,6.6622,Oct-Mar
+1415,Bund Garden,Pune,Maharashtra,Nature,3.6,8.0894,Jul-Sep
+1416,Empress Garden,Pune,Maharashtra,Nature,4.0,9.31,Jul-Sep
+1417,National Defence Academy (NDA),Khadakwasla,Maharashtra,Education,4.8,6.6088,Oct-Mar
+1418,IUCAA Science Park,Pune,Maharashtra,Science,4.5,6.8579,Oct-Mar
+1419,FC Road Shopping,Pune,Maharashtra,Shopping,4.4,7.8517,Oct-Mar
+1420,Tulsi Baug Market,Pune,Maharashtra,Shopping,4.1,9.3018,Oct-Mar
+1421,Mahabalipuram Shore Temple,Mahabalipuram,Tamil Nadu,Historical,4.7,7.4421,Oct-Mar
+1422,Five Rathas Complex,Mahabalipuram,Tamil Nadu,Historical,4.6,8.0174,Oct-Mar
+1423,Arjuna's Penance Bas Relief,Mahabalipuram,Tamil Nadu,Historical,4.7,6.6155,Oct-Mar
+1424,Krishna's Butter Ball,Mahabalipuram,Tamil Nadu,Nature,4.5,6.9369,Jul-Sep
+1425,Mahabalipuram Beach,Mahabalipuram,Tamil Nadu,Beach,4.2,9.4606,Mar-Jun
+1426,India Seashell Museum,Mahabalipuram,Tamil Nadu,Education,4.4,9.3958,Oct-Mar
+1427,Crocodile Bank Trust,Chennai-Mahabalipuram,Tamil Nadu,Wildlife,4.5,6.5052,Nov-Feb
+1428,Tiger Cave Mahabalipuram,Mahabalipuram,Tamil Nadu,Historical,4.1,9.3558,Oct-Mar
+1429,Sadras Fort,Kalpakkam,Tamil Nadu,Historical,3.8,8.4144,Oct-Mar
+1430,Alamparai Fort Ruins,Kadavakkam,Tamil Nadu,Historical,3.9,9.1032,Oct-Mar
+1431,Vedanthangal Bird Sanctuary,Chengalpattu,Tamil Nadu,Wildlife,4.3,7.8593,Nov-Feb
+1432,Karikili Bird Sanctuary,Chengalpattu,Tamil Nadu,Wildlife,3.7,8.0425,Nov-Feb
+1433,Madurantakam Tank,Chengalpattu,Tamil Nadu,Nature,3.5,7.962,Jul-Sep
+1434,Palavereekadu (Pulicat Lake),Tiruvallur,Tamil Nadu,Nature,4.2,8.4979,Jul-Sep
+1435,Pazhaverkadu Lighthouse,Pulicat,Tamil Nadu,Historical,4.0,6.9107,Oct-Mar
+1436,Sri City SEZ View,Tirupati/Nellore,Andhra Pradesh,Engineering,4.1,6.5805,Oct-Mar
+1437,Tiruttani Murugan Temple,Tiruttani,Tamil Nadu,Religious,4.7,7.4173,Oct-Mar
+1438,Kanchipuram Kailasanathar Temple,Kanchipuram,Tamil Nadu,Religious,4.8,8.6118,Oct-Mar
+1439,Ekambareswarar Temple,Kanchipuram,Tamil Nadu,Religious,4.7,7.098,Oct-Mar
+1440,Varadharaja Perumal Temple,Kanchipuram,Tamil Nadu,Religious,4.8,8.5177,Oct-Mar
+1441,Kamakshi Amman Temple,Kanchipuram,Tamil Nadu,Religious,4.8,9.4103,Oct-Mar
+1442,Vaikuntha Perumal Temple,Kanchipuram,Tamil Nadu,Religious,4.6,6.773,Oct-Mar
+1443,Ulagalantha Perumal Temple,Kanchipuram,Tamil Nadu,Religious,4.5,8.5152,Oct-Mar
+1444,Silk Weaving Centers,Kanchipuram,Tamil Nadu,Culture,4.4,7.8262,Oct-Mar
+1445,Vellore Golden Temple,Sripuram,Tamil Nadu,Religious,4.7,9.1039,Oct-Mar
+1446,Vellore Fort and Museum,Vellore,Tamil Nadu,Historical,4.4,7.0236,Oct-Mar
+1447,Jalankandeswarar Temple,Vellore,Tamil Nadu,Religious,4.6,8.5755,Oct-Mar
+1448,Amirthi Zoological Park,Vellore,Tamil Nadu,Wildlife,3.4,9.0135,Nov-Feb
+1449,Yelagiri Punganoor Lake,Yelagiri,Tamil Nadu,Leisure,3.6,9.3341,Oct-Mar
+1450,Nature Park Yelagiri,Yelagiri,Tamil Nadu,Nature,3.8,8.5473,Jul-Sep
+1451,Swamimalai Hills,Yelagiri,Tamil Nadu,Adventure,4.2,7.9871,Apr-Jun
+1452,Jalagamparai Waterfalls,Yelagiri,Tamil Nadu,Nature,3.5,8.3504,Jul-Sep
+1453,Jawadhu Hills,Jamunamarathur,Tamil Nadu,Hill Station,4.1,9.1062,Mar-Jun
+1454,Beemanmadavu Waterfalls,Jawadhu Hills,Tamil Nadu,Nature,3.9,8.2082,Jul-Sep
+1455,Vainu Bappu Observatory,Kavalur,Tamil Nadu,Science,4.6,6.5818,Oct-Mar
+1456,Sathanur Dam,Chengam,Tamil Nadu,Engineering,4.2,9.293,Oct-Mar
+1457,Annamalaiyar Temple,Tiruvannamalai,Tamil Nadu,Religious,4.9,8.5662,Oct-Mar
+1458,Virupaksha Cave,Tiruvannamalai,Tamil Nadu,Religious,4.6,8.527,Oct-Mar
+1459,Skandashramam,Tiruvannamalai,Tamil Nadu,Religious,4.5,7.1396,Oct-Mar
+1460,Ramana Ashram,Tiruvannamalai,Tamil Nadu,Religious,4.7,8.4739,Oct-Mar
+1461,Gingee Fort (Senji Fort),Gingee,Tamil Nadu,Historical,4.7,7.6761,Oct-Mar
+1462,Rajagiri Fort,Gingee,Tamil Nadu,Historical,4.6,8.4509,Oct-Mar
+1463,Krishnagiri Fort,Gingee,Tamil Nadu,Historical,4.4,6.8112,Oct-Mar
+1464,Venkataramana Temple,Gingee,Tamil Nadu,Religious,4.5,8.4708,Oct-Mar
+1465,Pichavaram Mangroves,Chidambaram,Tamil Nadu,Nature,4.6,9.4991,Jul-Sep
+1466,Chidambaram Nataraja Temple,Chidambaram,Tamil Nadu,Religious,4.8,6.6355,Oct-Mar
+1467,Annamalai University Museum,Chidambaram,Tamil Nadu,Education,4.0,9.4321,Oct-Mar
+1468,Poompuhar Beach,Mayiladuthurai,Tamil Nadu,Beach,3.5,7.7153,Mar-Jun
+1469,Sarangapani Temple,Kumbakonam,Tamil Nadu,Religious,4.7,9.1117,Oct-Mar
+1470,Kumbeshwara Temple,Kumbakonam,Tamil Nadu,Religious,4.6,8.8457,Oct-Mar
+1471,Airavatesvara Temple,Darasuram,Tamil Nadu,Historical,4.8,8.1973,Oct-Mar
+1472,Swamimalai Murugan Temple,Kumbakonam,Tamil Nadu,Religious,4.7,8.7134,Oct-Mar
+1473,Uppiliappan Temple,Kumbakonam,Tamil Nadu,Religious,4.6,9.1351,Oct-Mar
+1474,Mahamaham Tank,Kumbakonam,Tamil Nadu,Religious,4.5,7.707,Oct-Mar
+1475,Gangaikonda Cholapuram,Ariyalur,Tamil Nadu,Historical,4.7,7.4749,Oct-Mar
+1476,Brihadeeswarar Temple,Thanjavur,Tamil Nadu,Religious,4.9,8.5001,Oct-Mar
+1477,Thanjavur Maratha Palace,Thanjavur,Tamil Nadu,Historical,4.3,8.9224,Oct-Mar
+1478,Saraswathi Mahal Library,Thanjavur,Tamil Nadu,Education,4.4,8.7852,Oct-Mar
+1479,Schwartz Church,Thanjavur,Tamil Nadu,Religious,4.1,8.8922,Oct-Mar
+1480,Sivaganga Park,Thanjavur,Tamil Nadu,Nature,3.6,7.8017,Jul-Sep
+1481,Manora Fort,Pattukkottai,Tamil Nadu,Historical,3.7,8.9524,Oct-Mar
+1482,Tranquebar (Tharangambadi) Beach,Nagapattinam,Tamil Nadu,Beach,4.3,6.8522,Mar-Jun
+1483,Fort Dansborg,Tranquebar,Tamil Nadu,Historical,4.4,8.1295,Oct-Mar
+1484,Velankanni Basilica,Velankanni,Tamil Nadu,Religious,4.8,6.5076,Oct-Mar
+1485,Nagore Dargah,Nagapattinam,Tamil Nadu,Religious,4.5,7.4675,Oct-Mar
+1486,Point Calimere Sanctuary,Nagapattinam,Tamil Nadu,Wildlife,4.1,7.5936,Nov-Feb
+1487,Muthupet Mangroves,Tiruvarur,Tamil Nadu,Nature,3.9,7.683,Jul-Sep
+1488,Tiruvarur Thyagaraja Temple,Tiruvarur,Tamil Nadu,Religious,4.8,8.584,Oct-Mar
+1489,Rockfort Temple (Ucchi Pillayar),Trichy,Tamil Nadu,Religious,4.7,7.6601,Oct-Mar
+1490,Srirangam Ranganathaswamy,Trichy,Tamil Nadu,Religious,4.9,7.8411,Oct-Mar
+1491,Jambukeswarar Temple,Trichy,Tamil Nadu,Religious,4.7,7.2054,Oct-Mar
+1492,Samayapuram Mariamman,Trichy,Tamil Nadu,Religious,4.6,7.614,Oct-Mar
+1493,Mukkombu Dam,Trichy,Tamil Nadu,Nature,4.1,7.1745,Jul-Sep
+1494,Grand Anicut (Kallanai Dam),Trichy,Tamil Nadu,Engineering,4.6,6.7107,Oct-Mar
+1495,St. Lourdes Church,Trichy,Tamil Nadu,Religious,4.4,8.307,Oct-Mar
+1496,Pachamalai Hills,Trichy,Tamil Nadu,Hill Station,3.8,8.502,Mar-Jun
+1497,Puliyancholai Falls,Trichy,Tamil Nadu,Nature,3.5,8.3553,Jul-Sep
+1498,Butterfly Park Srirangam,Trichy,Tamil Nadu,Wildlife,4.2,7.8857,Nov-Feb
+1499,Malaikkottai (Fort),Trichy,Tamil Nadu,Historical,4.5,7.6337,Oct-Mar
+1500,Government Museum Trichy,Trichy,Tamil Nadu,Education,3.6,9.0894,Oct-Mar
+1501,Ram Janmabhoomi Mandir,Ayodhya,Uttar Pradesh,Religious,4.7,8.053,Oct-Mar
+1502,Hanuman Garhi,Ayodhya,Uttar Pradesh,Religious,4.6,7.9329,Oct-Mar
+1503,Kanak Bhawan,Ayodhya,Uttar Pradesh,Religious,4.5,6.5675,Oct-Mar
+1504,Sarayu Ghat,Ayodhya,Uttar Pradesh,Religious,4.4,7.5177,Oct-Mar
+1505,Gulab Bari,Ayodhya,Uttar Pradesh,Historical,3.8,7.6349,Oct-Mar
+1506,Mani Parvat,Ayodhya,Uttar Pradesh,Religious,3.2,7.691,Oct-Mar
+1507,Chota Imambara,Lucknow,Uttar Pradesh,Historical,4.6,8.2369,Oct-Mar
+1508,Rumi Darwaza,Lucknow,Uttar Pradesh,Historical,4.5,8.0967,Oct-Mar
+1509,Lucknow Residency Ruins,Lucknow,Uttar Pradesh,Historical,4.4,8.3204,Oct-Mar
+1510,Ambedkar Memorial Park,Lucknow,Uttar Pradesh,Culture,4.5,8.793,Oct-Mar
+1511,Janeshwar Mishra Park,Lucknow,Uttar Pradesh,Nature,4.3,8.9378,Jul-Sep
+1512,Hazratganj Shopping Street,Lucknow,Uttar Pradesh,Shopping,4.4,8.6522,Oct-Mar
+1513,Lucknow Zoo,Lucknow,Uttar Pradesh,Wildlife,3.9,9.367,Nov-Feb
+1514,Regional Science City,Lucknow,Uttar Pradesh,Science,4.2,6.5452,Oct-Mar
+1515,Tunday Kababi Lane,Lucknow,Uttar Pradesh,Cuisine,4.7,7.0797,Oct-Mar
+1516,Dilkusha Kothi,Lucknow,Uttar Pradesh,Historical,3.5,6.5131,Oct-Mar
+1517,La Martiniere College,Lucknow,Uttar Pradesh,Education,4.6,8.4396,Oct-Mar
+1518,Constantia House,Lucknow,Uttar Pradesh,Historical,4.3,9.1939,Oct-Mar
+1519,Chattar Manzil,Lucknow,Uttar Pradesh,Historical,3.4,7.2233,Oct-Mar
+1520,Kaiserbagh Palace Complex,Lucknow,Uttar Pradesh,Historical,3.1,9.2812,Oct-Mar
+1521,Allen Forest Zoo,Kanpur,Uttar Pradesh,Wildlife,4.1,6.6717,Nov-Feb
+1522,JK Temple,Kanpur,Uttar Pradesh,Religious,4.6,9.3035,Oct-Mar
+1523,Moti Jheel,Kanpur,Uttar Pradesh,Leisure,3.6,7.5489,Oct-Mar
+1524,Z Square Mall,Kanpur,Uttar Pradesh,Shopping,4.3,6.7956,Oct-Mar
+1525,Kanpur Memorial Church,Kanpur,Uttar Pradesh,Historical,3.9,7.953,Oct-Mar
+1526,Bithoor Ghats,Kanpur,Uttar Pradesh,Religious,4.0,7.2633,Oct-Mar
+1527,Blue World Theme Park,Kanpur,Uttar Pradesh,Leisure,3.8,7.3479,Oct-Mar
+1528,Nana Rao Park,Kanpur,Uttar Pradesh,Nature,3.3,7.4154,Jul-Sep
+1529,Triveni Sangam,Prayagraj,Uttar Pradesh,Religious,4.7,8.9079,Oct-Mar
+1530,Allahabad Fort,Prayagraj,Uttar Pradesh,Historical,3.7,8.1135,Oct-Mar
+1531,Anand Bhavan Museum,Prayagraj,Uttar Pradesh,Historical,4.5,7.4275,Oct-Mar
+1532,Swaraj Bhavan,Prayagraj,Uttar Pradesh,Historical,4.4,8.3277,Oct-Mar
+1533,Khusro Bagh,Prayagraj,Uttar Pradesh,Historical,4.1,8.6463,Oct-Mar
+1534,Allahabad High Court Building,Prayagraj,Uttar Pradesh,Engineering,4.2,7.3111,Oct-Mar
+1535,Alfred Park (Azad Park),Prayagraj,Uttar Pradesh,Historical,4.3,7.7353,Oct-Mar
+1536,All Saints Cathedral,Prayagraj,Uttar Pradesh,Religious,4.5,6.8573,Oct-Mar
+1537,Hanuman Mandir (Reclining),Prayagraj,Uttar Pradesh,Religious,4.6,7.0357,Oct-Mar
+1538,Jawahar Planetarium,Prayagraj,Uttar Pradesh,Science,4.1,8.5408,Oct-Mar
+1539,Mankameshwar Temple,Prayagraj,Uttar Pradesh,Religious,4.4,7.0365,Oct-Mar
+1540,New Yamuna Bridge,Prayagraj,Uttar Pradesh,Engineering,4.5,8.0713,Oct-Mar
+1541,Jhansi Fort,Jhansi,Uttar Pradesh,Historical,4.6,8.6249,Oct-Mar
+1542,Rani Mahal,Jhansi,Uttar Pradesh,Historical,4.1,6.8121,Oct-Mar
+1543,Government Museum Jhansi,Jhansi,Uttar Pradesh,Education,3.8,8.1982,Oct-Mar
+1544,Barua Sagar Fort,Jhansi,Uttar Pradesh,Historical,3.2,7.2627,Oct-Mar
+1545,Parichha Dam,Jhansi,Uttar Pradesh,Engineering,3.5,9.3892,Oct-Mar
+1546,Kalinjar Fort,Banda,Uttar Pradesh,Historical,4.5,7.946,Oct-Mar
+1547,Vindhyachal Dham,Mirzapur,Uttar Pradesh,Religious,4.6,8.9168,Oct-Mar
+1548,Chunar Fort,Mirzapur,Uttar Pradesh,Historical,4.2,8.1468,Oct-Mar
+1549,Wyndham Falls,Mirzapur,Uttar Pradesh,Nature,3.4,6.621,Jul-Sep
+1550,Siraj-e-Hind (Jaunpur Fort),Jaunpur,Uttar Pradesh,Historical,3.9,8.3964,Oct-Mar
+1551,Atala Masjid,Jaunpur,Uttar Pradesh,Religious,4.2,9.3545,Oct-Mar
+1552,Shahi Bridge,Jaunpur,Uttar Pradesh,Engineering,4.1,8.3015,Oct-Mar
+1553,Dudhwa National Park,Lakhimpur Kheri,Uttar Pradesh,Wildlife,4.3,8.9565,Nov-Feb
+1554,Kishalpur Sanctuary,Lakhimpur Kheri,Uttar Pradesh,Wildlife,3.7,9.1522,Nov-Feb
+1555,Katarniaghat Wildlife Sanctuary,Bahraich,Uttar Pradesh,Wildlife,4.4,7.177,Nov-Feb
+1556,Hastinapur Wildlife Sanctuary,Meerut,Uttar Pradesh,Wildlife,3.5,7.1287,Nov-Feb
+1557,Augarnath Temple,Meerut,Uttar Pradesh,Religious,4.5,8.3297,Oct-Mar
+1558,Suraj Kund Meerut,Meerut,Uttar Pradesh,Historical,2.8,7.7277,Oct-Mar
+1559,Shahpir Mausoleum,Meerut,Uttar Pradesh,Historical,3.1,9.0187,Oct-Mar
+1560,Sardhana Church (Basilica),Meerut,Uttar Pradesh,Religious,4.6,9.1999,Oct-Mar
+1561,Bee Falls,Pachmarhi,Madhya Pradesh,Nature,4.5,7.5543,Jul-Sep
+1562,Jata Shankar Caves,Pachmarhi,Madhya Pradesh,Religious,4.4,7.2034,Oct-Mar
+1563,Pandav Caves,Pachmarhi,Madhya Pradesh,Historical,3.9,8.8401,Oct-Mar
+1564,Dhupgarh Sunset Point,Pachmarhi,Madhya Pradesh,Nature,4.7,7.3176,Jul-Sep
+1565,Handi Khoh,Pachmarhi,Madhya Pradesh,Nature,4.2,8.9668,Jul-Sep
+1566,Apsara Vihar,Pachmarhi,Madhya Pradesh,Nature,4.1,7.766,Jul-Sep
+1567,Reechgarh,Pachmarhi,Madhya Pradesh,Adventure,4.3,8.5,Apr-Jun
+1568,Bada Mahadev,Pachmarhi,Madhya Pradesh,Religious,4.5,6.7779,Oct-Mar
+1569,Chauragarh Peak,Pachmarhi,Madhya Pradesh,Adventure,4.6,8.3685,Apr-Jun
+1570,Silver Fall (Rajat Prapat),Pachmarhi,Madhya Pradesh,Nature,4.4,7.8504,Jul-Sep
+1571,Satpura National Park,Hoshangabad,Madhya Pradesh,Wildlife,4.5,8.2563,Nov-Feb
+1572,Tawa Reservoir,Itarsi,Madhya Pradesh,Nature,4.1,6.9961,Jul-Sep
+1573,Madai Wildlife Point,Itarsi,Madhya Pradesh,Wildlife,4.4,8.7087,Nov-Feb
+1574,Sethani Ghat,Narmadapuram,Madhya Pradesh,Religious,4.2,9.0878,Oct-Mar
+1575,Adamgarh Hills,Narmadapuram,Madhya Pradesh,Historical,3.6,7.1428,Oct-Mar
+1576,Bhojpur Temple,Bhopal,Madhya Pradesh,Religious,4.6,6.7785,Oct-Mar
+1577,Islamnagar Fort,Bhopal,Madhya Pradesh,Historical,3.8,6.5615,Oct-Mar
+1578,Taj-ul-Masajid,Bhopal,Madhya Pradesh,Religious,4.5,8.423,Oct-Mar
+1579,Gohar Mahal,Bhopal,Madhya Pradesh,Historical,3.7,8.318,Oct-Mar
+1580,Shaukat Mahal,Bhopal,Madhya Pradesh,Historical,3.2,8.1362,Oct-Mar
+1581,Chitrakoot Ghats,Satna,Madhya Pradesh,Religious,4.5,7.1886,Oct-Mar
+1582,Kamadgiri Mountain,Chitrakoot,Madhya Pradesh,Religious,4.6,7.6671,Oct-Mar
+1583,Gupt Godavari Caves,Chitrakoot,Madhya Pradesh,Nature,4.4,8.28,Jul-Sep
+1584,Sati Anusuya Ashram,Chitrakoot,Madhya Pradesh,Religious,4.2,7.9858,Oct-Mar
+1585,Sphatik Shila,Chitrakoot,Madhya Pradesh,Religious,3.9,9.4641,Oct-Mar
+1586,Maihar Sharda Devi Temple,Satna,Madhya Pradesh,Religious,4.7,6.9011,Oct-Mar
+1587,Rewa Fort,Rewa,Madhya Pradesh,Historical,3.8,8.5831,Oct-Mar
+1588,Govindgarh Palace,Rewa,Madhya Pradesh,Historical,3.2,7.7075,Oct-Mar
+1589,Purwa Falls,Rewa,Madhya Pradesh,Nature,3.7,7.7794,Jul-Sep
+1590,Keoti Falls,Rewa,Madhya Pradesh,Nature,4.1,8.6507,Jul-Sep
+1591,Bahuti Falls,Rewa,Madhya Pradesh,Nature,4.3,8.5749,Jul-Sep
+1592,Deorkothar Buddhist Stupas,Rewa,Madhya Pradesh,Historical,3.5,9.4745,Oct-Mar
+1593,Pench Tiger Reserve,Seoni,Madhya Pradesh,Wildlife,4.6,6.8768,Nov-Feb
+1594,Turia Gate Pench,Seoni,Madhya Pradesh,Adventure,4.5,6.8037,Apr-Jun
+1595,Priyadarshini Point,Pachmarhi,Madhya Pradesh,Nature,4.2,8.671,Jul-Sep
+1596,Burhanpur Shahi Qila,Burhanpur,Madhya Pradesh,Historical,4.1,8.2316,Oct-Mar
+1597,Jama Masjid Burhanpur,Burhanpur,Madhya Pradesh,Religious,4.3,7.3157,Oct-Mar
+1598,Asirgarh Fort,Burhanpur,Madhya Pradesh,Historical,4.4,6.7294,Oct-Mar
+1599,Kuno National Park,Sheopur,Madhya Pradesh,Wildlife,4.5,6.7482,Nov-Feb
+1600,Shivpuri Madhav National Park,Shivpuri,Madhya Pradesh,Wildlife,4.0,9.1823,Nov-Feb
+1601,Chhatris of Scindia,Shivpuri,Madhya Pradesh,Historical,4.2,7.0679,Oct-Mar
+1602,George Castle Shivpuri,Shivpuri,Madhya Pradesh,Historical,3.9,7.4638,Oct-Mar
+1603,Bhadaiya Kund,Shivpuri,Madhya Pradesh,Nature,3.2,7.1727,Jul-Sep
+1604,Karera Bird Sanctuary,Shivpuri,Madhya Pradesh,Wildlife,3.4,7.559,Nov-Feb
+1605,Bansagar Dam,Shahdol,Madhya Pradesh,Engineering,4.1,6.6993,Oct-Mar
+1606,Amarkantak Narmada Udgam,Anuppur,Madhya Pradesh,Religious,4.6,8.053,Oct-Mar
+1607,Kapil Dhara Falls,Amarkantak,Madhya Pradesh,Nature,4.3,6.6939,Jul-Sep
+1608,Sonemuda,Amarkantak,Madhya Pradesh,Nature,4.0,8.8998,Jul-Sep
+1609,Kabir Chabutra,Amarkantak,Madhya Pradesh,Religious,4.1,7.1939,Oct-Mar
+1610,Pataleshwar Mahadev,Amarkantak,Madhya Pradesh,Religious,4.4,8.116,Oct-Mar
+1611,Virupaksha Temple,Hampi,Karnataka,Religious,4.7,9.1398,Oct-Mar
+1612,Vittala Temple Stone Chariot,Hampi,Karnataka,Historical,4.8,8.4498,Oct-Mar
+1613,Elephant Stables,Hampi,Karnataka,Historical,4.6,8.0948,Oct-Mar
+1614,Lotus Mahal,Hampi,Karnataka,Historical,4.5,7.4667,Oct-Mar
+1615,Hazara Rama Temple,Hampi,Karnataka,Religious,4.6,7.4928,Oct-Mar
+1616,Matanga Hill Sunset,Hampi,Karnataka,Nature,4.7,8.5058,Jul-Sep
+1617,Hemakuta Hill Temples,Hampi,Karnataka,Historical,4.5,9.4832,Oct-Mar
+1618,Achyutaraya Temple,Hampi,Karnataka,Religious,4.4,8.4828,Oct-Mar
+1619,Sasivekalu Ganesha,Hampi,Karnataka,Religious,4.5,8.1695,Oct-Mar
+1620,Ugra Narasimha Statue,Hampi,Karnataka,Historical,4.6,8.69,Oct-Mar
+1621,Queen's Bath,Hampi,Karnataka,Historical,4.0,7.8908,Oct-Mar
+1622,Sanapur Lake,Hampi,Karnataka,Nature,4.4,6.6714,Jul-Sep
+1623,Anjanadri Hill (Hanuman Birthplace),Anegundi,Karnataka,Religious,4.7,8.1831,Oct-Mar
+1624,Anegundi Fort,Koppal,Karnataka,Historical,3.9,9.3733,Oct-Mar
+1625,Tungabhadra Dam,Hospet,Karnataka,Engineering,4.2,7.0181,Oct-Mar
+1626,Japanese Garden TB Dam,Hospet,Karnataka,Nature,3.8,8.5676,Jul-Sep
+1627,Daroji Sloth Bear Sanctuary,Ballari,Karnataka,Wildlife,4.1,7.0952,Nov-Feb
+1628,Ballari Fort,Ballari,Karnataka,Historical,3.6,8.1034,Oct-Mar
+1629,Banashankari Amma Temple,Badami,Karnataka,Religious,4.5,6.7814,Oct-Mar
+1630,Agastya Lake,Badami,Karnataka,Nature,4.4,7.8462,Jul-Sep
+1631,Badami Cave 1,Badami,Karnataka,Historical,4.7,8.7668,Oct-Mar
+1632,Badami Cave 2,Badami,Karnataka,Historical,4.5,7.5367,Oct-Mar
+1633,Badami Cave 3,Badami,Karnataka,Historical,4.6,8.4921,Oct-Mar
+1634,Badami Cave 4,Badami,Karnataka,Historical,4.5,8.885,Oct-Mar
+1635,Bhutnatha Temple,Badami,Karnataka,Historical,4.7,9.2816,Oct-Mar
+1636,Badami North Fort,Badami,Karnataka,Historical,4.1,7.1967,Oct-Mar
+1637,Pattadakal Virupaksha,Pattadakal,Karnataka,Historical,4.6,7.6925,Oct-Mar
+1638,Pattadakal Mallikarjuna,Pattadakal,Karnataka,Historical,4.5,6.9492,Oct-Mar
+1639,Pattadakal Papanatha,Pattadakal,Karnataka,Historical,4.4,9.4782,Oct-Mar
+1640,Aihole Durga Temple,Aihole,Karnataka,Historical,4.7,9.2811,Oct-Mar
+1641,Aihole Lad Khan Temple,Aihole,Karnataka,Historical,4.5,8.1159,Oct-Mar
+1642,Aihole Ravana Phadi Cave,Aihole,Karnataka,Historical,4.4,9.0253,Oct-Mar
+1643,Aihole Meguti Hill,Aihole,Karnataka,Historical,4.2,8.0587,Oct-Mar
+1644,Mahakuta Group of Temples,Badami,Karnataka,Religious,4.5,8.3676,Oct-Mar
+1645,Almatti Dam,Vijayapura,Karnataka,Engineering,4.3,6.7586,Oct-Mar
+1646,Mughal Garden Almatti,Vijayapura,Karnataka,Nature,4.0,8.7641,Jul-Sep
+1647,Gol Gumbaz Whispering Gallery,Vijayapura,Karnataka,Historical,4.6,6.8748,Oct-Mar
+1648,Ibrahim Rauza,Vijayapura,Karnataka,Historical,4.5,8.9772,Oct-Mar
+1649,Jumma Masjid Vijayapura,Vijayapura,Karnataka,Religious,4.2,8.8446,Oct-Mar
+1650,Bara Kaman,Vijayapura,Karnataka,Historical,4.1,8.624,Oct-Mar
+1651,Uliyanthala Cave,Kochi,Kerala,Adventure,3.2,6.5992,Apr-Jun
+1652,Cherai Beach,Kochi,Kerala,Beach,4.3,7.4029,Mar-Jun
+1653,Mattancherry Palace,Kochi,Kerala,Historical,4.4,7.2824,Oct-Mar
+1654,Jew Town,Kochi,Kerala,Culture,4.5,7.5745,Oct-Mar
+1655,Paradesi Synagogue,Kochi,Kerala,Religious,4.6,6.7542,Oct-Mar
+1656,Chinese Fishing Nets,Fort Kochi,Kerala,Culture,4.4,9.3111,Oct-Mar
+1657,Santa Cruz Basilica,Fort Kochi,Kerala,Religious,4.5,8.1576,Oct-Mar
+1658,St. Francis Church,Fort Kochi,Kerala,Historical,4.3,7.4101,Oct-Mar
+1659,Kochi-Muziris Biennale Site,Kochi,Kerala,Culture,4.7,7.6854,Oct-Mar
+1660,Hill Palace Museum,Tripunithura,Kerala,Historical,4.2,7.8366,Oct-Mar
+1661,Marine Drive Kochi,Kochi,Kerala,Leisure,4.1,8.2984,Oct-Mar
+1662,Bolgatty Palace,Kochi,Kerala,Historical,4.0,8.0428,Oct-Mar
+1663,Willingdon Island,Kochi,Kerala,Engineering,3.7,9.2582,Oct-Mar
+1664,Lulu Mall Kochi,Kochi,Kerala,Shopping,4.6,7.9864,Oct-Mar
+1665,Wonderla Kochi,Kochi,Kerala,Leisure,4.5,9.4772,Oct-Mar
+1666,Mangalavanam Bird Sanctuary,Kochi,Kerala,Wildlife,3.4,9.0536,Nov-Feb
+1667,Athirappilly Falls,Thrissur,Kerala,Nature,4.7,7.118,Jul-Sep
+1668,Charpa Falls,Thrissur,Kerala,Nature,3.9,9.2919,Jul-Sep
+1669,Vazhachal Waterfalls,Thrissur,Kerala,Nature,4.2,6.8406,Jul-Sep
+1670,Thumboormuzhi Dam,Thrissur,Kerala,Nature,4.1,8.9513,Jul-Sep
+1671,Sholayar Dam,Thrissur,Kerala,Engineering,4.3,7.6362,Oct-Mar
+1672,Vadakkunnathan Temple,Thrissur,Kerala,Religious,4.8,9.1335,Oct-Mar
+1673,Thrissur Zoo and Museum,Thrissur,Kerala,Wildlife,3.2,9.1036,Nov-Feb
+1674,Sakthan Thampuran Palace,Thrissur,Kerala,Historical,4.1,8.9166,Oct-Mar
+1675,Vilangan Kunnu,Thrissur,Kerala,Nature,3.8,8.8687,Jul-Sep
+1676,Snehatheeram Beach,Thrissur,Kerala,Beach,4.2,7.4076,Mar-Jun
+1677,Chavakkad Beach,Thrissur,Kerala,Beach,3.9,6.7339,Mar-Jun
+1678,Peechi-Vazhani Sanctuary,Thrissur,Kerala,Wildlife,3.7,7.7035,Nov-Feb
+1679,Peechi Dam,Thrissur,Kerala,Engineering,3.6,7.0127,Oct-Mar
+1680,Guruvayur Temple Elephant Camp,Thrissur,Kerala,Wildlife,4.4,8.5825,Nov-Feb
+1681,Anakkayam,Thrissur,Kerala,Nature,3.5,7.5323,Jul-Sep
+1682,Kodungallur Bhagavathy,Thrissur,Kerala,Religious,4.6,9.4274,Oct-Mar
+1683,Cheraman Juma Masjid,Thrissur,Kerala,Religious,4.5,8.42,Oct-Mar
+1684,Dolours Basilica,Thrissur,Kerala,Religious,4.7,8.9664,Oct-Mar
+1685,Silent Valley Safari,Palakkad,Kerala,Adventure,4.6,6.8893,Apr-Jun
+1686,Malampuzha Rock Garden,Palakkad,Kerala,Culture,4.1,9.0854,Oct-Mar
+1687,Malampuzha Ropeway,Palakkad,Kerala,Adventure,3.8,9.2683,Apr-Jun
+1688,Palakkad Fort (Tipu's Fort),Palakkad,Kerala,Historical,4.2,7.9566,Oct-Mar
+1689,Dhoni Waterfalls,Palakkad,Kerala,Nature,4.0,8.3155,Jul-Sep
+1690,Fantasy Park Palakkad,Palakkad,Kerala,Leisure,3.5,8.7928,Oct-Mar
+1691,Attapadi Hills,Palakkad,Kerala,Nature,4.2,7.0167,Jul-Sep
+1692,Meenvallam Waterfalls,Palakkad,Kerala,Nature,3.9,8.0033,Jul-Sep
+1693,Kanjirapuzha Dam,Palakkad,Kerala,Engineering,4.0,7.6905,Oct-Mar
+1694,Varikkassery Mana,Ottapalam,Kerala,Culture,4.5,6.931,Oct-Mar
+1695,Kalpathy Heritage Village,Palakkad,Kerala,Culture,4.4,7.5968,Oct-Mar
+1696,Seethargundu Viewpoint,Palakkad,Kerala,Nature,4.3,6.6955,Jul-Sep
+1697,Pothundi Dam,Palakkad,Kerala,Engineering,3.8,6.568,Oct-Mar
+1698,Nelliyampathy Orange Farm,Palakkad,Kerala,Nature,4.1,6.8972,Jul-Sep
+1699,Chulanur Peacock Sanctuary,Palakkad,Kerala,Wildlife,3.4,9.3898,Nov-Feb
+1700,Parambikulam Tiger Reserve,Palakkad,Kerala,Wildlife,4.7,8.1447,Nov-Feb
+1701,Vizag Fishing Harbour,Visakhapatnam,Andhra Pradesh,Cuisine,4.2,9.398,Oct-Mar
+1702,Ramakrishna Beach,Visakhapatnam,Andhra Pradesh,Beach,4.4,7.7924,Mar-Jun
+1703,Submarine Museum (Kursura),Visakhapatnam,Andhra Pradesh,Education,4.8,7.429,Oct-Mar
+1704,TU 142 Aircraft Museum,Visakhapatnam,Andhra Pradesh,Education,4.7,8.0141,Oct-Mar
+1705,Victory at Sea Memorial,Visakhapatnam,Andhra Pradesh,Historical,4.3,7.8135,Oct-Mar
+1706,Vuda Park,Visakhapatnam,Andhra Pradesh,Nature,3.8,6.8084,Jul-Sep
+1707,Kailasagiri Ropeway,Visakhapatnam,Andhra Pradesh,Adventure,4.2,8.4195,Apr-Jun
+1708,Tenneti Park,Visakhapatnam,Andhra Pradesh,Nature,4.5,7.1407,Jul-Sep
+1709,Ross Hill Chapel,Visakhapatnam,Andhra Pradesh,Religious,4.1,8.3556,Oct-Mar
+1710,Dolphin's Nose Lighthouse,Visakhapatnam,Andhra Pradesh,Historical,4.4,8.4478,Oct-Mar
+1711,Thotlakonda Buddhist Complex,Visakhapatnam,Andhra Pradesh,Historical,4.3,6.948,Oct-Mar
+1712,Bavikonda Monastery,Visakhapatnam,Andhra Pradesh,Historical,4.1,6.675,Oct-Mar
+1713,Indira Gandhi Zoological Park,Visakhapatnam,Andhra Pradesh,Wildlife,4.2,8.8408,Nov-Feb
+1714,Kambalakonda Eco Park,Visakhapatnam,Andhra Pradesh,Nature,3.9,7.8746,Jul-Sep
+1715,Hawa Mahal Vizag,Visakhapatnam,Andhra Pradesh,Historical,3.2,6.6654,Oct-Mar
+1716,Appikonda Beach,Visakhapatnam,Andhra Pradesh,Beach,3.5,9.4854,Mar-Jun
+1717,Gangavaram Beach,Visakhapatnam,Andhra Pradesh,Beach,2.8,6.6643,Mar-Jun
+1718,Vizag Container Terminal View,Visakhapatnam,Andhra Pradesh,Engineering,4.0,8.5827,Oct-Mar
+1719,Bejjipuram Hill,Srikakulam,Andhra Pradesh,Nature,3.4,9.4517,Jul-Sep
+1720,Arasavalli Sun Temple,Srikakulam,Andhra Pradesh,Religious,4.7,7.2104,Oct-Mar
+1721,Srimukhalingam Temple,Srikakulam,Andhra Pradesh,Religious,4.6,6.9186,Oct-Mar
+1722,Kalingapatnam Beach,Srikakulam,Andhra Pradesh,Beach,4.1,6.8557,Mar-Jun
+1723,Salihundam Buddhist Site,Srikakulam,Andhra Pradesh,Historical,4.0,7.4033,Oct-Mar
+1724,Telineelapuram Bird Sanctuary,Srikakulam,Andhra Pradesh,Wildlife,3.8,6.7945,Nov-Feb
+1725,Baruva Beach,Srikakulam,Andhra Pradesh,Beach,3.7,8.5741,Mar-Jun
+1726,Mandraza Beach,Srikakulam,Andhra Pradesh,Beach,3.2,6.6778,Mar-Jun
+1727,Pydithalli Ammavaru Temple,Vizianagaram,Andhra Pradesh,Religious,4.5,8.0239,Oct-Mar
+1728,Vizianagaram Fort,Vizianagaram,Andhra Pradesh,Historical,3.9,9.4909,Oct-Mar
+1729,Gantyada Dam,Vizianagaram,Andhra Pradesh,Engineering,3.5,8.9408,Oct-Mar
+1730,Thatipudi Reservoir,Vizianagaram,Andhra Pradesh,Nature,4.1,8.3425,Jul-Sep
+1731,Raivada Dam,Vizianagaram,Andhra Pradesh,Engineering,3.6,7.4123,Oct-Mar
+1732,Bobbili Fort,Bobbili,Andhra Pradesh,Historical,4.2,8.3686,Oct-Mar
+1733,Bobbili Veena Craft,Bobbili,Andhra Pradesh,Culture,4.4,8.077,Oct-Mar
+1734,Chodavaram Jaggery Market,Anakapalle,Andhra Pradesh,Cuisine,3.8,7.7731,Oct-Mar
+1735,Anakapalle Bellam Market,Anakapalle,Andhra Pradesh,Culture,3.4,6.8838,Oct-Mar
+1736,Bojjannakonda Caves,Sankaram,Andhra Pradesh,Historical,4.3,9.1595,Oct-Mar
+1737,Lingalakonda Caves,Sankaram,Andhra Pradesh,Historical,4.2,7.8444,Oct-Mar
+1738,Kondakarla Ava Lake,Atchutapuram,Andhra Pradesh,Nature,4.0,7.0762,Jul-Sep
+1739,Etikoppaka Toys Village,Etikoppaka,Andhra Pradesh,Culture,4.5,7.5975,Oct-Mar
+1740,Upmaka Venkateswara Temple,Nakkapalle,Andhra Pradesh,Religious,4.4,7.7371,Oct-Mar
+1741,Pavuralakonda Hill,Bheemunipatnam,Andhra Pradesh,Historical,3.9,8.9816,Oct-Mar
+1742,Ghosha Hospital Building,Bheemunipatnam,Andhra Pradesh,Historical,2.5,8.6989,Oct-Mar
+1743,Dutch Cemetery Bheemili,Bheemunipatnam,Andhra Pradesh,Historical,3.4,8.8063,Oct-Mar
+1744,Light House Bheemili,Bheemunipatnam,Andhra Pradesh,Historical,3.6,6.5235,Oct-Mar
+1745,Tagore's View Point,Visakhapatnam,Andhra Pradesh,Nature,3.8,7.7432,Jul-Sep
+1746,Vistadome Train Ride,Vizag-Araku,Andhra Pradesh,Leisure,4.7,7.9394,Oct-Mar
+1747,Tyda Jungle Bells,Araku,Andhra Pradesh,Adventure,4.3,6.5481,Apr-Jun
+1748,Katiki Waterfalls,Araku Valley,Andhra Pradesh,Nature,4.4,7.2725,Jul-Sep
+1749,Chaprai Water Cascade,Araku Valley,Andhra Pradesh,Nature,3.9,8.7792,Jul-Sep
+1750,Coffee Museum Araku,Araku Valley,Andhra Pradesh,Cuisine,4.2,6.9031,Oct-Mar
+1751,National Rail Museum,Delhi,Delhi,Education,4.5,8.1019,Oct-Mar
+1752,National Science Centre,Delhi,Delhi,Science,4.6,7.1382,Oct-Mar
+1753,Shankar's International Dolls Museum,Delhi,Delhi,Culture,4.2,6.5268,Oct-Mar
+1754,National Museum Delhi,Delhi,Delhi,Education,4.6,7.2165,Oct-Mar
+1755,Crafts Museum,Delhi,Delhi,Culture,4.5,9.4282,Oct-Mar
+1756,Nehru Memorial Museum,Delhi,Delhi,Historical,4.6,8.9034,Oct-Mar
+1757,Indira Gandhi Memorial Museum,Delhi,Delhi,Historical,4.5,9.3792,Oct-Mar
+1758,Pradhanmantri Sangrahalaya,Delhi,Delhi,Education,4.7,7.959,Oct-Mar
+1759,National Gallery of Modern Art,Delhi,Delhi,Culture,4.4,6.8207,Oct-Mar
+1760,Sulabh International Museum of Toilets,Delhi,Delhi,Culture,4.0,8.14,Oct-Mar
+1761,Waste to Wonder Park,Delhi,Delhi,Leisure,4.1,7.8582,Oct-Mar
+1762,Bharat Darshan Park,Delhi,Delhi,Leisure,4.2,9.0323,Oct-Mar
+1763,Garden of Five Senses,Delhi,Delhi,Nature,3.8,6.7856,Jul-Sep
+1764,Lodhi Garden,Delhi,Delhi,Nature,4.5,7.9602,Jul-Sep
+1765,Sunder Nursery,Delhi,Delhi,Nature,4.6,6.942,Jul-Sep
+1766,Mughal Garden (Amrit Udyan),Delhi,Delhi,Nature,4.7,7.4678,Jul-Sep
+1767,Safdarjung Tomb,Delhi,Delhi,Historical,4.3,8.7102,Oct-Mar
+1768,Purana Qila (Old Fort),Delhi,Delhi,Historical,4.4,7.9234,Oct-Mar
+1769,Agrasen Ki Baoli,Delhi,Delhi,Historical,4.5,7.6219,Oct-Mar
+1770,Tughlaqabad Fort,Delhi,Delhi,Historical,3.9,7.6779,Oct-Mar
+1771,Feroz Shah Kotla Fort,Delhi,Delhi,Historical,3.7,7.8735,Oct-Mar
+1772,Hauz Khas Village,Delhi,Delhi,Culture,4.4,8.8536,Oct-Mar
+1773,Hauz Khas Fort and Lake,Delhi,Delhi,Historical,4.3,9.176,Oct-Mar
+1774,Chhatarpur Temple,Delhi,Delhi,Religious,4.6,9.3664,Oct-Mar
+1775,Kalkaji Temple,Delhi,Delhi,Religious,4.5,8.8593,Oct-Mar
+1776,Nizamuddin Dargah,Delhi,Delhi,Religious,4.6,7.4399,Oct-Mar
+1777,Gurudwara Bangla Sahib,Delhi,Delhi,Religious,4.8,8.562,Oct-Mar
+1778,Gurudwara Sis Ganj Sahib,Delhi,Delhi,Religious,4.7,7.8077,Oct-Mar
+1779,National Zoological Park Delhi,Delhi,Delhi,Wildlife,4.1,7.257,Nov-Feb
+1780,Okhla Bird Sanctuary,Noida,Uttar Pradesh,Wildlife,3.6,9.0218,Nov-Feb
+1781,Noida Golf Course,Noida,Uttar Pradesh,Leisure,4.2,6.606,Oct-Mar
+1782,Worlds of Wonder,Noida,Uttar Pradesh,Leisure,4.0,9.2051,Oct-Mar
+1783,Botanical Garden Noida,Noida,Uttar Pradesh,Nature,3.7,7.8796,Jul-Sep
+1784,DLF Mall of India,Noida,Uttar Pradesh,Shopping,4.6,8.4086,Oct-Mar
+1785,Brahmaputra Market Noida,Noida,Uttar Pradesh,Cuisine,4.3,8.4753,Oct-Mar
+1786,Isipathana Buddhist Temple,Noida,Uttar Pradesh,Religious,4.1,9.1851,Oct-Mar
+1787,Steller Children's Museum,Gurugram,Haryana,Education,4.4,8.407,Oct-Mar
+1788,Ambience Mall,Gurugram,Haryana,Shopping,4.5,8.3386,Oct-Mar
+1789,Appu Ghar,Gurugram,Haryana,Leisure,3.5,6.691,Oct-Mar
+1790,NeverEnuf Garden Railway,Gurugram,Haryana,Leisure,4.3,8.051,Oct-Mar
+1791,Damdama Lake Resort,Gurugram,Haryana,Adventure,3.4,6.9424,Apr-Jun
+1792,Aravalli Biodiversity Park,Gurugram,Haryana,Nature,4.1,8.7104,Jul-Sep
+1793,Museum of Folk and Tribal Art,Gurugram,Haryana,Culture,3.9,8.0324,Oct-Mar
+1794,Vintage Camera Museum,Gurugram,Haryana,Culture,4.5,8.5382,Oct-Mar
+1795,Farrukhnagar Fort,Gurugram,Haryana,Historical,3.2,6.6158,Oct-Mar
+1796,Sultanpur Lake,Gurugram,Haryana,Nature,4.0,6.7456,Jul-Sep
+1797,Tilyar Mini Zoo,Rohtak,Haryana,Wildlife,3.1,8.6468,Nov-Feb
+1798,Mansi Devi Temple Panchkula,Panchkula,Haryana,Religious,4.6,6.7073,Oct-Mar
+1799,Cactus Garden Panchkula,Panchkula,Haryana,Nature,3.5,6.7048,Jul-Sep
+1800,Yadavindra Gardens Pinjore,Pinjore,Haryana,Nature,4.1,6.5268,Jul-Sep
+1801,Unakoti Hill Ruins,Unakoti,Tripura,Historical,4.6,9.3699,Oct-Mar
+1802,Ujjayanta Palace,Agartala,Tripura,Historical,4.5,8.7106,Oct-Mar
+1803,Neermahal Water Palace,Melaghar,Tripura,Historical,4.4,7.5538,Oct-Mar
+1804,Tripura Sundari Temple,Udaipur,Tripura,Religious,4.7,7.383,Oct-Mar
+1805,Jampui Hills,North Tripura,Tripura,Hill Station,4.2,7.5431,Mar-Jun
+1806,Sepahijala Wildlife Sanctuary,Agartala,Tripura,Wildlife,4.1,8.8224,Nov-Feb
+1807,Chabimura Rock Carvings,Amarpur,Tripura,Historical,4.5,8.4814,Oct-Mar
+1808,Dumboor Lake,Gandacherra,Tripura,Nature,4.3,7.0478,Jul-Sep
+1809,Bhubaneswari Temple,Udaipur,Tripura,Religious,4.0,7.0145,Oct-Mar
+1810,Akhaura Check Post (Flag Ceremony),Agartala,Tripura,Historical,4.2,6.7865,Oct-Mar
+1811,Heritage Park Agartala,Agartala,Tripura,Nature,3.9,8.4782,Jul-Sep
+1812,Fourteen Gods Temple,Agartala,Tripura,Religious,4.1,8.7915,Oct-Mar
+1813,Solomon's Temple,Aizawl,Mizoram,Religious,4.6,7.2882,Oct-Mar
+1814,Durtlang Hills,Aizawl,Mizoram,Nature,4.5,6.5534,Jul-Sep
+1815,Mizoram State Museum,Aizawl,Mizoram,Education,4.0,6.7377,Oct-Mar
+1816,Reiek Tlang,Aizawl,Mizoram,Adventure,4.7,9.4041,Apr-Jun
+1817,Vantawng Falls,Thenzawl,Mizoram,Nature,4.4,7.3798,Jul-Sep
+1818,Thenzawl Golf Resort,Thenzawl,Mizoram,Leisure,4.3,8.8061,Oct-Mar
+1819,Tam Dil Lake,Saitual,Mizoram,Nature,4.1,8.3709,Jul-Sep
+1820,Phawngpui Blue Mountain,Lawngtlai,Mizoram,Adventure,4.6,7.6402,Apr-Jun
+1821,Khomhmun Village,Aizawl,Mizoram,Culture,3.8,7.1095,Oct-Mar
+1822,Murlen National Park,Champhai,Mizoram,Wildlife,4.2,6.8557,Nov-Feb
+1823,Rih Dil Lake (Border),Champhai,Mizoram,Nature,4.5,8.3418,Jul-Sep
+1824,Champhai Vineyards,Champhai,Mizoram,Cuisine,4.1,8.8224,Oct-Mar
+1825,Kachari Ruins,Dimapur,Nagaland,Historical,3.6,8.4288,Oct-Mar
+1826,Diezephe Craft Village,Dimapur,Nagaland,Culture,4.2,8.0868,Oct-Mar
+1827,Triple Falls,Dimapur,Nagaland,Nature,3.9,6.6166,Jul-Sep
+1828,Nagaland Zoological Park,Dimapur,Nagaland,Wildlife,3.4,9.406,Nov-Feb
+1829,Chumukedima Hill View,Dimapur,Nagaland,Nature,3.7,8.8949,Jul-Sep
+1830,Intanki National Park,Peren,Nagaland,Wildlife,4.1,7.3719,Nov-Feb
+1831,Benreu Village,Peren,Nagaland,Culture,4.3,9.4405,Oct-Mar
+1832,Mt Pauna,Peren,Nagaland,Adventure,4.4,8.3023,Apr-Jun
+1833,Wokha Village,Wokha,Nagaland,Culture,4.0,8.2437,Oct-Mar
+1834,Mount Tiyi,Wokha,Nagaland,Nature,4.2,8.7424,Jul-Sep
+1835,Doyang River & Dam,Wokha,Nagaland,Engineering,4.3,8.9342,Oct-Mar
+1836,Phek Town,Phek,Nagaland,Nature,3.9,8.4667,Jul-Sep
+1837,Shilloi Lake,Phek,Nagaland,Nature,4.4,6.8759,Jul-Sep
+1838,Khezhakeno Village,Phek,Nagaland,Culture,4.1,7.5087,Oct-Mar
+1839,Tuensang Village,Tuensang,Nagaland,Culture,3.5,9.2843,Oct-Mar
+1840,Longwa Village (Mon),Mon,Nagaland,Culture,4.6,7.1665,Oct-Mar
+1841,Mon Town View Point,Mon,Nagaland,Nature,4.1,7.6107,Jul-Sep
+1842,Shangnyu Village,Mon,Nagaland,Culture,4.2,7.7911,Oct-Mar
+1843,Ungma Village,Mokokchung,Nagaland,Culture,4.3,7.8132,Oct-Mar
+1844,Longkhum Village,Mokokchung,Nagaland,Culture,4.4,8.3356,Oct-Mar
+1845,Mokokchung District Museum,Mokokchung,Nagaland,Education,3.4,9.3295,Oct-Mar
+1846,Zunheboto Sumi Baptist Church,Zunheboto,Nagaland,Religious,4.5,7.2149,Oct-Mar
+1847,Sumi Heritage Village,Zunheboto,Nagaland,Culture,4.0,6.8561,Oct-Mar
+1848,Mount Saramati,Kiphire,Nagaland,Adventure,4.7,7.0848,Apr-Jun
+1849,Naukho Village,Kiphire,Nagaland,Culture,3.2,9.1604,Oct-Mar
+1850,Nagaland State Museum,Kohima,Nagaland,Education,4.1,8.4345,Oct-Mar
+1851,Agatti Island,Lakshadweep,Lakshadweep,Beach,4.7,7.351,Mar-Jun
+1852,Bangaram Atoll,Lakshadweep,Lakshadweep,Beach,4.8,8.9468,Mar-Jun
+1853,Thinnakara Island,Lakshadweep,Lakshadweep,Nature,4.6,9.0835,Jul-Sep
+1854,Kavaratti Marine Aquarium,Lakshadweep,Lakshadweep,Science,3.8,9.0388,Oct-Mar
+1855,Minicoy Lighthouse,Lakshadweep,Lakshadweep,Historical,4.5,9.2568,Oct-Mar
+1856,Kalpeni Coral Reef,Lakshadweep,Lakshadweep,Adventure,4.7,7.2497,Apr-Jun
+1857,Kadmat Island Beach,Lakshadweep,Lakshadweep,Beach,4.6,8.7634,Mar-Jun
+1858,Pitti Bird Sanctuary,Lakshadweep,Lakshadweep,Wildlife,4.3,7.8768,Nov-Feb
+1859,Jubilee Park,Jamshedpur,Jharkhand,Nature,4.4,9.0252,Jul-Sep
+1860,Tata Steel Zoological Park,Jamshedpur,Jharkhand,Wildlife,4.0,8.6835,Nov-Feb
+1861,Dimna Lake,Jamshedpur,Jharkhand,Nature,4.2,8.8278,Jul-Sep
+1862,Dalma Wildlife Sanctuary,Jamshedpur,Jharkhand,Wildlife,4.3,8.4657,Nov-Feb
+1863,Hudco Lake,Jamshedpur,Jharkhand,Nature,3.7,7.0245,Jul-Sep
+1864,Bhuvaneshwari Temple Jamshedpur,Jamshedpur,Jharkhand,Religious,4.5,8.1311,Oct-Mar
+1865,Russie Modi Centre of Excellence,Jamshedpur,Jharkhand,Culture,4.6,9.4547,Oct-Mar
+1866,Jayanti Sarovar,Jamshedpur,Jharkhand,Nature,3.8,9.3124,Jul-Sep
+1867,Chandil Dam,Jamshedpur,Jharkhand,Engineering,4.1,6.6203,Oct-Mar
+1868,Marine Drive Jamshedpur,Jamshedpur,Jharkhand,Leisure,3.9,6.9865,Oct-Mar
+1869,Pahari Mandir,Ranchi,Jharkhand,Religious,4.4,6.8869,Oct-Mar
+1870,Jagannath Temple Ranchi,Ranchi,Jharkhand,Religious,4.6,8.6759,Oct-Mar
+1871,Rock Garden Ranchi,Ranchi,Jharkhand,Nature,3.6,8.9523,Jul-Sep
+1872,Tagore Hill Ranchi,Ranchi,Jharkhand,Historical,4.1,7.1331,Oct-Mar
+1873,Dassam Falls,Ranchi,Jharkhand,Nature,4.5,8.0132,Jul-Sep
+1874,Hundru Falls,Ranchi,Jharkhand,Nature,4.6,9.0213,Jul-Sep
+1875,Jonha Falls,Ranchi,Jharkhand,Nature,4.4,8.6964,Jul-Sep
+1876,Panchghagh Falls,Khunti,Jharkhand,Nature,4.3,8.1227,Jul-Sep
+1877,Hirni Falls,Khunti,Jharkhand,Nature,4.2,8.2676,Jul-Sep
+1878,Birsa Zoological Park,Ranchi,Jharkhand,Wildlife,4.1,8.0208,Nov-Feb
+1879,Patratu Valley,Ramgarh,Jharkhand,Nature,4.7,7.3861,Jul-Sep
+1880,Patratu Dam,Ramgarh,Jharkhand,Engineering,4.4,8.1913,Oct-Mar
+1881,Rajrappa Temple,Ramgarh,Jharkhand,Religious,4.6,8.5642,Oct-Mar
+1882,Netarhat Sunset Point,Latehar,Jharkhand,Nature,4.5,9.1195,Jul-Sep
+1883,Magnolia Point,Netarhat,Jharkhand,Nature,4.4,8.4059,Jul-Sep
+1884,Upper Ghaghri Falls,Netarhat,Jharkhand,Nature,4.1,8.7817,Jul-Sep
+1885,Lower Ghaghri Falls,Netarhat,Jharkhand,Nature,4.0,6.9722,Jul-Sep
+1886,Lodh Falls (Burha Falls),Latehar,Jharkhand,Nature,4.6,7.8798,Jul-Sep
+1887,Betla National Park,Latehar,Jharkhand,Wildlife,4.3,6.5184,Nov-Feb
+1888,Palamau Fort,Latehar,Jharkhand,Historical,4.2,7.2329,Oct-Mar
+1889,Shikharji (Parashnath),Giridih,Jharkhand,Religious,4.8,8.6774,Oct-Mar
+1890,Madhuban Jain Temples,Giridih,Jharkhand,Religious,4.6,9.4762,Oct-Mar
+1891,Usri Falls,Giridih,Jharkhand,Nature,3.9,6.7889,Jul-Sep
+1892,Khandoli Park,Giridih,Jharkhand,Adventure,3.7,7.699,Apr-Jun
+1893,Maithon Dam,Dhanbad,Jharkhand,Engineering,4.4,8.899,Oct-Mar
+1894,Panchet Dam,Dhanbad,Jharkhand,Engineering,4.1,7.1046,Oct-Mar
+1895,Topchanchi Lake,Dhanbad,Jharkhand,Nature,3.8,8.1614,Jul-Sep
+1896,Baidyanath Dham,Deoghar,Jharkhand,Religious,4.8,8.6973,Oct-Mar
+1897,Tapovan Caves,Deoghar,Jharkhand,Religious,4.1,8.3448,Oct-Mar
+1898,Naulakha Temple,Deoghar,Jharkhand,Religious,4.4,7.0564,Oct-Mar
+1899,Trikut Pahar Ropeway,Deoghar,Jharkhand,Adventure,2.5,7.5602,Apr-Jun
+1900,Satsang Ashram Deoghar,Deoghar,Jharkhand,Religious,4.5,8.8499,Oct-Mar
+1901,National War Memorial,Delhi,Delhi,Historical,4.7,8.1588,Oct-Mar
+1902,Bharat Mandapam (IECC),Delhi,Delhi,Engineering,4.6,6.5061,Oct-Mar
+1903,Kartavya Path,Delhi,Delhi,Historical,4.5,8.7813,Oct-Mar
+1904,Prithvi Raj Chauhan Fort,Hansi,Haryana,Historical,3.4,6.5966,Oct-Mar
+1905,Asigarh Fort,Hansi,Haryana,Historical,3.2,8.7354,Oct-Mar
+1906,Loharu Fort Ruins,Bhiwani,Haryana,Historical,2.1,7.0999,Oct-Mar
+1907,Tosham Rock Inscriptions,Bhiwani,Haryana,Historical,3.6,9.3746,Oct-Mar
+1908,Ancient Mound Agroha,Hisar,Haryana,Historical,4.1,7.598,Oct-Mar
+1909,Lat Ki Masjid,Hisar,Haryana,Historical,3.8,7.4746,Oct-Mar
+1910,Hisar-i-Firoza Fort,Hisar,Haryana,Historical,3.5,6.9385,Oct-Mar
+1911,Guajari Mahal,Hisar,Haryana,Historical,3.9,7.4103,Oct-Mar
+1912,Tomb of Sheikh Chilli,Thanesar,Haryana,Historical,4.2,9.1295,Oct-Mar
+1913,Brahma Sarovar Ghats,Kurukshetra,Haryana,Religious,4.5,9.4898,Oct-Mar
+1914,Sannihit Sarovar,Kurukshetra,Haryana,Religious,4.3,7.5991,Oct-Mar
+1915,Krishna Museum,Kurukshetra,Haryana,Education,4.1,7.8409,Oct-Mar
+1916,Science Panorama,Kurukshetra,Haryana,Science,3.8,8.6641,Oct-Mar
+1917,Dharohar Museum,Kurukshetra,Haryana,Culture,4.4,9.1582,Oct-Mar
+1918,Sheikh Musa Tomb,Nuh,Haryana,Historical,2.5,8.2757,Oct-Mar
+1919,Kotla Lake,Nuh,Haryana,Nature,2.8,7.669,Jul-Sep
+1920,Chui Mai Pond,Nuh,Haryana,Nature,1.8,7.7325,Jul-Sep
+1921,Parontha Gali,Delhi,Delhi,Cuisine,4.4,8.5845,Oct-Mar
+1922,Majnu ka Tilla (Tibetan Colony),Delhi,Delhi,Culture,4.3,6.5,Oct-Mar
+1923,Sanjay Lake Park,Delhi,Delhi,Nature,3.5,8.3556,Jul-Sep
+1924,Bhardwaj Lake,Delhi,Delhi,Adventure,3.2,7.5605,Apr-Jun
+1925,Asola Bhatti Wildlife Sanctuary,Delhi,Delhi,Wildlife,3.9,8.8813,Nov-Feb
+1926,National Police Memorial,Delhi,Delhi,Historical,4.5,6.7703,Oct-Mar
+1927,Kalyani Fort,Bidar,Karnataka,Historical,4.2,8.2611,Oct-Mar
+1928,Madrasa Mahmud Gawan,Bidar,Karnataka,Education,4.1,7.9383,Oct-Mar
+1929,Chaukhandi of Hazrat Khalil Ullah,Bidar,Karnataka,Historical,3.8,8.4241,Oct-Mar
+1930,Bidar Fort Gateways,Bidar,Karnataka,Historical,4.0,6.6856,Oct-Mar
+1931,Bahmani Tombs,Ashtur,Karnataka,Historical,4.3,8.2364,Oct-Mar
+1932,Papnash Shiva Temple,Bidar,Karnataka,Religious,4.2,8.1807,Oct-Mar
+1933,Narasimha Jhira Cave Temple,Bidar,Karnataka,Religious,4.4,8.1782,Oct-Mar
+1934,Kittur Chennamma Fort,Kittur,Karnataka,Historical,3.9,8.3071,Oct-Mar
+1935,Belgaum Fort,Belagavi,Karnataka,Historical,4.1,8.5268,Oct-Mar
+1936,Kamal Basadi Jain Temple,Belagavi,Karnataka,Religious,4.3,8.9138,Oct-Mar
+1937,Gokak Falls,Belagavi,Karnataka,Nature,4.5,7.3026,Jul-Sep
+1938,Godchinamalaki Falls,Belagavi,Karnataka,Nature,4.1,8.9742,Jul-Sep
+1939,Hidkal Dam,Belagavi,Karnataka,Engineering,3.7,7.9903,Oct-Mar
+1940,Naviltirtha Dam,Belagavi,Karnataka,Engineering,3.5,6.7223,Oct-Mar
+1941,Saundatti Yellamma Temple,Belagavi,Karnataka,Religious,4.6,6.6666,Oct-Mar
+1942,Sogi Ground,Sirsi,Karnataka,Nature,3.2,7.4965,Jul-Sep
+1943,Sahasralinga,Sirsi,Karnataka,Religious,4.5,8.8533,Oct-Mar
+1944,Unchalli Falls,Sirsi,Karnataka,Nature,4.6,8.6208,Jul-Sep
+1945,Magod Falls,Yellapur,Karnataka,Nature,4.4,8.8645,Jul-Sep
+1946,Sathodi Falls,Yellapur,Karnataka,Nature,4.5,8.0476,Jul-Sep
+1947,Kavala Caves,Dandeli,Karnataka,Adventure,4.2,7.8155,Apr-Jun
+1948,Syntheri Rocks,Dandeli,Karnataka,Nature,4.3,6.9342,Jul-Sep
+1949,Dandeli River Rafting,Dandeli,Karnataka,Adventure,4.7,7.4783,Apr-Jun
+1950,Anshi National Park,Uttara Kannada,Karnataka,Wildlife,4.1,7.7969,Nov-Feb
+1951,Sadashivgad Fort,Karwar,Karnataka,Historical,3.4,6.757,Oct-Mar
+1952,Rabindranath Tagore Beach,Karwar,Karnataka,Beach,4.2,7.1545,Mar-Jun
+1953,Kurumgad Island,Karwar,Karnataka,Nature,4.4,8.2913,Jul-Sep
+1954,Warship Museum Karwar,Karwar,Karnataka,Education,4.5,8.7051,Oct-Mar
+1955,Idagunji Ganapathi Temple,Honnavar,Karnataka,Religious,4.6,9.4959,Oct-Mar
+1956,Apsarakonda Falls & Beach,Honnavar,Karnataka,Nature,4.3,9.2995,Jul-Sep
+1957,Mirjan Fort,Kumta,Karnataka,Historical,4.5,8.4248,Oct-Mar
+1958,Yana Caves & Rocks,Kumta,Karnataka,Nature,4.6,7.7585,Jul-Sep
+1959,Vibhuti Falls,Kumta,Karnataka,Nature,4.4,8.4055,Jul-Sep
+1960,Murudeshwar Statue,Murudeshwar,Karnataka,Religious,4.7,8.8555,Oct-Mar
+1961,Netrani Island Scuba,Murudeshwar,Karnataka,Adventure,4.6,6.8466,Apr-Jun
+1962,Bhatkal Light House,Bhatkal,Karnataka,Historical,3.8,7.7243,Oct-Mar
+1963,Koliwada Fish Market,Mumbai,Maharashtra,Cuisine,4.1,9.0186,Oct-Mar
+1964,Zaveri Bazaar,Mumbai,Maharashtra,Shopping,4.2,7.6459,Oct-Mar
+1965,Mangaldas Market,Mumbai,Maharashtra,Shopping,3.7,8.212,Oct-Mar
+1966,Dharavi Craft Tours,Mumbai,Maharashtra,Culture,4.4,8.2598,Oct-Mar
+1967,Sewri Flamingo Point,Mumbai,Maharashtra,Wildlife,4.1,7.0457,Nov-Feb
+1968,Mahim Nature Park,Mumbai,Maharashtra,Nature,3.4,7.5808,Jul-Sep
+1969,Worli Koliwada Village,Mumbai,Maharashtra,Culture,3.9,7.4974,Oct-Mar
+1970,Global Pagoda Museum,Mumbai,Maharashtra,Education,4.2,6.5692,Oct-Mar
+1971,Vajreshwari Hot Springs,Thane,Maharashtra,Nature,3.1,6.5631,Jul-Sep
+1972,Ganeshpuri Temple,Thane,Maharashtra,Religious,4.4,8.9942,Oct-Mar
+1973,Upvan Lake,Thane,Maharashtra,Leisure,4.2,7.3124,Oct-Mar
+1974,Yeoor Hills,Thane,Maharashtra,Nature,3.8,8.05,Jul-Sep
+1975,Tansa Wildlife Sanctuary,Thane,Maharashtra,Wildlife,3.5,7.3896,Nov-Feb
+1976,Bhatsa Dam,Shahapur,Maharashtra,Engineering,3.7,9.3223,Oct-Mar
+1977,Mahuli Fort,Shahapur,Maharashtra,Adventure,4.4,7.2709,Apr-Jun
+1978,Gorakhgad Fort,Murbad,Maharashtra,Adventure,4.5,7.7838,Apr-Jun
+1979,Sidhhagadh Fort,Murbad,Maharashtra,Historical,3.2,9.1177,Oct-Mar
+1980,Naneghat Ancient Pass,Junnar,Maharashtra,Historical,4.6,9.025,Oct-Mar
+1981,Lenyadri Caves,Junnar,Maharashtra,Religious,4.5,7.0506,Oct-Mar
+1982,Ozar Vighnahar Ganpati,Junnar,Maharashtra,Religious,4.6,8.9067,Oct-Mar
+1983,Malshej Falls,Thane-Ahmednagar,Maharashtra,Nature,4.4,7.8697,Jul-Sep
+1984,Pimpalgaon Joga Dam,Malshej,Maharashtra,Engineering,4.1,7.9443,Oct-Mar
+1985,Harishchandragad Kokankada,Ahmednagar,Maharashtra,Nature,4.7,6.8922,Jul-Sep
+1986,Kalsubai Temple,Igathpuri,Maharashtra,Religious,4.5,6.733,Oct-Mar
+1987,Bhavali Dam,Igatpuri,Maharashtra,Engineering,4.2,8.6818,Oct-Mar
+1988,Vaitarna Dam,Igatpuri,Maharashtra,Engineering,4.0,7.9849,Oct-Mar
+1989,Tringalwadi Fort,Igatpuri,Maharashtra,Historical,3.6,7.8055,Oct-Mar
+1990,Camel Valley View,Igatpuri,Maharashtra,Nature,4.1,8.6865,Jul-Sep
+1991,Ghatandevi Temple,Igatpuri,Maharashtra,Religious,4.3,8.7949,Oct-Mar
+1992,Sula Vineyards Tasting Room,Nashik,Maharashtra,Cuisine,4.6,6.9687,Oct-Mar
+1993,York Winery,Nashik,Maharashtra,Leisure,4.4,8.3274,Oct-Mar
+1994,Soma Vine Village,Nashik,Maharashtra,Leisure,4.5,6.8978,Oct-Mar
+1995,Trimbakeshwar Ghats,Trimbak,Maharashtra,Religious,4.6,8.7524,Oct-Mar
+1996,Anjaneri Hill (Hanuman Birth),Nashik,Maharashtra,Religious,4.4,8.4681,Oct-Mar
+1997,Harihar Fort (Staircase),Nashik,Maharashtra,Adventure,4.7,9.3702,Apr-Jun
+1998,Baswant Garden,Nashik,Maharashtra,Nature,3.5,6.6979,Jul-Sep
+1999,Dugarwadi Waterfall,Nashik,Maharashtra,Nature,4.2,6.6621,Jul-Sep
+2000,Gangapur Dam,Nashik,Maharashtra,Engineering,3.9,7.3398,Oct-Mar
