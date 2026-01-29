@@ -1,7 +1,7 @@
 # 🌍 Tourism Recommendation System
 
 ## 📌 Project Overview
-The Tourism Recommendation System is an AI-based project that suggests travel destinations based on user preferences. The system focuses on providing personalized recommendations by analyzing factors such as destination type, budget, season, and activities.
+The Tourism Recommendation System is an AI-based project that suggests travel destinations based on user preferences. The system focuses on providing personalized recommendations by analyzing factors such as destination type, season, and activities.
 
 Initially, a traditional machine learning content-based filtering approach was implemented. To improve accuracy and overcome limitations of the ML model, an Artificial Neural Network (ANN) was later integrated using the same feature set.
 
