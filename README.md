@@ -53,5 +53,6 @@ Initially, a traditional machine learning content-based filtering approach was i
 
 ---
 
-## 📂 Project Structure
+## 👤 Author
+- Omkar Manoj Kulkarni
 
