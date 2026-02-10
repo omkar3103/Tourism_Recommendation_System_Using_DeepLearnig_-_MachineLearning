@@ -1,4 +1,4 @@
-# Tourism Recommendation System using Deep Learnin
+# Tourism Recommendation System using Deep Learning
 
 ## 📌 Overview
 This directory contains my deep learning experiments and projects, focusing on
